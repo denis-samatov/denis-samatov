@@ -75,23 +75,31 @@
   </a>
 </p>
 
-### 👔 Work experience
-* Sberbank, [Sber Robotics Lab](https://www.sberbank.ru) / NLP Multimodal Researcher (Feb 2024 - Present)
-  - Developed a FeedBack Module for evaluating the execution of actions in the environment (Video-Text Retrieval - SFT CLIP, ViClip, VideoLlava, VideoMamba).
-* Sberbank, [Sber AmazMe](https://www.sberbank.ru) / Research Data Scientist / Recommender Systems (Jun 2022 - Feb 2024):
-  - Active participation in deploying algorithms into production operation
-  - Conducting and analyzing A/B tests
-  - Reading papers from RecSys conferences, participating in the internal reading club
-  - Managed to significantly improve the recommendations: preprocessing and filtering of data,
-optimization of model training
-* Sberbank, [Sber AI](https://www.sberbank.ru) / Research Assistant (Jan 2022 - Nov 2022)
-  - Conducted an analysis of advanced scientific papers on the problem of predicting travel time
-  - Developed graph algorithms for travel time estimation, improved predictions quality by 11%
-  - Published research paper TTE on GNN for the JBD ”Journal of Big Data”
-* Sberbank, [Sber Devices](https://www.sberbank.ru) / Data Science Intern (Oct 2021 - Jan 2022)
-  - Research in the field of neuromorphic artificial intelligence and cognitive systems of the brain
-  - Developed a binary classifier of Covid19 diseases in humans based on data from an electromagnetic
-cap with sensors
+### 👔 Work Experience
+
+* **Moscow Government University (MGUU)**, Data Analytics and Machine Learning Specialist (04.2024 - Presen)
+
+* **Cardiology Research Institute** / Worked on an algorithm for automatic segmentation of medical CT and MRI heart images (03.2021 - 05.2023)
+  - Developed an algorithm representing a comprehensive process for processing medical heart images, from preprocessing and segmentation to ROI extraction and post-processing, using statistical and mathematical image analysis methods. My algorithm demonstrated a 40% increase in image processing speed while maintaining segmentation accuracy at 70%.
+  - Compiled a dataset for training neural networks for segmentation.
+  - Trained Unet / Attention UNet models for medical image segmentation, achieving segmentation accuracy of over 80%.
+  - Applied texture analysis methods to identify pathologies using radiomics. My research showed that this approach allows for a 15% increase in diagnostic accuracy and improves the detection of hidden pathologies at early stages of development.
+  - Developed an application with two methods of automatic segmentation and the ability for manual ROI correction, which increased the efficiency of doctors' work.
+
+* **Joint Institute for Nuclear Research (JINR)** / During my work at JINR, I participated in a project on developing an algorithm for particle track reconstruction at the accelerator (06.2023 - 08.2023)
+  - Optimized the particle track reconstruction algorithm at the accelerator to increase processing speed and improve track reconstruction quality. The optimization increased the speed of the particle track reconstruction algorithm by 25%.
+  - Developed machine learning algorithms to improve the analysis of multiple particle tracks in the beam, which enhanced the efficiency and accuracy of the reconstruction process by 12%.
+
+* **Fintech Association** / Actively participated in the development of a prompt generator presented at the Finopolis 2023 event (08.2023 - 11.2023)
+  - My main task was to compile a Russian-language financial dataset and select optimal machine learning models for application in the project.
+  - Reduced time for data preparation and cleaning by 25% by automating the data collection and processing process.
+  - Improved prompt creation accuracy by 30% compared to previous models using YandexGPT and Gigachat APIs.
+  - Reduced the number of false positives in the algorithm for selecting banking offers by 20% by more accurately selecting the architecture and training ruGPT 3.5 models using LoRA.
+  - During the work, I tested various machine learning models to evaluate their performance and suitability for integration into the prompt generator.
+
+* **TUSUR | LPMiTF** / Participated in a project on the development of recommendation systems at the Cardiology Research Institute based on machine learning methods in the field of radiology (06.2023 - 12.2023)
+  - Responsible for collecting, cleaning, and analyzing medical data, ensuring its accuracy and reliability for subsequent analysis. Reduced time by 30% by automating the data cleaning process.
+  - Developed predictive models and recommendation algorithms based on processed data using various machine learning methods. Improved prediction accuracy by 25% compared to previous models.
 
 
 ### 📜 Publications
