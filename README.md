@@ -8,11 +8,12 @@
 
 **Fields of interest:** CV,  RL, RecSys, Transformers, NLP/LLM
 
+**BIO:** I'm a passionate data scientist with a knack for predictive analytics, specializing in neural networks (CV) and LLM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning, computer vision and possess the requisite mathematical prowess. 
+
 ### 📱 Social Media
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SamatovDS)
 [![VK Badge](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/s270374)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denissamatov470@gmail.com)
-
 </br>
 
 ### 📊 ML stack
@@ -57,20 +58,20 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 
-    <a href="https://opencv.org" target="_blank"> 
+  <a href="https://opencv.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/>
   </a>
 
-  <a href="https://github.com/huggingface/transformers/tree/main/examples/research_projects/seq2seq" target="_blank"> 
+  <a href="https://sbert.net" target="_blank"> 
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="sequence-transformers" width="40" height="40"/>
   </a>
 
   <a href="https://gym.openai.com" target="_blank"> 
-    <img src="https://gym.openai.com/assets/dist/home/header_logo.svg" alt="gym-openai" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTocT9alaIProFAy4sDviN3huS3y00MubFvyA&s" alt="gym-openai" width="60" height="40"/>
   </a>
 
   <a href="https://www.pettingzoo.ml" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Farama-Foundation/PettingZoo/master/docs/source/_static/img/logo.png" alt="pettingzoo" width="40" height="40"/>
+    <img src="https://pettingzoo.farama.org/_images/pettingzoo-text.png" alt="pettingzoo" width="80" height="40"/>
   </a>
 </p>
 
@@ -92,52 +93,47 @@ optimization of model training
   - Developed a binary classifier of Covid19 diseases in humans based on data from an electromagnetic
 cap with sensors
 
-### 🎉 Funding
-* Support program of commercially oriented researches ”UMNIK” (NUST MISIS / Sber Robotics Lab)
-  - Learning LLM models for the tasks of robotic manipulation 2022-2023 | [Video](https://youtu.be/nEf-FpTRtWY?feature=shared) | [Poster](https://drive.google.com/file/d/1HReiigDUFmA6hkYgQiXs0YM1OnwR_uRf/view?usp=sharing) | (6500$ award)
 
 ### 📜 Publications
-* [GCT-TTE: Graph Convolutional Transformer for Travel Time Estimation](https://www.researchgate.net/publication/371375863_GCT-TTE_Graph_Convolutional_Transformer_for_Travel_Time_Estimation) 2023
+
+1. [Саматов Д.С. Методы машинного обучения в радиомике для анализа кардиоваскулярных изображений](http://sopromat.imm.uran.ru/kungurka/Proceedings-2023.pdf)  
+   **Источник:** Современные проблемы математики и ее приложений: материалы Международной (54-й всероссийской) молодежной школы-конференции, Февраль 2023.
+
+2. [Саматов Д.С., Мочула А.В. Методы машинного обучения в радиомике для анализа кардиоваскулярных изображений](https://conf-prfn.org/Arch/Proceedings_2023_vol_3.pdf)  
+   **Источник:** Перспективы развития фундаментальных наук: материалы Международной ХХ конференции студентов, аспирантов и молодых ученых, Апрель 2023.
+
+3. [Samatov Denis, Shandov Mikhail. Beam parameters restoration at the NICA accelerator complex based on the beam position monitor data](https://students.jinr.ru/uploads/report_files/report_student_1844_project_274.pdf)  
+   **Источник:** START, Joint Institute for Nuclear Research, Dubna, 2023.
+
+4. [Саматов Д.С. Автоматическая сегментация эпикардиального жира и количественная оценка радиомических параметров при компьютерной томографии сердца](https://conf-prfn.org/Arch/Proceedings_2024_vol_3.pdf)  
+   **Источник:** Перспективы развития фундаментальных наук: материалы Международной XXI конференции студентов, аспирантов и молодых ученых, Апрель 2024.
+
+5. [Максимова А.С., Саматов Д.С. и др. Возможности радиомического анализа МРТ изображений сердца в кино-режиме в определении постинфарктных областей миокарда левого желудочка](https://www.researchgate.net/publication/371375863_GCT-TTE_Graph_Convolutional_Transformer_for_Travel_Time_Estimation)  
+   **Источник:** Digital Diagnostics. Статус: статья на рецензировании.
+
+6. [Саматов Д.С. Автоматическая сегментация эпикардиального жира и количественная оценка радиомических параметров при компьютерной томографии сердца]()  
+   **Статус:** подготовка рукописи.
+
 
 ### 🎓 Education
-* [NUST MISIS Applied Maths B.S](https://en.misis.ru) (Since 2020)
-* [Deep Learning School](https://dls.samcs.ru/) (2020 - 2021)
-* [Summer with AIRI 2023](https://airi.net/ru/summer-school-2023/) (2023) | [Project](https://github.com/Yessense/llm_planning) | [Habr Paper](https://habr.com/en/companies/airi/articles/764102/)
-* [Samsung Research Stepik ML Course](https://stepik.org/course/50352) (2018 - 2020) [Diploma](https://stepik.org/cert/1243342)
-* [Stepik Functional Analysis](https://stepik.org/course/93462) (2018 - 2020) [Diploma](https://stepik.org/cert/2019591)
-* [Sports programming ACM MISIS](https://vk.com/acmmisis) (2020 - 2021) 
-* [Basic administration ОС Linux Special Edition](https://astralinux.ru/) (2022) [Diploma](https://drive.google.com/file/d/1io6xJUEp9u91yo7ykjjCdOXGp1rRcMRZ/view?usp=sharing)
-  
+* [Applied mathematics and computer science B.S](https://tpu.ru/en/) (Since 2020)
+* [Samsung Research Stepik ML Course](https://stepik.org/course/50352) (2021)
+* [Tomsk Polytechnic University Artificial Intelligence and Neural Networks](https://tpu.ru/) (2022)
+* [Introduction to Data Science and Machine Learning](https://stepik.org/course/4852/syllabus) (2022)
+* [Stepik Deep Learning School: Advanced Stream](https://stepik.org/course/50352) (2022 - 2023)
+* [Basics of statistics. Part 1,2,3](https://stepik.org/course/76/syllabus) (2022 - 2023)
+* [JINR Student Advanced Research Training](https://jinr.ru/en/) (07.2023 - 08.2023)
+* [JINR Autumn School on Information Technologies](https://jinr.ru/en/) (2023)
+* [Hugging Face NLP Course](https://huggingface.co/course/nlp) (2023)
+
 
 ### 🏆 Competition and Hackathons Background
-* 🥇 [Цифровой прорыв: сезон ИИ](https://hacks-ai.ru/) "Video Recommendation System for RuTube" 2023 | [Solution](https://github.com/komtriangle/AI_Knowledge_Club_DP) | [Diploma](https://drive.google.com/file/d/1dhiFn2fJ8Kv2wYxHJgC7fEX8LPgae8aP/view?usp=sharing) | (5000$ award)
-* 🥇 [Agora Hackathon](https://hackathon.agora.ru/) "Service for marketplace using AI" 2022 | [Solution](https://github.com/badbadnotgoood/agora-hack) | [Diploma](https://drive.google.com/file/d/1Qz2uGKlbbQx05G6mNyId5xrVyoWaoTpk/view?usp=sharing) | (2500$ award)
-*
+* 🏆 [Специальная номинация НТО](https://nnov.hse.ru/news/edu/915136736.html) "Технологии компьютерного зрения и цифровые сервисы"
+* 🏅 [Призер хакатона МФТИ](https://cogmodel.mipt.ru/iprofitrack2) по искусственному интеллекту, математике и физике
+* 🎖️ Финалист молодежной программы [FINIPOLIS.365](https://365.finopolis.ru/)
+* 🥇 Победитель трека "Искусственный интеллект и машинное обучение" хакатона [FINODays](https://365.finopolis.ru/finodays/)
 
- 🥇 [RuCode Festival](https://rucode.net/) "Neural networks" 2020 [Solution](https://drive.google.com/file/d/1NyMN1X17b_Hh-9S9E25PTeCwq-nh6G04/view?usp=sharing) | [Diploma](https://drive.google.com/file/d/1zjAV4HtB1tTboS-8ApCTRFkQmfO11fzi/view?usp=sharing) | (1200$ award)
-* 🥇 [MegaHack](https://megahack.tech/) "Neuronet's challenge" 2021 | [Diploma](https://drive.google.com/file/d/1IOh7_G-pbzDW9kHRpYW1tUn1ATPAjmiQ/view?usp=sharing) | (1000$ award)
 
 ### 📂 Portfolio and repositories
-* Project management and team leader: [Video Recommendation System for RuTube](https://github.com/komtriangle/AI_Knowledge_Club_DP)
-* Developed a ChatBot for SberMegaMarket support: [Bot](https://github.com/Yessense/llm_planning)
-* Developed GCT-TTE: Graph Convolutional Transformer for Travel Time Estimation | [Solution](https://github.com/Yessense/GCT-TTE)
+* [University Work Repository](https://github.com/SamatovDS) - A collection of my academic projects and coursework.
 
-### 📫 How to reach me:
-<p align="left">
-  <a href="https://t.me/Yessense" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/denis-samatov-4b746a254/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:denissamatov2010@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Mail_icon.svg" alt="Email" height="30" width="40" />
-  </a>
-  <a href="https://drive.google.com/file/d/117lfWmSmg5VSPKMNa8FjdUN-3KTXZJqq/view?usp=sharing" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Drive_icon.svg" alt="CV" height="30" width="40" />
-  </a>
-</p>
-
----
-
-Feel free to customize the content and format as you see fit!
