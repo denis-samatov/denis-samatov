@@ -79,12 +79,44 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools:  
 <p align="left"> 
+  <a href="https://www.wolfram.com/mathematica/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/1200px-Mathematica_Logo.svg.png" alt="wolfram" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.mathcad.com/" target="_blank"> 
+    <img src="https://fotometr.ru/wp-content/uploads/2022/01/mathcad-prev.jpg" alt="mathcad" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXQ1m46xneJffxmW-KUmlsX3c-ELLdBM3ww&s" alt="oracle-sql" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="40" height="40"/>
   </a>
   
   <a href="https://github.com/" target="_blank"> 
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
+  </a>
+
+  <a href="https://gitlab.com/" target="_blank"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHFPfsFv5fBfCWD7bqXRfugJKXs1omr_0oA&s" alt="gitlab" width="80" height="40"/>
+  </a>
+
+  <a href="https://www.kaggle.com/" target="_blank"> 
+    <img src="https://www.kaggle.com/static/images/site-logo.png" alt="kaggle" width="80" height="40"/>
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank"> 
@@ -99,35 +131,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
   </a>
   
-  <a href="https://www.wolfram.com/mathematica/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/1200px-Mathematica_Logo.svg.png" alt="wolfram" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.mathcad.com/" target="_blank"> 
-    <img src="https://fotometr.ru/wp-content/uploads/2022/01/mathcad-prev.jpg" alt="mathcad" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.r-project.org/" target="_blank"> 
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXQ1m46xneJffxmW-KUmlsX3c-ELLdBM3ww&s" alt="oracle-sql" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  
   <a href="https://cvat.org/" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSJGmJbpo7Pd_n1U-LISvs2h7iZkJvRdblw&s" alt="cvat" width="80" height="40"/>
   </a>
 </p>
-
 
 
 ### 👔 Work Experience
