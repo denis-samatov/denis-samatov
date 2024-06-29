@@ -10,7 +10,7 @@
 
 ### 📱 Social Media
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SamatovDS)
-[![VK Badge](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/s270374))
+[![VK Badge](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/s270374)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denissamatov470@gmail.com)
 
 </br>
@@ -23,14 +23,6 @@
   
   <a href="https://pytorch.org" target="_blank"> 
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="45" height="45"/>
-  </a>
-  
-   <a href="https://pytorch-geometric.readthedocs.io/en/latest/#" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch-geometric" width="40" height="40"/>
-  </a>
-  
-  <a href="https://networkx.org" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/388785?s=280&v=4" alt="networkx" width="40" height="40"/>
   </a>
 
   <a href="https://huggingface.co" target="_blank"> 
@@ -53,8 +45,8 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" alt="pandas" width="40" height="40"/>
   </a>
   
-  <a href="https://spark.apache.org" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="spark" width="40" height="40"/>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
   </a>
   
   <a href="https://plotly.com" target="_blank"> 
@@ -63,6 +55,22 @@
   
   <a href="https://seaborn.pydata.org" target="_blank"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+
+    <a href="https://opencv.org" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/huggingface/transformers/tree/main/examples/research_projects/seq2seq" target="_blank"> 
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="sequence-transformers" width="40" height="40"/>
+  </a>
+
+  <a href="https://gym.openai.com" target="_blank"> 
+    <img src="https://gym.openai.com/assets/dist/home/header_logo.svg" alt="gym-openai" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.pettingzoo.ml" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/Farama-Foundation/PettingZoo/master/docs/source/_static/img/logo.png" alt="pettingzoo" width="40" height="40"/>
   </a>
 </p>
 
