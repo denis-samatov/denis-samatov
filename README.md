@@ -2,7 +2,8 @@
 ![](https://img.shields.io/github/followers/denis-samatov?style=social)<br>
 ![](https://img.shields.io/github/stars/denis-samatov?style=social)<br>
 
-<h1 align="left">Hello, I'm Denis Samatov!</h1>
+<h1 align="left"> Hello, I'm Denis Samatov! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria hidden="true"width="40"/>
+</h1> 
 
 #### ML Researcher / BSc student at applied mathematics and computer science TPU
 
