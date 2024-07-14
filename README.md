@@ -263,10 +263,10 @@ I am a passionate data scientist and BSc student at TPU, specializing in neural 
 
 
 ### 🏆 Competition and Hackathons Background
-* 🏆 [Специальная номинация НТО](https://nnov.hse.ru/news/edu/915136736.html) "Технологии компьютерного зрения и цифровые сервисы"
-* 🏅 [Призер хакатона МФТИ](https://cogmodel.mipt.ru/iprofitrack2) по искусственному интеллекту, математике и физике
-* 🎖️ Финалист молодежной программы [FINIPOLIS.365](https://365.finopolis.ru/)
-* 🥇 Победитель трека "Искусственный интеллект и машинное обучение" хакатона [FINODays](https://365.finopolis.ru/finodays/)
+- 🏆 **Special Nomination at NTO**: [Computer Vision Technologies and Digital Services](https://nnov.hse.ru/news/edu/915136736.html)
+- 🏅 **Winner at MIPT Hackathon**: [Artificial Intelligence, Mathematics, and Physics](https://cogmodel.mipt.ru/iprofitrack2)
+- 🎖️ **Finalist in FINIPOLIS.365 Youth Program**: [FINIPOLIS.365](https://365.finopolis.ru/)
+- 🥇 **Winner in the "Artificial Intelligence and Machine Learning" Track**: [FINODays Hackathon](https://365.finopolis.ru/finodays/)
 
 
 ### 📂 Portfolio and repositories
