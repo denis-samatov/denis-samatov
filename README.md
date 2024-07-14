@@ -5,164 +5,229 @@
 <h1 align="left"> Hello, I'm Denis Samatov! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria hidden="true"width="40"/>
 </h1> 
 
-#### ML Researcher / BSc student at applied mathematics and computer science TPU
+**About Me:**  
+I am a passionate data scientist and BSc student at TPU, specializing in neural networks (CV) and LLM models. My primary area of work has been in computer vision (CV) within the medical field. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning, computer vision, and the requisite mathematical prowess. My fields of interest include CV, RL, RecSys, Transformers, and NLP/LLM.
 
-**Fields of interest:** CV,  RL, RecSys, Transformers, NLP/LLM
-
-**BIO:** I'm a passionate data scientist with a knack for predictive analytics, specializing in neural networks (CV) and LLM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning, computer vision and possess the requisite mathematical prowess. 
 
 ### 📱 Social Media
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SamatovDS)
-[![VK Badge](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/s270374)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SamatovDS) 
+[![VK Badge](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/s270374) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denissamatov470@gmail.com)
-</br>
 
-### 📊 ML stack
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://pytorch.org" target="_blank"> 
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="45" height="45"/>
-  </a>
 
-  <a href="https://huggingface.co" target="_blank"> 
-    <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
-  </a>
-  
-  <a href="https://wandb.ai/site" target="_blank"> 
-    <img src="https://wandb.ai/logo.png" alt="wandb" width="40" height="40"/>
-  </a>
+### 📊 ML Stack
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+        <br>Python
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org" target="_blank">
+        <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="45" height="45"/>
+        <br>PyTorch
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://huggingface.co" target="_blank">
+        <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
+        <br>Hugging Face
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wandb.ai/site" target="_blank">
+        <img src="https://wandb.ai/logo.png" alt="wandb" width="40" height="40"/>
+        <br>Weights & Biases
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://catboost.ai" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
+        <br>CatBoost
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://optuna.readthedocs.io/en/stable/#" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="optuna" width="40" height="40"/>
+        <br>Optuna
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://pandas.pydata.org" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" alt="pandas" width="40" height="40"/>
+        <br>Pandas
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
+        <br>PySpark
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://plotly.com" target="_blank">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" alt="plotly" width="40" height="40"/>
+        <br>Plotly
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://seaborn.pydata.org" target="_blank">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+        <br>Seaborn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://opencv.org" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/>
+        <br>OpenCV
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://sbert.net" target="_blank">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="sequence-transformers" width="40" height="40"/>
+        <br>Transformers
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://gym.openai.com" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTocT9alaIProFAy4sDviN3huS3y00MubFvyA&s" alt="gym-openai" width="60" height="40"/>
+        <br>OpenAI Gym
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.pettingzoo.ml" target="_blank">
+        <img src="https://pettingzoo.farama.org/_images/pettingzoo-text.png" alt="pettingzoo" width="80" height="40"/>
+        <br>PettingZoo
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://catboost.ai" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
-  </a>
 
-  <a href="https://optuna.readthedocs.io/en/stable/#" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="optuna" width="40" height="40"/>
-  </a>
-  
-  <a href="https://pandas.pydata.org" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" alt="pandas" width="40" height="40"/>
-  </a>
-  
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
-  </a>
-  
-  <a href="https://plotly.com" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" alt="plotly" width="40" height="40"/>
-  </a>
-  
-  <a href="https://seaborn.pydata.org" target="_blank"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-
-  <a href="https://opencv.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/>
-  </a>
-
-  <a href="https://sbert.net" target="_blank"> 
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="sequence-transformers" width="40" height="40"/>
-  </a>
-
-  <a href="https://gym.openai.com" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTocT9alaIProFAy4sDviN3huS3y00MubFvyA&s" alt="gym-openai" width="60" height="40"/>
-  </a>
-
-  <a href="https://www.pettingzoo.ml" target="_blank"> 
-    <img src="https://pettingzoo.farama.org/_images/pettingzoo-text.png" alt="pettingzoo" width="80" height="40"/>
-  </a>
-</p>
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools:  
-<p align="left"> 
-  <a href="https://www.wolfram.com/mathematica/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/1200px-Mathematica_Logo.svg.png" alt="wolfram" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.mathcad.com/" target="_blank"> 
-    <img src="https://fotometr.ru/wp-content/uploads/2022/01/mathcad-prev.jpg" alt="mathcad" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.r-project.org/" target="_blank"> 
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXQ1m46xneJffxmW-KUmlsX3c-ELLdBM3ww&s" alt="oracle-sql" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="40" height="40"/>
-  </a>
-  
-  <a href="https://github.com/" target="_blank"> 
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
-  </a>
-
-  <a href="https://gitlab.com/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHFPfsFv5fBfCWD7bqXRfugJKXs1omr_0oA&s" alt="gitlab" width="80" height="40"/>
-  </a>
-
-  <a href="https://www.kaggle.com/" target="_blank"> 
-    <img src="https://www.kaggle.com/static/images/site-logo.png" alt="kaggle" width="80" height="40"/>
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  
-  <a href="https://stackoverflow.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow" width="40" height="40"/>
-  </a>
-
-  <a href="https://jupyter.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-  
-  <a href="https://cvat.org/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSJGmJbpo7Pd_n1U-LISvs2h7iZkJvRdblw&s" alt="cvat" width="80" height="40"/>
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.wolfram.com/mathematica/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/1200px-Mathematica_Logo.svg.png" alt="wolfram" width="40" height="40"/>
+        <br>Mathematica
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+        <br>MATLAB
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mathcad.com/" target="_blank"> 
+        <img src="https://fotometr.ru/wp-content/uploads/2022/01/mathcad-prev.jpg" alt="mathcad" width="40" height="40"/>
+        <br>Mathcad
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.r-project.org/" target="_blank"> 
+        <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
+        <br>R
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXQ1m46xneJffxmW-KUmlsX3c-ELLdBM3ww&s" alt="oracle-sql" width="40" height="40"/>
+        <br>Oracle SQL
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.postgresql.org/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/>
+        <br>PostgreSQL
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="40" height="40"/>
+        <br>Git
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/" target="_blank"> 
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
+        <br>GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://gitlab.com/" target="_blank"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHFPfsFv5fBfCWD7bqXRfugJKXs1omr_0oA&s" alt="gitlab" width="80" height="40"/>
+        <br>GitLab
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/" target="_blank"> 
+        <img src="https://www.kaggle.com/static/images/site-logo.png" alt="kaggle" width="80" height="40"/>
+        <br>Kaggle
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://code.visualstudio.com/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/>
+        <br>VS Code
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://stackoverflow.com/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow" width="40" height="40"/>
+        <br>Stack Overflow
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jupyter.org/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
+        <br>Jupyter
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://cvat.org/" target="_blank"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSJGmJbpo7Pd_n1U-LISvs2h7iZkJvRdblw&s" alt="cvat" width="80" height="40"/>
+        <br>CVAT
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 👔 Work Experience
 
-* **Moscow Government University (MGUU)**, Data Analytics and Machine Learning Specialist (04.2024 - Presen)
+**Data Analytics and Machine Learning Specialist, Moscow Government University (MGUU)** <br> _April 2024 - Present_
 
-* **Cardiology Research Institute** / Worked on an algorithm for automatic segmentation of medical CT and MRI heart images (03.2021 - 05.2023)
-  - Developed an algorithm representing a comprehensive process for processing medical heart images, from preprocessing and segmentation to ROI extraction and post-processing, using statistical and mathematical image analysis methods. My algorithm demonstrated a 40% increase in image processing speed while maintaining segmentation accuracy at 70%.
-  - Compiled a dataset for training neural networks for segmentation.
-  - Trained Unet / Attention UNet models for medical image segmentation, achieving segmentation accuracy of over 80%.
-  - Applied texture analysis methods to identify pathologies using radiomics. My research showed that this approach allows for a 15% increase in diagnostic accuracy and improves the detection of hidden pathologies at early stages of development.
-  - Developed an application with two methods of automatic segmentation and the ability for manual ROI correction, which increased the efficiency of doctors' work.
+**Data Scientist, Cardiology Research Institute** <br> _Worked on an algorithm for automatic segmentation of medical CT and MRI heart images_ (March 2021 - May 2023)
+- Developed an algorithm for processing medical heart images, resulting in a 40% increase in image processing speed.
+- Compiled a dataset for training neural networks for segmentation.
+- Trained Unet / Attention UNet models achieving segmentation accuracy over 80%.
+- Developed an application for automatic segmentation, improving doctor efficiency.
 
-* **Joint Institute for Nuclear Research (JINR)** / During my work at JINR, I participated in a project on developing an algorithm for particle track reconstruction at the accelerator (06.2023 - 08.2023)
-  - Optimized the particle track reconstruction algorithm at the accelerator to increase processing speed and improve track reconstruction quality. The optimization increased the speed of the particle track reconstruction algorithm by 25%.
-  - Developed machine learning algorithms to improve the analysis of multiple particle tracks in the beam, which enhanced the efficiency and accuracy of the reconstruction process by 12%.
+**Data Scientist, Joint Institute for Nuclear Research (JINR)** <br> _Developed an algorithm for particle track reconstruction_ (June 2023 - August 2023)
+- Optimized the particle track reconstruction algorithm, increasing speed by 25%.
+- Developed machine learning algorithms, enhancing reconstruction efficiency by 12%.
 
-* **Fintech Association** / Actively participated in the development of a prompt generator presented at the Finopolis 2023 event (08.2023 - 11.2023)
-  - My main task was to compile a Russian-language financial dataset and select optimal machine learning models for application in the project.
-  - Reduced time for data preparation and cleaning by 25% by automating the data collection and processing process.
-  - Improved prompt creation accuracy by 30% compared to previous models using YandexGPT and Gigachat APIs.
-  - Reduced the number of false positives in the algorithm for selecting banking offers by 20% by more accurately selecting the architecture and training ruGPT 3.5 models using LoRA.
-  - During the work, I tested various machine learning models to evaluate their performance and suitability for integration into the prompt generator.
+**ML Engineer, Fintech Association** <br> _Developed a prompt generator for Finopolis 2023_ (August 2023 - November 2023)
+- Compiled a Russian-language financial dataset and selected optimal ML models.
+- Improved prompt creation accuracy by 30% using YandexGPT and Gigachat APIs.
 
-* **TUSUR | LPMiTF** / Participated in a project on the development of recommendation systems at the Cardiology Research Institute based on machine learning methods in the field of radiology (06.2023 - 12.2023)
-  - Responsible for collecting, cleaning, and analyzing medical data, ensuring its accuracy and reliability for subsequent analysis. Reduced time by 30% by automating the data cleaning process.
-  - Developed predictive models and recommendation algorithms based on processed data using various machine learning methods. Improved prediction accuracy by 25% compared to previous models.
-
+**Data Scientist (CV), TUSUR | LPMiTF** <br> _Developed recommendation systems at the Cardiology Research Institute_ (June 2023 - December 2023)
+- Collected, cleaned, and analyzed medical data, automating the data cleaning process.
+- Developed predictive models and recommendation algorithms, improving accuracy by 25%.
+  
 
 ### 📜 Publications
 
