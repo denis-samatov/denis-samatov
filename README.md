@@ -29,13 +29,4 @@ Specialized in end-to-end AI pipelines for medical data analysis with 4+ years o
 ## Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:denissamatov470@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/SamatovDS)
-[![CV](https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/denis-samatov/denis-samatov/blob/main/CV_Pole.pdf)
-
-<details>
-<summary>GitHub Statistics</summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denis-samatov&show_icons=true&theme=default&hide_title=true&hide_rank=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denis-samatov&theme=default&hide_border=true" height="150">
-</p>
-</details>
+[![CV](https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/denis-samatov/denis-samatov/blob/main/CV.pdf)
