@@ -1,5 +1,5 @@
 # Denis Samatov
-**Machine Learning Engineer | Medical Imaging Researcher**
+**Machine Learning Engineer | Data Science Engineer**
 
 Specialized in end-to-end AI pipelines for medical data analysis with 4+ years of experience in CT/MRI segmentation, radiomics, and NLP applications. Currently pursuing Master's in Applied Mathematics and Computer Science at Tomsk Polytechnic University.
 
