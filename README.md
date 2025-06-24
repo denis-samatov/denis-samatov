@@ -1,12 +1,12 @@
 # Denis Samatov
 **Machine Learning Engineer | Data Science Engineer**
 
-Specialized in end-to-end AI pipelines for medical data analysis with 4+ years of experience in CT/MRI segmentation, radiomics, and NLP applications. Currently pursuing Master's in Applied Mathematics and Computer Science at Tomsk Polytechnic University.
+Specialized in end-to-end AI pipelines with 4+ years of experience in computer vision, NLP, tensor methods, and applied mathematics. Currently pursuing Master's in Applied Mathematics and Computer Science at Tomsk Polytechnic University.
 
 ## Key Achievements
-- **EPIFAT Software**: Creator of state-registered epicardial fat segmentation tool (Rospatent 2025 № 2025610317)
+- **EPIFAT Software**: Creator of state-registered image segmentation tool (Rospatent 2025 № 2025610317)
 - **Multimodal AI System**: Deployed candidate assessment platform for Moscow Government University
-- **Research Impact**: 6 peer-reviewed publications in medical imaging and radiomics
+- **Tensor Methods Research**: Developing algorithms for complexity reduction in large spatiotemporal datasets
 - **Competition Winner**: FINOdays Hackathon 2023 (AI/ML track), NTO Computer Vision special award
 
 ## Current Positions
@@ -16,15 +16,16 @@ Specialized in end-to-end AI pipelines for medical data analysis with 4+ years o
 
 ## Core Technologies
 **Machine Learning**: PyTorch, TensorFlow, Hugging Face, scikit-learn, XGBoost  
-**Medical Imaging**: OpenCV, Radiomics, UNet, Attention UNet  
+**Computer Vision**: OpenCV, UNet, Attention UNet, Image Segmentation  
+**Tensor Methods**: TensorLy, Tensor QR Decomposition, Modal Decomposition  
 **MLOps**: MLflow, Weights & Biases, Docker, FastAPI  
 **Data Processing**: Pandas, NumPy, Optuna  
-**Specialized**: LangChain, LlamaIndex (RAG systems), Tensor methods
+**Specialized**: LangChain, LlamaIndex (RAG systems), Reinforcement Learning
 
 ## Selected Publications
-- [Machine Learning Methods in Radiomics for Cardiovascular Image Analysis](http://sopromat.imm.uran.ru/kungurka/Proceedings-2023.pdf) (2023)
+- [Machine Learning Methods in Radiomics for Image Analysis](http://sopromat.imm.uran.ru/kungurka/Proceedings-2023.pdf) (2023)
 - [Beam Parameters Restoration at NICA Accelerator Complex](https://students.jinr.ru/uploads/report_files/report_student_1844_project_274.pdf) (2023)
-- [Automatic Segmentation of Epicardial Fat in Cardiac CT](https://conf-prfn.org/Arch/Proceedings_2024_vol_3.pdf) (2024)
+- [Automatic Image Segmentation and Quantitative Assessment](https://conf-prfn.org/Arch/Proceedings_2024_vol_3.pdf) (2024)
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:denissamatov470@gmail.com)
