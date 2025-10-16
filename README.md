@@ -8,7 +8,6 @@ And of course, add the correct links to your projects and social media. Good luc
 </div>
 
 <div align="center">
-  <h1>Hi! I'm Denis Samatov 👋</h1>
   <h3>Machine Learning Engineer & Data Scientist</h3>
   <p>I specialize in Computer Vision, LLMs, NLP, classic ML, and tensor methods — turning complex data into intelligent solutions.</p>
 
