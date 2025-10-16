@@ -4,7 +4,7 @@ And of course, add the correct links to your projects and social media. Good luc
 -->
 
 <div align="center">
-  <img src="https://i.imgur.com/fqS1J3g.gif" alt="Header GIF" width="100%"/>
+  <img src="image.png" alt="Header GIF" width="100%"/>
 </div>
 
 <div align="center">
