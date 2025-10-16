@@ -40,13 +40,11 @@ Currently, I am pursuing a **Master's degree in Applied Mathematics and Computer
 <p align="center">
   <!-- Core languages & frameworks -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 
   <!-- ML / DL -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch_Lightning-FF2C63?style=for-the-badge&logo=python&logoColor=white" alt="PyTorch Lightning">
   <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers">
 
   <!-- NLP / LLM / RAG -->
@@ -58,33 +56,25 @@ Currently, I am pursuing a **Master's degree in Applied Mathematics and Computer
   <!-- Data & processing -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Dask-003A6E?style=for-the-badge&logo=dask&logoColor=white" alt="Dask">
   <img src="https://img.shields.io/badge/PyArrow-0066CC?style=for-the-badge&logo=apache&logoColor=white" alt="PyArrow">
 
   <!-- CV / Medical imaging -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/Albumentations-1F7FFF?style=for-the-badge&logo=python&logoColor=white" alt="Albumentations">
-  <img src="https://img.shields.io/badge/MONAI-1E90FF?style=for-the-badge&logo=python&logoColor=white" alt="MONAI">
   <img src="https://img.shields.io/badge/pyradiomics-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="pyradiomics">
 
   <!-- Vector DB / Indexing -->
   <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logo=python&logoColor=white" alt="FAISS">
-  <img src="https://img.shields.io/badge/Milvus-0DA5FF?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus">
   <img src="https://img.shields.io/badge/Weaviate-00B2B2?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate">
   <img src="https://img.shields.io/badge/Pinecone-5B21B6?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
 
   <!-- MLOps / CI / infra -->
   <img src="https://img.shields.io/badge/MLflow-008631?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
   <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases">
-  <img src="https://img.shields.io/badge/DVC-003366?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Terraform-7846FF?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
 
   <!-- Deployment & serving -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Triton-00B3FF?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Triton">
   <img src="https://img.shields.io/badge/ONNX-FF6600?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
-  <img src="https://img.shields.io/badge/TorchServe-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="TorchServe">
 
   <!-- Databases / Storage -->
   <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
@@ -94,8 +84,6 @@ Currently, I am pursuing a **Master's degree in Applied Mathematics and Computer
   <!-- Tools & utilities -->
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
 </p>
 
 ---
