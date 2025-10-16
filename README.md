@@ -57,11 +57,16 @@ Currently, I am pursuing a **Master's degree in Applied Mathematics and Computer
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/PyArrow-0066CC?style=for-the-badge&logo=apache&logoColor=white" alt="PyArrow">
+  <img src="https://img.shields.io/badge/TensorLy-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="TensorLy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Plotly-3F4B8F?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 
   <!-- CV / Medical imaging -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/Albumentations-1F7FFF?style=for-the-badge&logo=python&logoColor=white" alt="Albumentations">
   <img src="https://img.shields.io/badge/pyradiomics-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="pyradiomics">
+  <img src="https://img.shields.io/badge/CVAT-0F172A?style=for-the-badge&logo=none&logoColor=white" alt="CVAT">
 
   <!-- Vector DB / Indexing -->
   <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logo=python&logoColor=white" alt="FAISS">
