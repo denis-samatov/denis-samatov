@@ -1,6 +1,4 @@
-# Denis Samatov | Machine Learning Engineer Portfolio
-
-This repository serves as a comprehensive portfolio for Denis Samatov, a Machine Learning and Data Science Engineer specializing in end-to-end AI pipelines. It highlights his key achievements, technical skills, and professional experience.
+# Denis Samatov | Machine Learning Engineer
 
 ## About Me
 
@@ -33,14 +31,6 @@ I am a Machine Learning Engineer with over four years of experience in computer 
 - [Machine Learning Methods in Radiomics for Image Analysis](http://sopromat.imm.uran.ru/kungurka/Proceedings-2023.pdf) (2023)
 - [Beam Parameters Restoration at NICA Accelerator Complex](https://students.jinr.ru/uploads/report_files/report_student_1844_project_274.pdf) (2023)
 - [Automatic Image Segmentation and Quantitative Assessment](https://conf-prfn.org/Arch/Proceedings_2024_vol_3.pdf) (2024)
-
-## Usage
-
-This repository is for informational purposes. To learn more about my work, please review my CV or connect with me directly.
-
-## Contributing
-
-This is a personal portfolio and is not open for contributions. However, I welcome feedback and collaboration on my public projects.
 
 ## Contact
 
