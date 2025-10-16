@@ -131,8 +131,6 @@ Here you can see my GitHub activity. The data is updated automatically.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://denis-streak-stats.vercel.app/?user=denis-samatov&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 
 <!-- You can change the themes for the stats (e.g., dracula, gruvbox, tokyonight, onedark) -->
