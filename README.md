@@ -65,7 +65,6 @@ Currently, I am pursuing a **Master's degree in Applied Mathematics and Computer
 
   <!-- Vector DB / Indexing -->
   <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logo=python&logoColor=white" alt="FAISS">
-  <img src="https://img.shields.io/badge/Weaviate-00B2B2?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate">
   <img src="https://img.shields.io/badge/Pinecone-5B21B6?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
 
   <!-- MLOps / CI / infra -->
@@ -74,7 +73,6 @@ Currently, I am pursuing a **Master's degree in Applied Mathematics and Computer
 
   <!-- Deployment & serving -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/ONNX-FF6600?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
 
   <!-- Databases / Storage -->
   <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
