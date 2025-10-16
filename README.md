@@ -132,7 +132,7 @@ Here you can see my GitHub activity. The data is updated automatically.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=denis-samatov&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://denis-streak-stats.vercel.app/?user=denis-samatov&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <!-- You can change the themes for the stats (e.g., dracula, gruvbox, tokyonight, onedark) -->
