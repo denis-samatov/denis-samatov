@@ -8,8 +8,6 @@ And of course, add the correct links to your projects and social media. Good luc
 </div>
 
 <div align="center">
-  <p>I specialize in Computer Vision, LLMs, NLP, classic ML, and tensor methods — turning complex data into intelligent solutions.</p>
-
   <!-- Social Badges -->
   <p>
     <a href="mailto:denissamatov470@gmail.com">
