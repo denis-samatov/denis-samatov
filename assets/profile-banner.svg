@@ -1,0 +1,59 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#08111F"/>
+      <stop offset="0.35" stop-color="#14213D"/>
+      <stop offset="0.7" stop-color="#1B4965"/>
+      <stop offset="1" stop-color="#5FA8D3"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="260" y1="80" x2="950" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D4FF"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+
+  <circle cx="185" cy="95" r="110" fill="#00D4FF" opacity="0.18" filter="url(#blur)"/>
+  <circle cx="920" cy="70" r="150" fill="#7C3AED" opacity="0.22" filter="url(#blur)"/>
+  <circle cx="1010" cy="310" r="135" fill="#F97316" opacity="0.18" filter="url(#blur)"/>
+
+  <path d="M65 270 C190 150, 295 320, 420 210 S620 80, 760 190 S970 315, 1135 125" stroke="url(#accent)" stroke-width="4" opacity="0.75"/>
+  <path d="M65 290 C210 185, 300 330, 445 240 S625 120, 790 220 S980 310, 1135 170" stroke="#D6F3FF" stroke-width="2" opacity="0.28"/>
+
+  <g opacity="0.8">
+    <circle cx="145" cy="225" r="5" fill="#D6F3FF"/>
+    <circle cx="325" cy="270" r="5" fill="#D6F3FF"/>
+    <circle cx="560" cy="145" r="5" fill="#D6F3FF"/>
+    <circle cx="775" cy="190" r="5" fill="#D6F3FF"/>
+    <circle cx="970" cy="250" r="5" fill="#D6F3FF"/>
+  </g>
+
+  <text x="70" y="105" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" letter-spacing="1">
+    Denis Samatov
+  </text>
+  <text x="72" y="154" fill="#BFEFFF" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">
+    Machine Learning Engineer • Applied AI • Scientific ML
+  </text>
+  <text x="72" y="205" fill="#EAF7FF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+    Medical Imaging  |  Computer Vision  |  LLM/RAG Systems  |  Tensor Methods
+  </text>
+
+  <g transform="translate(72 245)">
+    <rect x="0" y="0" width="142" height="34" rx="17" fill="#00D4FF" opacity="0.18" stroke="#00D4FF"/>
+    <text x="19" y="23" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Medical AI</text>
+
+    <rect x="158" y="0" width="166" height="34" rx="17" fill="#7C3AED" opacity="0.18" stroke="#A78BFA"/>
+    <text x="177" y="23" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Computer Vision</text>
+
+    <rect x="340" y="0" width="126" height="34" rx="17" fill="#22C55E" opacity="0.16" stroke="#86EFAC"/>
+    <text x="362" y="23" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">LLM/RAG</text>
+
+    <rect x="482" y="0" width="154" height="34" rx="17" fill="#F97316" opacity="0.18" stroke="#FDBA74"/>
+    <text x="502" y="23" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Tensor Methods</text>
+  </g>
+</svg>
