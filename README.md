@@ -1,16 +1,11 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Denis Samatov — Applied AI / Deep Learning Engineer" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Denis Samatov — Machine Learning Engineer" width="100%" />
 </div>
 
 <h1 align="center">Denis Samatov</h1>
 
 <p align="center">
-  <strong>Machine Learning Engineer | Applied AI, Medical Imaging, Computer Vision, LLM/RAG & Scientific ML</strong>
-</p>
-
-<p align="center">
-  I build research-driven ML systems for complex real-world problems: from medical image analysis and radiomics
-  to retrieval-augmented systems, scientific computing, tensor-based modeling and production-oriented ML pipelines.
+  <strong>Machine Learning Engineer building applied AI systems for medical imaging, scientific computing and production ML workflows.</strong>
 </p>
 
 <p align="center">
@@ -22,69 +17,71 @@
 
 ---
 
-## Core Expertise
+## What I Build
 
-- **Medical AI & Radiomics** — CT/MRI analysis, segmentation pipelines, epicardial adipose tissue analysis and radiomic feature extraction.
-- **Computer Vision** — image segmentation, preprocessing, annotation workflows, OCR/table extraction and model evaluation.
-- **LLM/RAG Systems** — retrieval pipelines, embeddings, vector search, applied NLP workflows and AI assistant architecture.
-- **Scientific ML & Tensor Methods** — tensor decomposition, dimensionality reduction, optimal sensor placement and spatio-temporal modeling.
-- **Applied ML Engineering** — data processing, model validation, experiment tracking, backend services and reproducible research code.
+I work at the intersection of **deep learning**, **computer vision**, **medical image analysis**, **LLM/RAG systems** and **scientific machine learning**. My focus is not only model training, but complete ML workflows: data preprocessing, validation, reproducibility, backend services and deployment-oriented engineering.
+
+| Medical AI | Computer Vision | LLM/RAG | Scientific ML | ML Engineering |
+|---|---|---|---|---|
+| CT/MRI analysis | segmentation & OCR | retrieval pipelines | tensor methods | reproducible pipelines |
+| radiomics | image preprocessing | vector search | sensor placement | backend ML services |
+| clinical workflows | annotation workflows | AI assistants | spatio-temporal data | validation & automation |
 
 ---
 
 ## Selected Work
 
-### Applied RAG & Recruitment Analytics — MSUU
+### Applied RAG & Recruitment Analytics
 
-Internal AI systems for document retrieval, salary monitoring and multimodal candidate evaluation.
+Internal AI systems for document retrieval, salary monitoring and multimodal candidate evaluation at MSUU.
 
 **Focus:** RAG, information retrieval, HR analytics, recommender systems, backend ML services  
-**Result:** Improved recruitment analytics workflows through automated retrieval, monitoring and candidate assessment pipelines.
+**Result:** Automated retrieval, monitoring and candidate assessment workflows.
 
 ---
 
-### EPIFAT — Epicardial Fat Segmentation & Radiomics
+### EPIFAT — Epicardial Fat Segmentation
 
 Automated segmentation and radiomic analysis of epicardial adipose tissue on cardiac CT scans.
 
-**Stack:** Python, PyTorch, U-Net, Attention U-Net, OpenCV, PyRadiomics  
+**Stack:** PyTorch, U-Net, Attention U-Net, OpenCV, PyRadiomics  
 **Result:** State-registered software module, **Rospatent No. 2025610317, 2025**
 
 ---
 
-### Medical Image Segmentation — Cardiology Research Institute
+### Medical Image Segmentation
 
-End-to-end CT/MRI image processing pipelines for automated segmentation and early pathology analysis.
+End-to-end CT/MRI image processing pipelines for automated segmentation and early pathology analysis at the Cardiology Research Institute.
 
-**Stack:** Python, PyTorch, U-Net, Attention U-Net, OpenCV, radiomics  
-**Result:** Reduced image processing time by 40%; trained U-Net / Attention U-Net models with 80%+ segmentation accuracy.
-
----
-
-### Tensor-Based Scientific ML — Heriot-Watt TPU Center
-
-Reduced-order modeling and tensor-based methods for high-dimensional spatio-temporal scientific data.
-
-**Focus:** tensor decomposition, optimal sensor placement, forecasting, geological exploration, reservoir modeling  
-**Result:** Designed tensor-based algorithms to reduce complexity in large spatio-temporal datasets and support decision-making workflows.
+**Stack:** PyTorch, U-Net, Attention U-Net, OpenCV, radiomics  
+**Result:** 40% lower image processing time; 80%+ segmentation accuracy.
 
 ---
 
-### Particle Track Reconstruction — JINR
+### Tensor-Based Scientific ML
 
-Machine learning algorithms for beam parameter restoration and particle track reconstruction at the NICA accelerator complex.
+Reduced-order modeling and tensor-based methods for high-dimensional spatio-temporal scientific data at Heriot-Watt TPU Center.
 
-**Focus:** ML for computational physics, multi-track beam analysis, optimization of reconstruction algorithms  
-**Result:** Improved reconstruction speed by 25% and increased multi-track beam analysis efficiency and accuracy by 12%.
+**Focus:** tensor decomposition, optimal sensor placement, forecasting, reservoir modeling  
+**Result:** Algorithms for complexity reduction and decision-support workflows.
 
 ---
 
-### OCR / Table Extraction from Financial Reports
+### Particle Track Reconstruction
 
-Computer vision and OCR pipeline for extracting tabular data from PDF/image-based financial reports into structured CSV output.
+ML algorithms for beam parameter restoration and particle track reconstruction at the NICA accelerator complex.
 
-**Stack:** Python, OpenCV, PyMuPDF, Tesseract OCR, NumPy, Matplotlib  
-**Repository:** [denis-samatov/recognition_russian_financial_reports](https://github.com/denis-samatov/recognition_russian_financial_reports)
+**Focus:** computational physics, multi-track beam analysis, reconstruction optimization  
+**Result:** 25% faster reconstruction; 12% better multi-track analysis efficiency and accuracy.
+
+---
+
+### OCR / Table Extraction
+
+Computer vision and OCR pipeline for extracting tables from PDF/image-based financial reports into structured CSV output.
+
+**Stack:** OpenCV, PyMuPDF, Tesseract OCR, NumPy, Matplotlib  
+**Repository:** [recognition_russian_financial_reports](https://github.com/denis-samatov/recognition_russian_financial_reports)
 
 ---
 
@@ -130,10 +127,7 @@ For a complete academic and engineering background, see my [CV](./CV_SamatovDS.p
 
 ## Engineering Principles
 
-- Build reproducible ML workflows, not only notebooks.
-- Validate models with clear metrics, baselines and error analysis.
-- Keep research code understandable, documented and reusable.
-- Prefer modular pipelines that can evolve into services, APIs or deployable tools.
+> Research quality + engineering discipline: reproducible pipelines, explicit validation, readable code, modular design and deployment-aware ML systems.
 
 ---
 
