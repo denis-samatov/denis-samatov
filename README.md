@@ -66,7 +66,6 @@ I'm an **ML Engineer and Applied AI Technical Lead with 5+ years of experience**
 
 - 🔗 [**tensor_based_modal_decomposition_method**](https://github.com/denis-samatov/tensor_based_modal_decomposition_method) — Tucker/HOSVD-based modal decomposition and QR sparse-sensor placement for reservoir field reconstruction; the working code behind the AI4X Singapore 2026 talk and the arXiv preprint.
 - 🔗 [**radiomics**](https://github.com/denis-samatov/radiomics) — radiomic texture analysis of cardiac polar maps with ML, the research line that led into EPIFAT.
-- 🔗 [**bayesian_regression_model**](https://github.com/denis-samatov/bayesian_regression_model) — Bayesian regression from first principles, the same inference toolkit used for parameter-space analysis in production work.
 
 ---
 
