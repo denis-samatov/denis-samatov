@@ -11,6 +11,18 @@
 
 <br/>
 
+## ✅ Verified
+
+Every research claim below is backed by an independent, externally verifiable source — not just text.
+
+[![arXiv](https://img.shields.io/badge/arXiv-2607.09687-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.09687)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1821--323X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1821-323X)
+[![Digital Diagnostics](https://img.shields.io/badge/Digital_Diagnostics-Vol.5(4)_2024-0D9488?style=flat-square)](https://jdigitaldiagnostics.com/DD/article/view/630602)
+
+<!-- TODO: add Google Scholar badge once the profile exists (audit action plan, phase 2) -->
+
+---
+
 ## 🚀 About Me
 
 I'm an **ML Engineer and Applied AI Technical Lead with 5+ years of experience** building RAG and document-intelligence platforms, medical imaging systems, and scientific ML tools. I lead teams of 3–5 engineers end to end — architecture, delivery, code and solution review, and ML engineering quality — and I still write the hard code myself: tensor methods, Bayesian inference, segmentation, radiomics, and production Python/FastAPI systems that run in CI/CD, not just in notebooks.
@@ -135,15 +147,6 @@ I'm an **ML Engineer and Applied AI Technical Lead with 5+ years of experience**
 
 ## 📈 GitHub Stats & Metrics
 
-<!-- Theme-sensitive contribution activity graph -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-eight.vercel.app/graph?username=denis-samatov&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-eight.vercel.app/graph?username=denis-samatov&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12">
-    <img alt="Denis's Contribution Activity Graph" src="https://github-readme-activity-graph-eight.vercel.app/graph?username=denis-samatov&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12" width="100%" />
-  </picture>
-</p>
-
 <!-- Theme-sensitive stats + top languages -->
 <p align="left">
   <picture>
@@ -155,15 +158,6 @@ I'm an **ML Engineer and Applied AI Technical Lead with 5+ years of experience**
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488">
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0D9488&text_color=475569&icon_color=10B981&border_color=E2E8F0">
     <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
-  </picture>
-</p>
-
-<!-- Theme-sensitive streak stats -->
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=denis-samatov&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=denis-samatov&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=denis-samatov&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280" />
   </picture>
 </p>
 
