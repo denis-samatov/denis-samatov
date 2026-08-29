@@ -68,7 +68,7 @@ I'm an **ML Engineer and Applied AI Technical Lead with 5+ years of experience**
 
 | Project | What it is | Stack |
 |---|---|---|
-| **LLM Adviser** | Five-developer agentic engineering knowledge platform — deterministic document processing, traceable outputs, async execution | FastAPI, Redis, multi-provider LLM routing |
+| 🔗 [**LLM Adviser**](https://github.com/denis-samatov/llm-adviser-case-study) | Five-developer agentic engineering knowledge platform — deterministic document processing, traceable outputs, async execution. *Sanitized architecture case study, linked* | FastAPI, Redis, multi-provider LLM routing |
 | **Modular RAG Platform** | Reusable ingestion/retrieval components — OCR, hybrid retrieval, GraphRAG, reranking, source-grounded generation | Python, hybrid retrieval, GraphRAG |
 | **CourseLLM** | Applied AI platform delivered under the same technical leadership umbrella | Python, FastAPI |
 | **EPIFAT** | Cardiac CT epicardial fat segmentation & radiomics tool — officially registered software (No. 2025610317) | PyTorch, U-Net / Attention U-Net, radiomics |
