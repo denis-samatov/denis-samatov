@@ -172,6 +172,7 @@ I'm always open to talking about **RAG/LLM systems, medical imaging, scientific 
 [![GitHub](https://img.shields.io/badge/GitHub-denis--samatov-10B981?style=flat-square&logo=github&logoColor=white)](https://github.com/denis-samatov)
 [![Telegram](https://img.shields.io/badge/Telegram-%40SamatovDS-0D9488?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SamatovDS)
 [![Email](https://img.shields.io/badge/Email-denissamatov470%40gmail.com-34D399?style=flat-square&logo=gmail&logoColor=white)](mailto:denissamatov470@gmail.com)
+[![Download CV](https://img.shields.io/badge/Download_CV-0D9488?style=flat-square&logo=adobeacrobatreader&logoColor=white)](CV_SamatovDS.pdf)
 
 ---
 
