@@ -53,6 +53,8 @@ I'm an **ML Engineer and Applied AI Technical Lead with 5+ years of experience**
 
 ## 🏗️ Featured Work
 
+**Applied AI platforms I lead in production** (institutional/client work — repos are private, happy to walk through architecture and results in a call):
+
 | Project | What it is | Stack |
 |---|---|---|
 | **LLM Adviser** | Five-developer agentic engineering knowledge platform — deterministic document processing, traceable outputs, async execution | FastAPI, Redis, multi-provider LLM routing |
@@ -61,7 +63,11 @@ I'm an **ML Engineer and Applied AI Technical Lead with 5+ years of experience**
 | **EPIFAT** | Cardiac CT epicardial fat segmentation & radiomics tool — officially registered software (No. 2025610317) | PyTorch, U-Net / Attention U-Net, radiomics |
 | **NAB** | Python package for tensor-based reduced-order modeling & QR sparse-sensor placement, with CLI, tests, and reproducible benchmarks | Python, Tucker/HOSVD, Bayesian inference |
 
-*Several of these were built for institutional/research clients and their repos are private — happy to walk through architecture and results directly.*
+**Public research code** — the methods behind the résumé, actually on GitHub:
+
+- 🔗 [**tensor_based_modal_decomposition_method**](https://github.com/denis-samatov/tensor_based_modal_decomposition_method) — Tucker/HOSVD-based modal decomposition and QR sparse-sensor placement for reservoir field reconstruction; the working code behind the AI4X Singapore 2026 talk and the arXiv preprint.
+- 🔗 [**radiomics**](https://github.com/denis-samatov/radiomics) — radiomic texture analysis of cardiac polar maps with ML, the research line that led into EPIFAT.
+- 🔗 [**bayesian_regression_model**](https://github.com/denis-samatov/bayesian_regression_model) — Bayesian regression from first principles, the same inference toolkit used for parameter-space analysis in production work.
 
 ---
 
@@ -134,23 +140,23 @@ I'm an **ML Engineer and Applied AI Technical Lead with 5+ years of experience**
 <!-- Theme-sensitive contribution activity graph -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=denis-samatov&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=denis-samatov&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12">
-    <img alt="Denis's Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=denis-samatov&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-eight.vercel.app/graph?username=denis-samatov&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-eight.vercel.app/graph?username=denis-samatov&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12">
+    <img alt="Denis's Contribution Activity Graph" src="https://github-readme-activity-graph-eight.vercel.app/graph?username=denis-samatov&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12" width="100%" />
   </picture>
 </p>
 
 <!-- Theme-sensitive stats + top languages -->
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=denis-samatov&show_icons=true&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=denis-samatov&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0D9488&text_color=475569&icon_color=10B981&border_color=E2E8F0">
-    <img alt="Denis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=denis-samatov&show_icons=true&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=denis-samatov&show_icons=true&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=denis-samatov&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0D9488&text_color=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="Denis's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=denis-samatov&show_icons=true&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0D9488&text_color=475569&icon_color=10B981&border_color=E2E8F0">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0D9488&text_color=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
   </picture>
 </p>
 
