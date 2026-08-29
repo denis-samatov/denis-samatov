@@ -1,5 +1,4 @@
 <h1 align="left">Samatov Denis</h1>
-<img align="right" src="https://github.com/denis-samatov.png" width="112" style="border-radius:50%">
 
 **Machine Learning Engineer · Applied AI Technical Lead**
 
