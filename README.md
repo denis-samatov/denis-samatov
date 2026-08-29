@@ -39,26 +39,11 @@ I'm an **ML Engineer and Applied AI Technical Lead with 5+ years of experience**
 
 ## 🧑‍💻 Experience
 
-**Machine Learning Engineer / Technical Lead** — *Analytics and Machine Learning Department, MSUU*
-`Apr 2024 – Present`
-- Lead architecture and delivery of three applied AI platforms — **CourseLLM**, **Modular RAG Platform**, and **LLM Adviser** — coordinating teams of 3–5 engineers and owning technical strategy, system boundaries, reviews, and operational readiness.
-- Technical Lead for **LLM Adviser**, a five-developer agentic engineering knowledge platform; designed deterministic document processing, traceable outputs, asynchronous execution, and clean domain/infrastructure boundaries.
-- Designed reusable ingestion/retrieval components: OCR, provenance preservation, hybrid retrieval, parent-document recovery, GraphRAG, reranking, and source-grounded generation.
-- Built the execution layer with FastAPI, async workers, Redis, multi-provider LLM routing, automated evaluation, observability, security controls, and CI quality gates.
-- Established repeatable ML/AI engineering practices through mentoring, code reviews, solution reviews, automated testing, and static analysis.
+- **Machine Learning Engineer / Technical Lead**, *Analytics and Machine Learning Department, MSUU* (`Apr 2024 – Present`) — leading architecture and delivery of three applied AI platforms (CourseLLM, Modular RAG Platform, **LLM Adviser** — [case study](https://github.com/denis-samatov/llm-adviser-case-study)), coordinating teams of 3–5 engineers.
+- **Data Scientist / Research ML Engineer**, *Heriot-Watt TPU Center* (`Sep 2024 – Present`) — tensor-based reduced-order modeling and QR sparse-sensor placement for reservoir data; published **NAB** as a tested, benchmarked Python package, and the underlying methods as [**public research code**](https://github.com/denis-samatov/tensor_based_modal_decomposition_method) + [arXiv preprint](https://arxiv.org/abs/2607.09687).
+- **Machine Learning Engineer**, *Cardiology Research Institute* (`Mar 2021 – May 2025`) — built **EPIFAT**, officially registered cardiac CT segmentation software (No. 2025610317); cut processing time by **40%** — related public research code: [**radiomics**](https://github.com/denis-samatov/radiomics).
 
-**Data Scientist / Research ML Engineer** — *Heriot-Watt TPU Center*
-`Sep 2024 – Present`
-- Develop tensor-based reduced-order models for high-dimensional spatiotemporal reservoir data, supporting forecasting and full-field reconstruction from sparse measurements.
-- Design QR-based sparse-sensor placement and reconstruction workflows for incomplete observations, including geometry-aware and compressive-sensing variants.
-- Published **NAB** as a reusable Python package with API/CLI workflows, automated tests, reproducible benchmarks, Bayesian parameter-space analysis, and convergence diagnostics.
-
-**Machine Learning Engineer** — *Cardiology Research Institute*
-`Mar 2021 – May 2025`
-- Built an end-to-end CT/MRI segmentation and radiomics application with automated segmentation and manual ROI correction — **reduced processing time by 40%**.
-- Trained U-Net and Attention U-Net models for medical image segmentation; applied radiomic texture analysis to support pathology detection and clinician review.
-- Led development of **EPIFAT**, cardiac CT analysis software (anonymized preprocessing, segmentation, radiomics, manual ROI correction, validation, artifact tracking, cross-platform delivery) — officially registered as **Software No. 2025610317**.
-- Implemented patient-level data separation, corrected metric aggregation, reproducible train/resume/test workflows, and versioned artifact lineage.
+Full role-by-role breakdown, day-to-day scope, and team details — happy to walk through in a call, or see LinkedIn once linked below.
 
 ---
 
