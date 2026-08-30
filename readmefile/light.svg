@@ -83,64 +83,64 @@
 
     <g class="ascii-bob">
       <text x="70" y="135" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="4.9" font-weight="900" fill="url(#asciiGradient)" xml:space="preserve">
-    <tspan x="70" dy="0">                                               ::::,;*v&amp;&amp;&amp;&amp;                                               </tspan>
-    <tspan x="70" dy="5.8">                                      ::::::::::::,+u@@&amp;@@@@@@&amp;&amp;@@a;                                      </tspan>
-    <tspan x="70" dy="5.8">                                 :,,,,,,,:::::,```=#@&amp;&amp;&amp;uo&gt;&gt;b#@%&amp;@u~,::::                                 </tspan>
-    <tspan x="70" dy="5.8">                             &gt;;:,:,,,,,,:,'',,`=+*e@%@u=`:~;`-o##*;`,,:::::::                             </tspan>
-    <tspan x="70" dy="5.8">                          %%&amp;&amp;b~,,,,,,,,,=&gt;o&gt;'o~o%#%#e&gt;~=%%uabbb+;=,;+:.`,::::::                          </tspan>
-    <tspan x="70" dy="5.8">                       b*od#%%&amp;b;`,:,``,&lt;d*&amp;b*da@v%@vdauedbeee#&amp;o=~oeu#o~;,',::,:::                       </tspan>
-    <tspan x="70" dy="5.8">                    #*;```,+e&amp;&amp;#=:``,&lt;~;&lt;ea%uu&amp;@ve#%vuod&amp;%veeebv%ov@&amp;ea&amp;@ed&gt;;:,::,,:::                    </tspan>
-    <tspan x="70" dy="5.8">                  @#&gt;,`:::,,=u&amp;@o;`:uv#aov@#%#&amp;%@&amp;#uv##=dbe&amp;#eeu#%@#b*&lt;*&amp;u~du-,:::,::`,e                  </tspan>
-    <tspan x="70" dy="5.8">                ~u@a~,:,,,:`;b&amp;&amp;aa#%%##%%%%e&amp;@&amp;@&amp;%vuv#&amp;@#db%#&amp;&amp;%##@&amp;##@@@@#&gt;uv,,;,:::'=&amp;@@                </tspan>
-    <tspan x="70" dy="5.8">              .`=%&amp;o-`,,,::`:*%#&amp;@ae%&amp;&amp;&amp;%%&amp;#@%@@@@@&amp;%%#&amp;%#@&amp;&amp;uu%&amp;&amp;##vvue%&amp;&amp;#aee`:;::`:e@@@@u              </tspan>
-    <tspan x="70" dy="5.8">             '.`&lt;%&amp;*;`:,,,:,:*&amp;%@%v%&amp;%&amp;&amp;@@@&amp;%uv&amp;%&amp;&amp;&amp;@%%%&amp;@&amp;&amp;@&amp;@&amp;&amp;&amp;v&amp;##voe#@@@%@u``:,`&gt;@@@@&amp;&lt;`             </tspan>
-    <tspan x="70" dy="5.8">           ''''`&lt;%&amp;o;,::,,:,,b@&amp;&amp;&amp;@@&amp;#@@@@&amp;%&amp;#%@@&amp;@@@@@@@@@&amp;%v%&amp;&amp;@@@%%#ud#%e#&amp;%%%d&lt;`:v@&amp;@@e:,::           </tspan>
-    <tspan x="70" dy="5.8">          '''''`+#@d~`,:::,`+%&amp;@&amp;@@@@&amp;@@@@&amp;&amp;@&amp;&amp;&amp;@@@@@@@@@@&amp;%uae&amp;&amp;@@&amp;%%e*o##v##&amp;#@@%&gt;b@@@@&amp;+'::::          </tspan>
-    <tspan x="70" dy="5.8">         -''''''~u@v&lt;:,:`,;;*&amp;@@%&amp;@@@@@@@&amp;%@vuv#@@@@@@@@@@&amp;&amp;%%%@@@&amp;&amp;%vev%&amp;vuuvu&amp;@&amp;#da%&amp;@@a,,:::::         </tspan>
-    <tspan x="70" dy="5.8">        a-''''`';b&amp;&amp;u&lt;:.`#@&amp;#&amp;&amp;#%@@@@@@@@&amp;&amp;@##@&amp;@@&amp;@@&amp;@@@@@@@@@@@@&amp;%##u%%&amp;%vv##&amp;&amp;&amp;%%v#&amp;@&amp;+`:::::::        </tspan>
-    <tspan x="70" dy="5.8">       &amp;u~''`'``:+e@&amp;#e&gt;v@%v&amp;&amp;%#@&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;@&amp;%&amp;%##@@@@@%vv#%&amp;%#v@&amp;+-:,::::::::       </tspan>
-    <tspan x="70" dy="5.8">      &lt;&amp;u~''``,,,:=u&amp;&amp;&amp;&amp;@@&amp;#%&amp;@%&amp;@&amp;&amp;@@@@@@&amp;@@&amp;@@&amp;&amp;@@@@@&amp;%&amp;@@@@@&amp;&amp;&amp;%euvv#a&amp;@%%&amp;ad&amp;%&amp;%%e~,:;::::::::::      </tspan>
-    <tspan x="70" dy="5.8">     ,&gt;@#+`'``,::,:+bv%%&amp;&amp;@vv@@@@@@@@@@@&amp;@&amp;&amp;@@@&amp;#&amp;&amp;&amp;@@@@@&amp;&amp;@@&amp;%%%#%#&amp;%e%av%%%@&amp;a#%#uuo`:,;:::::::::::     </tspan>
-    <tspan x="70" dy="5.8">    ':=ab~`'`,:::::::-~d%#&amp;a%@@@@@@@@@@@&amp;&amp;@%%%&amp;&amp;%&amp;&amp;@@@@&amp;&amp;vev%u#&amp;vv&amp;@@&amp;#&amp;@%&amp;&amp;&amp;&amp;@@%&amp;###vee-,::::::::::::    </tspan>
-    <tspan x="70" dy="5.8">   '`````````,::::::;`'u%%%&amp;@@&amp;@@@@&amp;&amp;@@@&amp;%%uu%&amp;@@&amp;&amp;@@@@&amp;&amp;&amp;%#vb##vuv&amp;v#@#u%@&amp;&amp;&amp;@&amp;%%&amp;&amp;%%@%#,,;:::::::::::   </tspan>
-    <tspan x="70" dy="5.8">   `''`'````,:::::::;`+#ua@@&amp;&amp;&amp;@@@@@&amp;@@%&amp;#%&amp;&amp;&amp;@&amp;@%%#%@@@@&amp;%vu*~ouu&gt;*dod%&amp;&amp;@&amp;&amp;@@&amp;&amp;&amp;@&amp;%@@v;,;::::::::::::   </tspan>
-    <tspan x="70" dy="5.8">  ``'```````::::::::::`odu~d%&amp;&amp;&amp;@@@@%%####%@%##ua*bdeeddddavv#o+avvo&lt;uue%@&amp;%%@&amp;%%##%&amp;&amp;@&gt;.-;;::::::::::::  </tspan>
-    <tspan x="70" dy="5.8">  `````````,:::::::::;,`ov*a&amp;&amp;@@@@@va#eue#%#db*&gt;+&gt;*oo*&lt;&lt;=+~~+&gt;edeeeoa&lt;&lt;-*#&amp;%&amp;&amp;%%&amp;%%%%@v`:;;;::::::::::::  </tspan>
-    <tspan x="70" dy="5.8">  ````````,::::::::::;;:`;**&amp;@@@@@@uoeuvvvub*&lt;+-~~+++~+~;,,`'`,;--;:'  `,*%u%@@&amp;@@@@&amp;@&lt;'-;;;;;::::::::::  </tspan>
-    <tspan x="70" dy="5.8"> `````````,:;::::::::::;;:,.=#@@@@@a&lt;bdddd*&lt;=~-;,::--;:,`''''......`'  `,~euv%@@@@@@@@:,-;;;;;;;;:;;::::: </tspan>
-    <tspan x="70" dy="5.8"> ````````,:;;::::::::;::;;--``&amp;@@@v&lt;=*o*&gt;&lt;+-~;:;;:,;;;:`'  .',:;===-`  `:-uueu&amp;&amp;@@@&amp;a~:----;;;;;;;;;;;;:; </tspan>
-    <tspan x="70" dy="5.8"> ````````,:;;;;;;;;;:;;;;;;;-'&lt;@@@o-=e#&amp;%##ueado=~;~;-~~*bauv#%##ueb*=-:;,~o###%&amp;@@%`,~--;;;--;;;;;;;;;;; </tspan>
-    <tspan x="70" dy="5.8"> ```````,:;;;;;;;;;;;;;;;;;;-:`#@@==%@%##vu#&amp;&amp;@&amp;#&gt;&lt;&lt;;,~&lt;obbduueo**o*=~;;;;:'a&amp;a%%@%v&lt;:;:;~+~::--;;;;;;;;; </tspan>
-    <tspan x="70" dy="5.8"> ````,,,::;;;;;;;;;;;;;;;;;;-;:#@@=b%uv#ve#vaeu%%%v&gt;,'`,,~o%o+%#b=-ad&gt;;`,;~`b@%#&amp;%::-:~ov@@&amp;u&lt;:;---;;;;;; </tspan>
-    <tspan x="70" dy="5.8"> ,````,,:;;;;;;;;;;;;;;;;;;;-:,%@@&lt;&lt;#%@%u=u%a&lt;&gt;%#@v+:`,,::+ed=bb*;:,..`'`:;;o@@&amp;&amp;*.:;`u@@va%@@a-:----;;;; </tspan>
-    <tspan x="70" dy="5.8"> ,,,,,`,;;;;;;;;;;;;;;;;;;----`u@@&lt;-uveevuaeaaebu%b~:`',:::-&lt;*&lt;+~;,.    `::;;u@ub. `';ov+:,;b&amp;@%&lt;,;---;;; </tspan>
-    <tspan x="70" dy="5.8"> ,,,,,,:;---;;;;;;-;;;;------:+uv@-;bbbaadb**&gt;=oua*&lt;;````,,'`````'      .,:;,&gt;bb*  `'+-+:~~-:+#@@a~:;---- </tspan>
-    <tspan x="70" dy="5.8"> ,,,,,::;--;--;;;------------`d%ov;~&lt;&gt;&lt;&lt;&lt;=+++=&gt;bab&gt;&gt;;``,''``'```..       ',;;~.-v~'.;;-~---~~;-d@@&amp;d+:::; </tspan>
-    <tspan x="70" dy="5.8"> ,,,,,:;---------------------,&lt;&amp;*d&gt;==&lt;&lt;&lt;++=+=&lt;odeb&lt;&lt;:'.`,,`''```'        ':--+` ;d: ;;+------~;:=u@@@vb&lt;+ </tspan>
-    <tspan x="70" dy="5.8">  ,,,::;---------------------;`vaba****&lt;=&lt;===&lt;*eao=&lt;:. ...``,,``'..     .`;-~~..-+.;:~--------~-;;&lt;d#@@@  </tspan>
-    <tspan x="70" dy="5.8">  ,,,:;;---------------------~,+&amp;dvoo**&gt;&lt;===&lt;&lt;da=ba=,`.,~~``,;,`...     ',;-~-',`.;,-~~~~------~~~;:-+*d  </tspan>
-    <tspan x="70" dy="5.8">  ,,,:;------------------------`a&amp;bodbo*&gt;=====dua#%eo*;;~*+'':-:`'.     '`---:.. ``;~~~~~~~~~~~~--~~-;;:  </tspan>
-    <tspan x="70" dy="5.8">   ,::;------------------------,=v*daddo*&lt;&lt;&gt;=&gt;ooev%#b*b-+~''...:,`'.   .':;-,+e;,:-+~~~~~~~~~~~~~------   </tspan>
-    <tspan x="70" dy="5.8">   ,:;-------------------------;-&gt;doaadbo*&gt;&lt;obu%&amp;&amp;&amp;v&gt;*%abed*b=&lt;:``'.   .`;;-`uu;++~~~~~~~~~~~~~~~~-----   </tspan>
-    <tspan x="70" dy="5.8">    :;---------------------------;;`duaeb*&lt;a&amp;@@veeeb*&lt;====&lt;&lt;b#@%*''' . ',:;;-#:-~~~~~~~~~~~~~~~~-~----    </tspan>
-    <tspan x="70" dy="5.8">     ;----------------------------~,*vaeaoo%@&amp;%v%%uauedb&gt;obed*d##:`` . ':-:--o;+~~~~~~~~~~~~~~~~~~~--     </tspan>
-    <tspan x="70" dy="5.8">      ----------------------------~;;uaeeab%ue###ab&lt;&lt;=~-:;:;,'''~&lt;,`...'::~+;&lt;-~~~~~~~~~~~~~~~~~~~~~      </tspan>
-    <tspan x="70" dy="5.8">       ----------------------------~:=veeeaeddddbooobdbo&gt;,:,,:,`.:-' .'':-=;:=~~~~~~~~~~~~~~~~~~~~~       </tspan>
-    <tspan x="70" dy="5.8">        --------~~~-----------------~,&gt;#eeeaeadaddd*dbd&lt;:`````::~+=- .';bb:,:=~~++~+~~+~~~~~~~~~~~        </tspan>
-    <tspan x="70" dy="5.8">         ~~~~~~~~~~~~~~~~~-~-~~-~~~~~~,o&amp;vu#%edbo&gt;=+&gt;&lt;-,``'`'`::&gt;&lt;*+:;oub,``,++~~++++~~~~~~~~~~~~         </tspan>
-    <tspan x="70" dy="5.8">          ~~~~~~~~~~--~~~~~~~~~~~~~~~~~:b%@@@#ed**&lt;=&lt;=;~,`,':-=+&gt;deb##d+`,`'`+++==++~+~~~~~~~~~~          </tspan>
-    <tspan x="70" dy="5.8">           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:~u@@@&amp;uueb+=&lt;+&lt;~:+:&lt;&lt;duv%&amp;%a=:;,''`'-~;;;-+=+~++~~~~~~           </tspan>
-    <tspan x="70" dy="5.8">             ~~~~~~~~~~~~~~~~~~~~~~~~~~~+-,a%@@@&amp;%#bovaee-&lt;aev#@&amp;ub&lt;-;;:``', ;@#eb&gt;-;=+++~~~~             </tspan>
-    <tspan x="70" dy="5.8">              ~~~~~~~~~~~~~~~~~~~~~~~~~~~+;oau#&amp;@@@%#%#%v%@&amp;%vub*&gt;+~+;:``'``''%@@@@&amp;d,=+~~++              </tspan>
-    <tspan x="70" dy="5.8">                ~~~~~~~~~~~~~~~~~~~~~~~~+~`*uueev%&amp;&amp;%%###uo&lt;&lt;==&gt;&gt;&gt;=~+;::,`'.`:~*#&amp;%@@d`&gt;~~                </tspan>
-    <tspan x="70" dy="5.8">                  ~~~~~~~~~~~~~~~~~++~-~;;odouuvu#vvaa*oo==&gt;&gt;&lt;+&lt;=&lt;==~:,,,'''`:=::ovaa@-:                  </tspan>
-    <tspan x="70" dy="5.8">                    ~~~~~~~~+++++++;,;+:~&lt;@a&gt;aeevv#eab&gt;*&lt;+&lt;&lt;~+&lt;~==~-::,`'.''`:-=:;*%%@                    </tspan>
-    <tspan x="70" dy="5.8">                       +==+~--~;;,'=ad&gt;d;d@d&gt;aaeeu#ub*=&lt;~&lt;&gt;===+-~;:::,`,''.'.-;~:,~                       </tspan>
-    <tspan x="70" dy="5.8">                           -&gt;+`,`.b&amp;o*u;-@@e&gt;ddadauvd*==+=+~-;;-:`:;:,`'''''.;:+                          </tspan>
-    <tspan x="70" dy="5.8">                             ``.;uu&lt;ee` v@@v*bbbddaddb&lt;=+~~;:;;`',:,,`'``''''                             </tspan>
-    <tspan x="70" dy="5.8">                                 @vv+  e@@@%adbbbbdbo*=++-;:,,. `,,:,`'`'                                 </tspan>
-    <tspan x="70" dy="5.8">                                      e@@@@#uedboobbo&gt;&lt;+-;::,..'`,,,                                      </tspan>
-    <tspan x="70" dy="5.8">                                               dboobo*&gt;&lt;+~;                                               </tspan>
+    <tspan x="70" dy="0">                                               o&gt;&lt;==++~~~~~                                               </tspan>
+    <tspan x="70" dy="5.8">                                      '..`:::=bo&gt;&lt;+++~~~~~~~~~~~~~~~                                      </tspan>
+    <tspan x="70" dy="5.8">                                    '`.  `:,,+b*&lt;==+~~~-~-~---~-~-~~~~-~+                                 </tspan>
+    <tspan x="70" dy="5.8">                                    .,:,`',:-~&lt;=~;::-~~~~------~~~~-~~-~-~-~~                             </tspan>
+    <tspan x="70" dy="5.8">                          ..  .,;=*d#&amp;@%#%%&amp;@@%%#va*;,,:~--;---~~--~~~-~--~~----                          </tspan>
+    <tspan x="70" dy="5.8">                             ::~d%u%@@@&amp;&amp;@@@@@@@@@@@&amp;vd=,`;--~----;----------~-~--~                       </tspan>
+    <tspan x="70" dy="5.8">                         '+*&lt;&gt;*b%#v@@@@@@@@@@@@@@@@@@@@@#&lt;:`;~--;-----;------------~~~                    </tspan>
+    <tspan x="70" dy="5.8">                        ;vue&amp;@@#&amp;&amp;@&amp;v#&amp;@@@@@@@@@@@@@@@@@@@%+,`--;-------;;-;-;;----~---~                  </tspan>
+    <tspan x="70" dy="5.8">                '.  '~&lt;baddv&amp;@%@@@vev%&amp;@&amp;@@@@@@@@@@@@@@@@@@@#&lt;`;---;;;-;-------;----------                </tspan>
+    <tspan x="70" dy="5.8">              ``` '&gt;vedv#%@&amp;@@@@&amp;%u&amp;&amp;%&amp;@@@@@@@@@@@@@@@@@@@@@@@&gt;.-;;;;;-;;;;-;;;-;---;;------              </tspan>
+    <tspan x="70" dy="5.8">             ```''&gt;eue&amp;@@@@@@&amp;@&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@u':;;-;-;-;---;;;;----;;------~             </tspan>
+    <tspan x="70" dy="5.8">           .'``' *b*%@&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@d.;;;;;;;;;;;;;;;;;;;-;---------           </tspan>
+    <tspan x="70" dy="5.8">          ..'``' da&amp;@@@@@@@@@@@@@&amp;&amp;%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;%&amp;@@@@@@@@@@@@@@@d.;;;;;;;;;;;;;;;;;;-;-;;-;;----~          </tspan>
+    <tspan x="70" dy="5.8">           .''`` *dd&amp;%%@@&amp;%@@&amp;veveboobeeuvvuvvv#&amp;@@@@@@@@@@@@@&amp;:';;;;;;;;;;;;;;;;;;;;;;;;;-;----~         </tspan>
+    <tspan x="70" dy="5.8">           .'```.'ov@%&amp;@u+=o*=+&lt;o&gt;=&lt;*bdauuuuvvv%&amp;@@@@@@@@@@@@@%',::;::;;:;:;;;;;;;;;;;;;;-;;-;---~        </tspan>
+    <tspan x="70" dy="5.8">           .'`''.'.&gt;&amp;e@%'.:;;-~+=++=obbeuuuuuvv#%&amp;@@@@@@@@@@@@#.,::::;::::::::;:;;;;;;;;;;-;-;--;--       </tspan>
+    <tspan x="70" dy="5.8">           .``'''.  **#b ,:----+-;:-=*baeuvvuv#####%&amp;@@@@@@@@@#.,:;::;:::::::::;::::;:;;;;;-;-------      </tspan>
+    <tspan x="70" dy="5.8">     .     .'`''''.  &lt;&amp;~.;,::;;;,'`-&gt;odboobddau######%@@@@@@@@% ':::::::::::::;;;:;;;;;;;;;;;------;-     </tspan>
+    <tspan x="70" dy="5.8">    '.     ''``'''..  ;+:`'`:;::`;=*bboooduvueuv######@@@@@@@#%d`':,:,::::::;;::;;;;;;;;;;;;;-;;;--;--    </tspan>
+    <tspan x="70" dy="5.8">   '..     .''''''.    `;',;-+=~+&lt;*odev%@@@@@@@&amp;%#####%@@@&amp;%v#&amp;@#'`:,,:,:::::::::;::;:;:;;;;;;;;;;;-;-;   </tspan>
+    <tspan x="70" dy="5.8">   '...    .'``''`.     '',;~&lt;o*bdu%&amp;@@@%#&amp;@&amp;&amp;@&amp;&amp;%####v#&amp;@##v&amp;u%@=.:,,,,,,::::::::::::::;:::;;;;;;;-;-;   </tspan>
+    <tspan x="70" dy="5.8">  `'.      .'`''''.    'auuv##veoa%&amp;%&amp;&amp;@eo&amp;&amp;%@@&amp;#vvvvvvv#%%&amp;@%#a%&gt; ,,,,,:::::::::::::::::;:::;;;;;-;;---  </tspan>
+    <tspan x="70" dy="5.8">  ,'..     .'`''''.    `u&amp;&amp;vu@@@+'u&amp;@&amp;&amp;&amp;&amp;&amp;%%#uaobeuuv######a%@@vv&lt; :,,,,::,::::;:,:::::::;:;;;;;;;;;;;;-  </tspan>
+    <tspan x="70" dy="5.8">  ,'..     .'`''.`.      :u=~%@%`.e%%#va***&gt;&lt;&lt;*odeuv####%%#u&amp;#av@;.:,,,,,,,:::,::::,:::::;::;;;;;;;;;-;-  </tspan>
+    <tspan x="70" dy="5.8"> '`..      .'`'''''.      ;&gt;dd&gt;: ,e##v#uo&lt;&lt;&lt;&gt;bddeuvvv#%%%%%%&amp;ue@&gt; ,`,,,,,:,,:,,::,::::::::::::;:;;;;;-;-; </tspan>
+    <tspan x="70" dy="5.8"> '`'..   . .'`'''`'.      ```::; :a#%%&amp;&amp;d&lt;=&gt;*odaeuvvv##%%%%%uvv&amp;+ ````,,,,,,::,:,,:::::,:::::;;;:;;;:;;;; </tspan>
+    <tspan x="70" dy="5.8"> '`''.     .'`''''.       '-;;+- -avvba&amp;#o=*bdaeuvvv###%&amp;%#@&amp;&amp;&amp;@d-..,```,,,,:,,,,,,,,::::::::;;:::;;;;;;; </tspan>
+    <tspan x="70" dy="5.8"> ','..     .''''''.        --;+''&gt;e#uuuv@vobdaeuvvvv##v%&amp;%%&amp;@@@a+do, '.''``,:`,,,,:,,::,,::,::;::;;;;;:;; </tspan>
+    <tspan x="70" dy="5.8"> ',''.     .''''''..       .-+~&lt;~ov&amp;@@@&amp;&amp;vddddauvvvvvvv#%%%&amp;&amp;@v~**bd;;--;,`'``,,,,,,,,,:::,:;::::::;;;;;; </tspan>
+    <tspan x="70" dy="5.8"> ',''      .'`''.'.         .~=+.&lt;a###&amp;&amp;&amp;&amp;&amp;&amp;&amp;#devvvvvvv##&amp;%&amp;@%~&gt;oo***deae=+&lt;~,''`,,,,,,,,,::,:::::::;;;;; </tspan>
+    <tspan x="70" dy="5.8"> ',''      .'``'.'.          .,~eu*a*u&amp;&amp;&amp;&amp;&amp;@&amp;@%eu#vvuvvv%@&amp;@&amp;==oo*&gt;&lt;=odd&gt;:~=&lt;&lt;=-:```,,:,:,,:,,:::;::;::;; </tspan>
+    <tspan x="70" dy="5.8"> ',`..     ..``''''            &lt;@aoobadeu%%uadu&amp;#vuuuv#%@@&amp;@=~*&gt;*&lt;=~=d*=;&lt;&lt;=~-;;++;:```,,:,:::,::::::;:;; </tspan>
+    <tspan x="70" dy="5.8"> .,'..   ...'``''''     .      '#+.~&gt;au###eaaav&amp;&amp;%%##%@@&amp;&amp;@&lt;;&lt;=&lt;&lt;=-:u&lt;;;~-;;;,'`~=&lt;&lt;=~;:,`,:,::,:,:::;:;; </tspan>
+    <tspan x="70" dy="5.8"> ',`..   . .'`'''`'.            :=,-bavubbbbdu&amp;@@@@@@@@&amp;@@&lt;;=+=+~~,&gt;b`~~--~-,`:~+~-;;;---;:,``,:::::::::; </tspan>
+    <tspan x="70" dy="5.8">  ,`'.   . .'`'''''              ~d'.'+==&lt;**u&amp;@@@@@@@@@@&amp;=;=++=~~--~`;=+=~:,`:;:,,``,:;-~++~~;,`,:::::::  </tspan>
+    <tspan x="70" dy="5.8">  `''      .'``'.''               ~b~-bd*d#&amp;@@@@&amp;&amp;&amp;@@&amp;@%+-=++++~---:-~+-,..'``'.'`,,:;;~~+&lt;&gt;&lt;&lt;&lt;~:`,,::::  </tspan>
+    <tspan x="70" dy="5.8">  ,''.     .'`'''''.               ;u#%@&amp;&amp;&amp;&amp;&amp;&amp;vvv%&amp;&amp;%@#--=+++++-;-~+*-  .....'''`,`::;-~++=&lt;&lt;&gt;&gt;*&gt;=;'`,::  </tspan>
+    <tspan x="70" dy="5.8">   ''.      ''`'..'.                 ;~~~-,,,=de###v@v;~&lt;++++~--~;+&gt;-'`.  . .`'``'`,:-~++=&lt;&lt;&lt;&gt;&gt;&gt;***&lt;;``   </tspan>
+    <tspan x="70" dy="5.8">   `'.   .  .'`'.'..     .                .`  =aeae%u;~===+~~~;~;+&lt;, `'.    '.. ``',`~~=+&lt;&gt;&gt;&gt;***oobob&gt;-   </tspan>
+    <tspan x="70" dy="5.8">    '.      .'''.''.                  '''''` ;b-;&lt;ad:~==+++~~:+~;*,.'. ..  .. `++`';-=;~~&lt;&lt;*&gt;*obbbbbbo    </tspan>
+    <tspan x="70" dy="5.8">     .  ..  .''''''.                  '''''''&lt;&lt;;&gt;+-`:~~~~~--,:o`&lt;, '. ...`:`'=b*+&lt;od&gt;;~d&lt;o==*&lt;bbodddb     </tspan>
+    <tspan x="70" dy="5.8">            ..''.''.                 .'`'.,.-&gt;;=&lt;` '`:;;;::`.e,-: `..  ':;:+db*&gt;&lt;&lt;-`.-v&gt;-ee**=**dddd      </tspan>
+    <tspan x="70" dy="5.8">            .''..''.                 '''''` ,-;;:+ .,,,``'' d&lt;'; ,`  '::;+**-:-:'  -&gt;ae';vu*&gt;oa&lt;ooe       </tspan>
+    <tspan x="70" dy="5.8">           .'''.'''.                 '`''`':,`.-v@d' ''''' =o ;'`: .:;`-&lt;~` .,' .;&gt;d&gt;d&gt; ~%ed=avbb&gt;        </tspan>
+    <tspan x="70" dy="5.8">           ..'`..''.                 .`'''`;,; =@%@%=  .' `a'``.:.,~,.-~. ''`. :*&gt;&gt;=&lt;d- &lt;%vo=vabv         </tspan>
+    <tspan x="70" dy="5.8">          ..'''''''.                 .`'`'`,,,. o@&amp;@@a:   *&lt;.:``'-~..-: .`. .;:*=~&lt;&lt;ob` d%v**vdo          </tspan>
+    <tspan x="70" dy="5.8">            .`'''.'                  '```'``,`. .#@@@@%;':d'``:':- ';' '. ';&gt;-;&gt;-+&gt;*d&gt; :v%u*bvb           </tspan>
+    <tspan x="70" dy="5.8">             ''''''                  '`````,,,   =@@@@v:;`+.`';'; .,. . .-&lt;&lt;; &gt;+-&gt;*od: &gt;%#a*d             </tspan>
+    <tspan x="70" dy="5.8">              ''.''                  `''```,`,.  .&gt;@@@#-~`''``;`. .   ':&lt;&gt;-` ;o;&lt;*obo.`u%vdb              </tspan>
+    <tspan x="70" dy="5.8">                .''                 .'''``````'  : *@@&amp;~=. ,',-' .  '-+=+`` 'b+=bo*a- &gt;%#e                </tspan>
+    <tspan x="70" dy="5.8">                  '      .          .'''```````. , `@@@e&lt; ',.:;`. .:+~;:,' `oo=ob&gt;o= :##                  </tspan>
+    <tspan x="70" dy="5.8">                                    .''''```````.' .#@&amp;@* '`':;`.';=~;:`.';bb&gt;*b&gt;&gt;~. d                    </tspan>
+    <tspan x="70" dy="5.8">                                    .''''``,`'':`.  #@%@* '.,;;``~~;,'  :&lt;oo&gt;&gt;**+;                        </tspan>
+    <tspan x="70" dy="5.8">                                    .''''``,`'`::.  e@%@b ' ,:,.,`'   :+&lt;&gt;o&gt;&lt;&lt;~,                          </tspan>
+    <tspan x="70" dy="5.8">                                    .''''`,````,;'  o@&amp;@e'..:;, .'. .-==&gt;o&lt;+~                             </tspan>
+    <tspan x="70" dy="5.8">                                    .'''''`,''',;'. -@&amp;@v, .;:..`. '-=+&gt;&lt;                                 </tspan>
+    <tspan x="70" dy="5.8">                                      '''`,``'',;' ..#@@%; '~. .  ,~                                      </tspan>
+    <tspan x="70" dy="5.8">                                               :;` ' *@@&amp;~                                                </tspan>
       </text>
     </g>
 
