@@ -19,8 +19,6 @@ Every research claim below is backed by an independent, externally verifiable so
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1821--323X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1821-323X)
 [![Digital Diagnostics](https://img.shields.io/badge/Digital_Diagnostics-Vol.5(4)_2024-0D9488?style=flat-square)](https://jdigitaldiagnostics.com/DD/article/view/630602)
 
-<!-- TODO: add Google Scholar badge once the profile exists (audit action plan, phase 2) -->
-
 ---
 
 ## 🚀 About Me
