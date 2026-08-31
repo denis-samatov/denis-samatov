@@ -55,7 +55,7 @@ Full role-by-role breakdown, day-to-day scope, and team details — happy to wal
 | **Modular RAG Platform** | Reusable ingestion/retrieval components — OCR, hybrid retrieval, GraphRAG, reranking, source-grounded generation | Python, hybrid retrieval, GraphRAG |
 | **CourseLLM** | Applied AI platform delivered under the same technical leadership umbrella | Python, FastAPI |
 | **EPIFAT** | Cardiac CT epicardial fat segmentation & radiomics tool — officially registered software (No. 2025610317) | PyTorch, U-Net / Attention U-Net, radiomics |
-| **NAB** | Python package for tensor-based reduced-order modeling & QR sparse-sensor placement, with CLI, tests, and reproducible benchmarks | Python, Tucker/HOSVD, Bayesian inference |
+| **NAB** | Python package for tensor-based reduced-order modeling & QR sparse-sensor placement, tested and benchmarked — methods documented in the public [tensor_based_modal_decomposition_method](https://github.com/denis-samatov/tensor_based_modal_decomposition_method) repo below | Python, Tucker/HOSVD, Bayesian inference |
 
 **Public research code** — the methods behind the résumé, actually on GitHub:
 
@@ -151,9 +151,12 @@ Full role-by-role breakdown, day-to-day scope, and team details — happy to wal
 I'm always open to talking about **RAG/LLM systems, medical imaging, scientific ML, and technical leadership roles** — whether that's a full-time role, research collaboration, or consulting.
 
 [![GitHub](https://img.shields.io/badge/GitHub-denis--samatov-10B981?style=flat-square&logo=github&logoColor=white)](https://github.com/denis-samatov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-denis--samatov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-samatov)
 [![Telegram](https://img.shields.io/badge/Telegram-%40SamatovDS-0D9488?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SamatovDS)
 [![Email](https://img.shields.io/badge/Email-denissamatov470%40gmail.com-34D399?style=flat-square&logo=gmail&logoColor=white)](mailto:denissamatov470@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download_CV-0D9488?style=flat-square&logo=adobeacrobatreader&logoColor=white)](CV_SamatovDS.pdf)
+
+*`CV_SamatovDS.pdf` is © Denis Samatov, provided for reference in hiring/collaboration contexts only — all rights reserved, no redistribution without permission.*
 
 ---
 
