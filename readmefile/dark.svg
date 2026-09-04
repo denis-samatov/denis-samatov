@@ -62,6 +62,12 @@
     <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
       <circle cx="1.5" cy="1.5" r="1.2" fill="#94A3B8" opacity="0.10" />
     </pattern>
+    <clipPath id="leftPanelClip" clipPathUnits="userSpaceOnUse">
+      <rect x="40" y="40" width="360" height="530" rx="16" />
+    </clipPath>
+    <clipPath id="rightPanelClip" clipPathUnits="userSpaceOnUse">
+      <rect x="440" y="40" width="720" height="530" rx="16" />
+    </clipPath>
     <clipPath id="avatarRevealClip" clipPathUnits="userSpaceOnUse">
       <rect x="40" y="110" width="360" height="454">
         <animate class="avatar-reveal-motion" attributeName="height" values="0;31;36.8;42.6;48.4;54.2;60;65.8;71.6;77.4;83.2;89;94.8;100.6;106.4;112.2;118;123.8;129.6;135.4;141.2;147;152.8;158.6;164.4;170.2;176;181.8;187.6;193.4;199.2;205;210.8;216.6;222.4;228.2;234;239.8;245.6;251.4;257.2;263;268.8;274.6;280.4;286.2;292;297.8;303.6;309.4;315.2;321;326.8;332.6;338.4;344.2;350;355.8;361.6;454" dur="2.9s" calcMode="discrete" fill="freeze" />
@@ -71,8 +77,8 @@
 
   <rect width="1200" height="610" fill="#030712" />
   <rect x="1" y="1" width="1198" height="608" rx="24" fill="url(#dots)" />
-  <circle class="orb1" cx="1050" cy="90" r="170" fill="url(#glowTeal)" />
-  <circle class="orb2" cx="140" cy="520" r="190" fill="url(#glowEmerald)" />
+  <circle class="orb1" cx="1050" cy="90" r="150" fill="url(#glowTeal)" clip-path="url(#rightPanelClip)" />
+  <circle class="orb2" cx="140" cy="520" r="165" fill="url(#glowEmerald)" clip-path="url(#leftPanelClip)" />
 
   <!-- LEFT: ASCII AVATAR TERMINAL -->
   <g>
