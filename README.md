@@ -1,4 +1,4 @@
-<h1 align="left">Samatov Denis</h1>
+<h1 align="left">Denis Samatov</h1>
 
 **Machine Learning Engineer · Applied AI Technical Lead**
 
@@ -13,7 +13,7 @@
 
 ## ✅ Verified
 
-Every research claim below is backed by an independent, externally verifiable source — not just text.
+Selected research outputs are linked to primary sources.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2607.09687-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.09687)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1821--323X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1821-323X)
@@ -25,21 +25,21 @@ Every research claim below is backed by an independent, externally verifiable so
 
 I'm an **ML Engineer and Applied AI Technical Lead with 5+ years of experience** building RAG and document-intelligence platforms, medical imaging systems, and scientific ML tools. I lead teams of 3–5 engineers end to end — architecture, delivery, code and solution review, and ML engineering quality — and I still write the hard code myself: tensor methods, Bayesian inference, segmentation, radiomics, and production Python/FastAPI systems that run in CI/CD, not just in notebooks.
 
-> If you're evaluating this profile as a recruiter, collaborator, or hiring manager: the short version is — I ship research-grade ML into production, I lead the team that ships it, and I publish/patent what we learn along the way.
+> If you're evaluating this profile as a recruiter, collaborator, or hiring manager: the short version is — I ship research-grade ML into production, I lead the team that ships it, and I publish selected research outputs and build software that has received official state registration.
 
 **What I bring to a team:**
 - 🧭 **Technical leadership** — currently leading architecture and delivery of *three* applied AI platforms simultaneously, coordinating 3–5 engineers per team, owning system boundaries and operational readiness.
 - 🔬 **Research-to-production range** — equally comfortable deriving a Bayesian sensor-placement algorithm and shipping the FastAPI service, Redis workers, and CI gates that put it in front of users.
-- 📈 **Measurable impact** — e.g. cut CT/MRI segmentation processing time by **40%** with an automated segmentation + manual ROI-correction pipeline.
-- 🏛️ **Recognized track record** — 5+ publications (incl. arXiv), one officially registered software product, oral presentations at international conferences (Singapore, China), and multiple AI/ML competition wins.
+- 📈 **Measurable impact** — automated cardiac CT segmentation with manual ROI correction, achieving **22.3 seconds per study**.
+- 🏛️ **Recognized track record** — 5+ publications (incl. arXiv), one officially registered software product, accepted oral presentations at international conferences (Singapore and China), and multiple AI/ML competition wins.
 
 ---
 
 ## 🧑‍💻 Experience
 
 - **Machine Learning Engineer / Technical Lead**, *Analytics and Machine Learning Department, MSUU* (`Apr 2024 – Present`) — leading architecture and delivery of three applied AI platforms (CourseLLM, Modular RAG Platform, **LLM Adviser** — [case study](https://github.com/denis-samatov/llm-adviser-case-study)), coordinating teams of 3–5 engineers.
-- **Data Scientist / Research ML Engineer**, *Heriot-Watt TPU Center* (`Sep 2024 – Present`) — tensor-based reduced-order modeling and QR sparse-sensor placement for reservoir data; published **NAB** as a tested, benchmarked Python package, and the underlying methods as [**public research code**](https://github.com/denis-samatov/tensor_based_modal_decomposition_method) + [arXiv preprint](https://arxiv.org/abs/2607.09687).
-- **Machine Learning Engineer**, *Cardiology Research Institute* (`Mar 2021 – May 2025`) — built **EPIFAT**, officially registered cardiac CT segmentation software (No. 2025610317); cut processing time by **40%** — related public research code: [**radiomics**](https://github.com/denis-samatov/radiomics).
+- **Data Scientist / Research ML Engineer**, *Heriot-Watt TPU Center* (`Sep 2024 – Present`) — tensor-based reduced-order modeling and QR sparse-sensor placement for reservoir data; published **NAB** as a tested, benchmarked Python package, and the underlying methods as [**public research code**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) + [arXiv preprint](https://arxiv.org/abs/2607.09687).
+- **Machine Learning Engineer**, *Cardiology Research Institute* (`Mar 2021 – May 2025`) — built **EPIFAT**, officially registered cardiac CT segmentation software (No. 2025610317); achieved **22.3 seconds per study** with an automated segmentation and manual ROI-correction workflow; related medical-imaging research code remains private.
 
 Full role-by-role breakdown, day-to-day scope, and team details — happy to walk through in a call, or see LinkedIn once linked below.
 
@@ -55,12 +55,11 @@ Full role-by-role breakdown, day-to-day scope, and team details — happy to wal
 | **Modular RAG Platform** | Reusable ingestion/retrieval components — OCR, hybrid retrieval, GraphRAG, reranking, source-grounded generation | Python, hybrid retrieval, GraphRAG |
 | **CourseLLM** | Applied AI platform delivered under the same technical leadership umbrella | Python, FastAPI |
 | **EPIFAT** | Cardiac CT epicardial fat segmentation & radiomics tool — officially registered software (No. 2025610317) | PyTorch, U-Net / Attention U-Net, radiomics |
-| **NAB** | Python package for tensor-based reduced-order modeling & QR sparse-sensor placement, tested and benchmarked — methods documented in the public [tensor_based_modal_decomposition_method](https://github.com/denis-samatov/tensor_based_modal_decomposition_method) repo below | Python, Tucker/HOSVD, Bayesian inference |
+| **NAB** | Python package for tensor-based reduced-order modeling & QR sparse-sensor placement, tested and benchmarked — methods documented in the public [tensor-based-modal-decomposition-method](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) repository below | Python, Tucker/HOSVD, Bayesian inference |
 
 **Public research code** — the methods behind the résumé, actually on GitHub:
 
-- 🔗 [**tensor_based_modal_decomposition_method**](https://github.com/denis-samatov/tensor_based_modal_decomposition_method) — Tucker/HOSVD-based modal decomposition and QR sparse-sensor placement for reservoir field reconstruction; the working code behind the AI4X Singapore 2026 talk and the arXiv preprint.
-- 🔗 [**radiomics**](https://github.com/denis-samatov/radiomics) — radiomic texture analysis of cardiac polar maps with ML, the research line that led into EPIFAT.
+- 🔗 [**tensor-based-modal-decomposition-method**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) — Tucker/HOSVD-based modal decomposition and QR sparse-sensor placement for reservoir field reconstruction; the working code behind the accepted AI4X Singapore 2026 oral presentation and the arXiv preprint.
 
 ---
 
@@ -74,7 +73,7 @@ Full role-by-role breakdown, day-to-day scope, and team details — happy to wal
 
 ## 🏆 Awards, Conferences & Recognition
 
-- 🎤 Oral Presentation — *"Tensor-Based Modal Decomposition with QR Pivoting for Sparse Sensor Placement and Field Reconstruction,"* AI4X – Accelerate Conference, **Singapore**, 2026.
+- 🎤 Accepted Oral Presentation — *"Tensor-Based Modal Decomposition with QR Pivoting for Sparse Sensor Placement and Field Reconstruction,"* AI4X – Accelerate Conference, **Singapore**, 2026.
 - 🎤 Accepted Presentation — *"Probabilistic Evaluation of Parameter Space Using Neighbourhood Algorithm Bayes,"* Data Intelligence in the Oil and Gas Industry, Nizhny Novgorod, 2026.
 - 🌏 Participant, School-Conference on Tensor Methods in Mathematics and AI, **Shenzhen, China**, 2024.
 - 🌏 Participant, Skoltech-HIT Summer School, **Harbin, China** (remote), 2025.
