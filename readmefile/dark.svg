@@ -298,38 +298,38 @@
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.55s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.3s" begin="3.55s" fill="freeze" />
-      <rect x="490" y="448" width="128" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
-      <text x="554.0" y="466" fill="#10B981" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">scikit-learn</text>
+      <rect x="490" y="448" width="62" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
+      <text x="521.0" y="466" fill="#10B981" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">RAG</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.62s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.3s" begin="3.62s" fill="freeze" />
-      <rect x="628" y="448" width="62" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
-      <text x="659.0" y="466" fill="#0D9488" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">RAG</text>
+      <rect x="562" y="448" width="98" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
+      <text x="611.0" y="466" fill="#0D9488" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">GraphRAG</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.69s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.3s" begin="3.69s" fill="freeze" />
-      <rect x="700" y="448" width="98" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
-      <text x="749.0" y="466" fill="#34D399" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">GraphRAG</text>
+      <rect x="670" y="448" width="112" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
+      <text x="726.0" y="466" fill="#34D399" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">Agentic AI</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.76s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.3s" begin="3.76s" fill="freeze" />
-      <rect x="808" y="448" width="118" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
-      <text x="867.0" y="466" fill="#10B981" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">Bayesian ML</text>
+      <rect x="792" y="448" width="104" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
+      <text x="844.0" y="466" fill="#10B981" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">LangGraph</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.83s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.3s" begin="3.83s" fill="freeze" />
-      <rect x="936" y="448" width="74" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
-      <text x="973.0" y="466" fill="#0D9488" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">U-Net</text>
+      <rect x="906" y="448" width="64" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
+      <text x="938.0" y="466" fill="#0D9488" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">MCP</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.9s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.3s" begin="3.9s" fill="freeze" />
-      <rect x="1020" y="448" width="76" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
-      <text x="1058.0" y="466" fill="#34D399" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">CI/CD</text>
+      <rect x="980" y="448" width="90" height="27" rx="8" fill="rgba(16,185,129,0.05)" stroke="rgba(13,148,136,0.35)" stroke-width="1" />
+      <text x="1025.0" y="466" fill="#34D399" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">Qdrant</text>
     </g>
 
     <g opacity="0">
