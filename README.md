@@ -1,12 +1,12 @@
 <h1 align="left">Denis Samatov</h1>
 
-**Machine Learning Engineer · Applied AI Technical Lead**
+**Senior Machine Learning Engineer · LLM/RAG & Agentic AI · Technical Lead**
 
 <!-- Theme-Sensitive Hero Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readmefile/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="readmefile/light.svg">
-  <img alt="Denis Samatov — ML Engineer / Applied AI Technical Lead" src="readmefile/dark.svg" width="100%">
+  <img alt="Denis Samatov — Senior Machine Learning Engineer / LLM-RAG and Agentic AI / Technical Lead" src="readmefile/dark.svg" width="100%">
 </picture>
 
 <br/>
@@ -23,22 +23,22 @@ Selected research outputs are linked to primary sources.
 
 ## 🚀 About Me
 
-I'm an **ML Engineer and Applied AI Technical Lead with 5+ years of experience** building RAG and document-intelligence platforms, medical imaging systems, and scientific ML tools. I lead teams of 3–5 engineers end to end — architecture, delivery, code and solution review, and ML engineering quality — and I still write the hard code myself: tensor methods, Bayesian inference, segmentation, radiomics, and production Python/FastAPI systems that run in CI/CD, not just in notebooks.
+I'm a **Senior Machine Learning Engineer and Technical Lead with 5+ years of experience** building RAG and document-intelligence platforms, medical imaging systems, and scientific ML tools. I coordinate a five-engineer team across applied AI initiatives end to end — architecture, delivery, code and solution review, and ML engineering quality — while remaining hands-on with tensor methods, Bayesian inference, segmentation, radiomics, and tested Python/FastAPI systems with CI/CD.
 
-> If you're evaluating this profile as a recruiter, collaborator, or hiring manager: the short version is — I ship research-grade ML into production, I lead the team that ships it, and I publish selected research outputs and build software that has received official state registration.
+> If you're evaluating this profile as a recruiter, collaborator, or hiring manager: the short version is — I turn research-grade ML into deployed, testable systems, lead the team that delivers them, and publish selected research outputs while building software that has received official state registration.
 
 **What I bring to a team:**
-- 🧭 **Technical leadership** — currently leading architecture and delivery of *three* applied AI platforms simultaneously, coordinating 3–5 engineers per team, owning system boundaries and operational readiness.
+- 🧭 **Technical leadership** — leading architecture and delivery across *three* applied AI platforms, coordinating a five-engineer team across these initiatives and owning system boundaries and operational readiness.
 - 🔬 **Research-to-production range** — equally comfortable deriving a Bayesian sensor-placement algorithm and shipping the FastAPI service, Redis workers, and CI gates that put it in front of users.
 - 📈 **Measurable impact** — automated cardiac CT segmentation with manual ROI correction, achieving **22.3 seconds per study**.
-- 🏛️ **Recognized track record** — 5+ publications (incl. arXiv), one officially registered software product, accepted oral presentations at international conferences (Singapore and China), and multiple AI/ML competition wins.
+- 🏛️ **Recognized track record** — 5+ research outputs, including peer-reviewed articles, conference papers, and an arXiv preprint; one officially registered software product; accepted oral presentations at international conferences; and multiple AI/ML competition awards and placements.
 
 ---
 
 ## 🧑‍💻 Experience
 
-- **Machine Learning Engineer / Technical Lead**, *Analytics and Machine Learning Department, MSUU* (`Apr 2024 – Present`) — leading architecture and delivery of three applied AI platforms (CourseLLM, Modular RAG Platform, **LLM Adviser** — [case study](https://github.com/denis-samatov/llm-adviser-case-study)), coordinating teams of 3–5 engineers.
-- **Data Scientist / Research ML Engineer**, *Heriot-Watt TPU Center* (`Sep 2024 – Present`) — tensor-based reduced-order modeling and QR sparse-sensor placement for reservoir data; published **NAB** as a tested, benchmarked Python package, and the underlying methods as [**public research code**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) + [arXiv preprint](https://arxiv.org/abs/2607.09687).
+- **Machine Learning Engineer / Technical Lead**, *Analytics and Machine Learning Department, MSUU* (`Apr 2024 – Present`) — leading architecture and delivery across three applied AI platforms (CourseLLM, Modular RAG Platform, **LLM Adviser** — [case study](https://github.com/denis-samatov/llm-adviser-case-study)), coordinating a five-engineer team across these initiatives.
+- **Data Scientist / Research ML Engineer**, *Heriot-Watt TPU Center* (`Sep 2024 – Present`) — developed **NAB**, a tested and benchmarked Python package for Bayesian parameter-space appraisal using Voronoi-based sampling and MCMC; separately published tensor-based reduced-order modeling and QR sparse-sensor placement as [**public research code**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) + [arXiv preprint](https://arxiv.org/abs/2607.09687).
 - **Machine Learning Engineer**, *Cardiology Research Institute* (`Mar 2021 – May 2025`) — built **EPIFAT**, officially registered cardiac CT segmentation software (No. 2025610317); achieved **22.3 seconds per study** with an automated segmentation and manual ROI-correction workflow; related medical-imaging research code remains private.
 
 Full role-by-role breakdown, day-to-day scope, and team details — happy to walk through in a call, or see LinkedIn once linked below.
@@ -47,7 +47,7 @@ Full role-by-role breakdown, day-to-day scope, and team details — happy to wal
 
 ## 🏗️ Featured Work
 
-**Applied AI platforms I lead in production** (institutional/client work — repos are private, happy to walk through architecture and results in a call):
+**Applied AI platforms I lead and deliver** (institutional/client work — repositories are private, with a sanitized architecture case study linked where available):
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -55,7 +55,8 @@ Full role-by-role breakdown, day-to-day scope, and team details — happy to wal
 | **Modular RAG Platform** | Reusable ingestion/retrieval components — OCR, hybrid retrieval, GraphRAG, reranking, source-grounded generation | Python, hybrid retrieval, GraphRAG |
 | **CourseLLM** | Applied AI platform delivered under the same technical leadership umbrella | Python, FastAPI |
 | **EPIFAT** | Cardiac CT epicardial fat segmentation & radiomics tool — officially registered software (No. 2025610317) | PyTorch, U-Net / Attention U-Net, radiomics |
-| **NAB** | Python package for tensor-based reduced-order modeling & QR sparse-sensor placement, tested and benchmarked — methods documented in the public [tensor-based-modal-decomposition-method](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) repository below | Python, Tucker/HOSVD, Bayesian inference |
+| **NAB** | Tested and benchmarked Python package for Bayesian parameter-space appraisal using Voronoi-based sampling and MCMC/Gibbs methods | Python, Numba, MCMC, Gibbs sampling |
+| 🔗 [**Tensor-Based Modal Decomposition**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) | Tucker/HOSVD reduced-order modeling and QR sparse-sensor placement for reservoir field reconstruction | Python, Tucker/HOSVD, QR pivoting |
 
 **Public research code** — the methods behind the résumé, actually on GitHub:
 
@@ -74,6 +75,7 @@ Full role-by-role breakdown, day-to-day scope, and team details — happy to wal
 ## 🏆 Awards, Conferences & Recognition
 
 - 🎤 Accepted Oral Presentation — *"Tensor-Based Modal Decomposition with QR Pivoting for Sparse Sensor Placement and Field Reconstruction,"* AI4X – Accelerate Conference, **Singapore**, 2026.
+- 🎤 Accepted Oral Presentation — SEG Mathematical Geophysics Conference, **Beijing, China**, 17–19 September 2026.
 - 🎤 Accepted Presentation — *"Probabilistic Evaluation of Parameter Space Using Neighbourhood Algorithm Bayes,"* Data Intelligence in the Oil and Gas Industry, Nizhny Novgorod, 2026.
 - 🌏 Participant, School-Conference on Tensor Methods in Mathematics and AI, **Shenzhen, China**, 2024.
 - 🌏 Participant, Skoltech-HIT Summer School, **Harbin, China** (remote), 2025.
