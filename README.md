@@ -98,13 +98,25 @@ Full role-by-role breakdown, day-to-day scope, and team details — happy to wal
 
 ## 🛠️ Technical Skills
 
-### 🤖 LLM / RAG
+### 🤖 LLM / RAG & Agents
 ![RAG](https://img.shields.io/badge/RAG-0D9488?style=flat-square)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-10B981?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-34D399?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D9488?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-10B981?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-34D399?style=flat-square)
+![Multi-Provider Routing](https://img.shields.io/badge/Multi--Provider_Routing-0D9488?style=flat-square)
+![Structured Tool Calling](https://img.shields.io/badge/Structured_Tool_Calling-10B981?style=flat-square)
+
+### 🔎 Retrieval & Evaluation
 ![Hybrid Retrieval](https://img.shields.io/badge/Hybrid_Retrieval-34D399?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector_Search-0D9488?style=flat-square)
-![Reranking](https://img.shields.io/badge/Reranking-10B981?style=flat-square)
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-34D399?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-0D9488?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-10B981?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector_Search-34D399?style=flat-square)
+![Reranking](https://img.shields.io/badge/Reranking-0D9488?style=flat-square)
+![Ragas](https://img.shields.io/badge/Ragas-10B981?style=flat-square)
+![Groundedness](https://img.shields.io/badge/Groundedness-34D399?style=flat-square)
+![Retrieval Evaluation](https://img.shields.io/badge/Retrieval_Evaluation-0D9488?style=flat-square)
 
 ### 🧠 ML / Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-10B981?style=flat-square&logo=pytorch&logoColor=white)
@@ -125,6 +137,12 @@ Full role-by-role breakdown, day-to-day scope, and team details — happy to wal
 ![Docker](https://img.shields.io/badge/Docker-34D399?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-0D9488?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10B981?style=flat-square&logo=postgresql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-34D399?style=flat-square)
+![RQ](https://img.shields.io/badge/RQ-0D9488?style=flat-square)
+![MinIO](https://img.shields.io/badge/MinIO-10B981?style=flat-square)
+![S3](https://img.shields.io/badge/S3-34D399?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-0D9488?style=flat-square&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-10B981?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-34D399?style=flat-square&logo=git&logoColor=white)
 
 ---
