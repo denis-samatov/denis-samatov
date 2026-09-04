@@ -15,10 +15,8 @@
       @keyframes gentleBob { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-6px); } }
       .ascii-bob { animation: gentleBob 6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
 
-      @keyframes asciiLineReveal { from { opacity: 0; } to { opacity: 1; } }
-      .ascii-line { opacity: 0; animation: asciiLineReveal 0.01s steps(1, end) forwards; }
       @media (prefers-reduced-motion: reduce) {
-        .ascii-line { opacity: 1; animation: none; }
+        .avatar-reveal-motion { display: none; }
       }
     </style>
 
@@ -64,6 +62,11 @@
     <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
       <circle cx="1.5" cy="1.5" r="1.2" fill="#475569" opacity="0.08" />
     </pattern>
+    <clipPath id="avatarRevealClip" clipPathUnits="userSpaceOnUse">
+      <rect x="40" y="110" width="360" height="454">
+        <animate class="avatar-reveal-motion" attributeName="height" values="0;31;36.8;42.6;48.4;54.2;60;65.8;71.6;77.4;83.2;89;94.8;100.6;106.4;112.2;118;123.8;129.6;135.4;141.2;147;152.8;158.6;164.4;170.2;176;181.8;187.6;193.4;199.2;205;210.8;216.6;222.4;228.2;234;239.8;245.6;251.4;257.2;263;268.8;274.6;280.4;286.2;292;297.8;303.6;309.4;315.2;321;326.8;332.6;338.4;344.2;350;355.8;361.6;454" dur="2.9s" calcMode="discrete" fill="freeze" />
+      </rect>
+    </clipPath>
   </defs>
 
   <rect width="1200" height="610" fill="#FFFFFF" />
@@ -87,66 +90,66 @@
       <animate attributeName="y" values="110;460;110" dur="7s" repeatCount="indefinite" />
     </rect>
 
-    <g class="ascii-bob">
+    <g class="ascii-bob" clip-path="url(#avatarRevealClip)">
       <text x="70" y="135" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="4.9" font-weight="900" fill="url(#asciiGradient)" xml:space="preserve">
-    <tspan x="70" dy="0" class="ascii-line" style="animation-delay:0.350s">                                               do&gt;&lt;&lt;&lt;==&lt;&lt;&lt;&gt;                                               </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.395s">                                      -;;-~;;&lt;dd*&gt;==&lt;==++=&lt;&lt;&lt;=&lt;&lt;&gt;&lt;=&lt;                                      </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.440s">                                 '`:~=~;:-~-;=db&gt;&lt;+~~~+++=&lt;+======&lt;&lt;&lt;&lt;&lt;&lt;&gt;                                 </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.485s">                             ::``''`~&lt;=~;;;-~=o&gt;&lt;~--~~~++++++++=&lt;&lt;===&lt;&lt;&lt;=&lt;===                             </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.530s">                          -;::,:~&lt;*beuvvv%vuv###vveb+--~~-~~~++===+&lt;==+=+====+=+                          </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.575s">                       ,,;:::~=&lt;*bodvv#v%&amp;%#vuvu##%###a*--~~-=++~=~=========+&lt;=&lt;===                       </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.620s">                    ''```:~=&lt;&lt;&gt;*oodvu##vuuv#%#vv%%&amp;&amp;%%&amp;%#*~;~~~~~++=+=+==+=+==+====&lt;&lt;&lt;                    </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.665s">                  ;,'`'';b*oeedoad#uboaeu#vv##%%%##%%#%%%vu&lt;--~~~~======+++++++==+=&lt;==&lt;=                  </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.710s">                =~:``-=*&gt;&gt;**dudvv%d=daaaauvvvv#%&amp;&amp;&amp;%&amp;%&amp;%%%##v*;~+++++=++=======+===+======                </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.755s">              &gt;&lt;=;:&gt;db*oav%u%u#&amp;va*#eea#&amp;&amp;%%&amp;&amp;&amp;&amp;%&amp;%%%&amp;%%%%#%##o-~~~~=++=+++==++=~==+++=+===&lt;              </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.800s">             &lt;&lt;&lt;+;oadavuv#&amp;&amp;&amp;u@v###&amp;%%%&amp;%%%%%%%&amp;%&amp;&amp;%%&amp;%&amp;&amp;&amp;%#%#u~~~====+=+===++++===+++===&lt;===             </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.845s">           -===+~bbbu#%u%&amp;&amp;&amp;&amp;&amp;&amp;%%%%%%###vvuuuvuv%&amp;&amp;&amp;%&amp;&amp;&amp;&amp;&amp;%%%%%b;~+======+=+~+=++=++=~=+====+=+           </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.890s">          ;-+==++ddu####%&amp;&amp;%&amp;%##veeaaaaaaadddbbbe#%%%%&amp;&amp;&amp;&amp;%%%&amp;%d-~+===+====+++=+=+==+=+=+++====&lt;          </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.935s">         ,;-++++;obduuevueaeadb*o*&lt;==&lt;*****&lt;&gt;&lt;&lt;*de##%%&amp;&amp;&amp;&amp;&amp;%%%#+-~++======+==+=======+=+++======&lt;         </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:0.980s">        `,:;~++~;~bauev#d==&lt;=+~~=~;;~=&lt;&gt;*&gt;&lt;&lt;===&gt;de####%&amp;%%%%%%#--~~++++=+=+===&lt;+====++~++==+&lt;+=&lt;==        </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.025s">       ,,,:-+++~-;~oeavu-`:;;;;--:::-+=&gt;&gt;&lt;&lt;+=++=*aeuvv#v###%%&amp;#;-~~~~=~+++~~~~++===+++++======+&lt;+=&lt;       </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.070s">      :,,:;-==++~;`'&gt;oad;,,;--;-:``,:-+=&lt;&lt;&lt;=++=&lt;&lt;&lt;&gt;odeuvvv##%&amp;#:;-~~+=~~~~+~~+~++~+~=~+++=+===&lt;=====      </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.115s">     -;,:;;~+==++-:,'&gt;u&gt;;;:::::,'.',;-~~----~-+&lt;&gt;&lt;&gt;&gt;&gt;buvvvvu#&amp;#:;;--~+~++=++++++=~=+++=++++====&lt;==++=     </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.160s">    +-:,,:;++&lt;&lt;&lt;=+;:`.:&lt;+:,,;-;:`:;-~=+~~=*o&gt;&lt;==&lt;&lt;&lt;&lt;&gt;*ev###u#ea&gt;::-;+-~~~+++==+++++++++++~+++==++==+==    </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.205s">   =~-;,,:;~=&lt;&lt;&lt;&lt;=;:,'.;+;;+=&lt;=~~~+=&gt;oev%&amp;&amp;%%vued*&gt;&lt;&lt;&lt;ou##d*&gt;bavd;;--~~-~++++++~+=~++~+~+++++=++++==+&lt;+   </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.250s">   =~;;:::-~&lt;&gt;&gt;&lt;=&lt;~;:`''~+&gt;****&gt;&gt;*bv%%#%%v#&amp;%&amp;%vao&gt;&lt;===&gt;ee&lt;&gt;&gt;e*e#=;~-~---~~++++++~~+~++~+~~~+++++=+=+==   </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.295s">  &lt;=+-:,,;-+&lt;&gt;&lt;&gt;&lt;=~;:''`ev##%#ud*oaeev%&amp;d&gt;%#uvveo&gt;&lt;==++=&lt;*&gt;du#d&gt;u&gt;:;~~--~~~+~+++++~+~~~+~=~+++++++=====&lt;  </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.340s">  &gt;+~-:::;-~&lt;&gt;&lt;===~-:``:v%###&amp;&amp;&amp;=:oevvuvvuuuao&lt;--+=&lt;&gt;&gt;&lt;&lt;&lt;&lt;=-eu#ad&lt;;-;---~+~=+++=+~~~+~+++=+++=+=+======&lt;  </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.385s">  &gt;=+-:,:--~=&gt;&lt;&lt;=&lt;+;:`'''+#do#%#,,&gt;aeab&gt;~-;;:,:;~=&gt;**b*oo*&lt;=#ebbe-:--~----~~++~+=+~~~+~+~++++====+=====&lt;  </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.430s"> +&gt;+~-;,:-;~&lt;*&lt;&lt;&lt;&lt;+-``''``&gt;deeb~`:*aedao~:,,:-+=&gt;*obbddbbbboa**a&lt;:;;-----~++=+~++~++=+++~~+++++++====&lt;=&lt;= </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.475s"> =&gt;+~-::;;;~&gt;*&gt;&lt;&lt;&lt;+-,`'`,:-~+&lt;+~';&gt;duu#u&lt;:,:;~=*bddddaddddau**oe+,::;;--~~~~++~++~=++=~~++=~=+==+=+=+==== </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.520s"> +&gt;=~-;:;;;~&lt;&gt;&gt;&lt;=&lt;+-:```,;;====-`~*dd&gt;b%v=:;+&lt;*deaaddabaedb&amp;&amp;%#%o~,,;;;;--~~+~+++~++~++++++++=++++++=+=== </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.565s"> =*=+-:::;;~&lt;&lt;&lt;===+;:``,,;`=&lt;&lt;&lt;;;=*eeeeu&amp;a++=&gt;odaaddddodeddv#%%a&lt;**:`:::;;;-~-~~~-~~~~~~~++~++=++=++=&lt;=== </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.610s"> +*=+-::;:;-=&lt;&lt;&lt;&lt;=+-,``,:;:,=&gt;&lt;&lt;+*a%%&amp;%%#a&lt;==&lt;&lt;*dbbbbo*oddde##u=&gt;*bb~-~++-::;;-;;~-----~~~~~+~~~~+~+++=&lt;= </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.655s"> +*&lt;=-;:::;~=&gt;&lt;=+=+-,,`:;-;`,=&lt;&lt;:+ouv&amp;@&amp;&amp;&amp;&amp;%%e&lt;&lt;obbo****oabuvv=&lt;*oobbevvuoob&lt;;,;:;;;--~~-~~~~+++=++~====&lt; </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.700s"> +o&lt;+-::::;-=&lt;&gt;&lt;==+-:,:,;-;:`,~&lt;ee&gt;*=duv%%%%#%e&gt;&gt;b*&gt;&lt;&gt;**a#euv==***&gt;&gt;*evvd=&gt;*bbd&lt;~:;;;;--+~~~~~+++=++==+=&lt; </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.745s"> +*&gt;+-;,:;;-+&gt;&gt;==&lt;=-::,:-~;:``,&lt;&amp;eo*obbbdaa*+-&lt;a**&lt;=&lt;*bu&amp;vuu=~=&lt;&gt;&lt;+~&gt;ud&gt;+*oo*&lt;+=ob&lt;+;:;--~-~~~~~+++++==&lt;&lt; </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.790s"> ~o&lt;+~:,;;-~=&gt;&gt;&lt;&lt;==-::,:~~;::`',a+:~=obddb&lt;~~~*dadbooa##vuu&lt;;-~==~--#o~+==~~~;:;odaado&lt;~;;---~~-~-~~~=+=&lt; </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.835s"> +*&gt;+~::;--~=&gt;&lt;==&lt;+~;,`,-~-::,`':=-~&gt;*do&lt;=+~+&gt;u#%&amp;&amp;##%###v&gt;--~++~~-ba~====&lt;=~;=*bo&gt;&lt;==&lt;&lt;&lt;=~;::;;---~-~+~= </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.880s">  *&gt;=~:::--~=&gt;&gt;=&lt;&lt;=-;,,:;--;,,``'-*---++++++bu%&amp;@&amp;%#%####&gt;~~~~=++~~+;+***&lt;+--+==+-;--~=&lt;***&gt;&lt;~;:;--;-~~~  </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.925s">  *&lt;=-;,;;-~+&lt;&gt;=+&lt;=~:`,:;~-:,`::`'-o&lt;&lt;*o*oau%&amp;&amp;&amp;#uuv#v#v&lt;+++++==+++~=&gt;*&lt;~:;;;-;::--~~+=&lt;&gt;*bbbbo&lt;~:;;;;--  </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:1.970s">  o&lt;=~;:;-;-=&gt;&lt;===&lt;+:,::--;;,,,::,';auu#vv#&amp;&amp;#edbeuuuuu&lt;=&lt;&lt;===&lt;++=&gt;oe&lt;:,::,,,;;;-~-++==&lt;&gt;*obbdddo&gt;+:;:;;  </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.015s">   &lt;=+;,;;;;=&gt;*=+==+:,,;--;;,,::;:,``-&lt;&lt;==--:~&gt;&gt;bdaaee&lt;&gt;&gt;&gt;&lt;&gt;&gt;&lt;==&gt;&lt;be*-~:``,`:~-~+-~++=&lt;&gt;&gt;*bbdbddabo&gt;~,,   </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.060s">   &lt;=~;:;;:;+&lt;&gt;==&lt;=+;,,;-~-::,::;;:,`:------`.+&gt;oobda&lt;&lt;&gt;***&gt;&lt;&lt;&lt;&gt;&lt;ba=-~;:`'``-`:,+~;+~&lt;=&gt;&lt;obbbddaeaedb*~   </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.105s">    =~;::;:;+&lt;&lt;&lt;==&lt;~;:,;-~-;:,,:;;;`':~~~~~-`-*==*bb=&gt;&gt;***&gt;&gt;&lt;&lt;&gt;**e=--:`,,'`,:`-*b=~&lt;=&gt;+&lt;=o*bobdaeeeeed    </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.150s">     ~;:;;:-+&lt;&lt;&lt;&lt;=&lt;~:,,:----::,;;;,`,-++~~~~:**=*&gt;+-+&lt;&gt;**&gt;&gt;&lt;=&lt;e=a=;:,,,,,;++;bva*daub+&lt;a*b&gt;=o&gt;aaaeeee     </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.195s">      -;;;;-+=&lt;&lt;==&lt;+,,::---;:,::;;:,,-&lt;&lt;+~+:=o&gt;*o~':~=&lt;&lt;&lt;==+-v+o=;-,,,',+*=ovvuudo&lt;;,=vo=uvo*=**aeea      </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.240s">       ;:;;-==&gt;=&lt;&lt;&lt;+,,:;---;,:,:;;:`:=&lt;&lt;===:=**o=&lt;`,~++~~--:eb&lt;&lt;-+-,::=*&lt;oveo&lt;&gt;=;::=oee;~v#*&lt;be=obe       </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.285s">        ;:;~=&lt;&gt;=&lt;==~:,:;;-;:,,,;;::,;=&lt;&lt;&lt;&lt;=&gt;&gt;&lt;+&lt;v#e:;----;,oe-*-~&lt;`;&lt;o+*e*~:;~:`,+beba&gt;'~%va+avbo&lt;        </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.330s">         ;;-=&gt;&gt;&lt;=&lt;&lt;~,,:;---:,:::;::,:+&gt;&lt;&lt;=&lt;o*&gt;,&gt;%%%&amp;&gt;`:::`-#-+--=:+b~;o*::;:;``~dbb*od-'&lt;%%o+uebv         </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.375s">          -~=&lt;&gt;&lt;&lt;&lt;=-:,,;~-;;::,;;;::;+&gt;&lt;&lt;&lt;&gt;*&gt;&lt;:.b#%@&amp;v-'`'ad:&lt;~--**`;*=,,;,,,+=ao*ooao,`b%#&gt;&lt;vdo          </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.420s">           ~=&gt;&lt;&lt;&lt;==-,,:;-~;:::::;;::-&lt;&gt;&gt;&gt;&lt;&gt;&gt;&gt;=:',#&amp;@&amp;@&amp;*:~e;~-&lt;:&lt;=.:&gt;-:::`;&lt;b&lt;&lt;b&lt;&gt;dda&gt;';u&amp;u&lt;*uo           </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.465s">             &gt;&gt;&lt;&lt;&lt;&lt;-,,:;-~-:::;::::,;&lt;&lt;&gt;&gt;&gt;&gt;*&gt;&lt;:``o%&amp;@&amp;%b*~o`-;&gt;:&lt;'`+:::`:&gt;db=:d&gt;&lt;dead;'&lt;#%d&lt;o             </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.510s">              &gt;&lt;&lt;&lt;=;,,:--~-::::::::`~&gt;&gt;&lt;&gt;&gt;**&gt;&gt;-``~o%%&amp;%bo+:;:~&gt;;;':,,,;&gt;aa&gt;~'+d&gt;daea*`,a%vo&gt;              </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.555s">                &lt;&lt;&lt;;,:;;-~;;:,,::,`:~&lt;&lt;&gt;&gt;&gt;*&gt;&gt;&gt;=:`&lt;'*#%&amp;bb;`-,+&gt;;,,'';oeab=~':uobvuaa~'&lt;v%e                </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.600s">                  &lt;;,,::-~;;:,:;:,`:~&lt;=&lt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;-,+';##%eb.,-`=&gt;~:'`&lt;ed*&gt;=-`;euavvab=';e#                  </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.645s">                    ,,;;--;::,:,:,,:+&lt;&lt;=&lt;&gt;&gt;&gt;&lt;&lt;&lt;=-~``####d',::=&gt;-,;*ado&lt;+:,&gt;v#vu#ao+`'o                    </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.690s">                       ;;--;;::,:,,:+&lt;&lt;&lt;&lt;&gt;**&gt;&lt;&lt;*=:`'v##%d`:`+&gt;&gt;~-obo=-,`&lt;ev#uued&lt;~`                       </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.735s">                          ~;;::,:,,;+&lt;&lt;&lt;&lt;&gt;**&gt;&lt;&lt;oo:`'u%v&amp;a;:`=&lt;=:+~;,',=duu#uad*~                          </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.780s">                             ;;:::,;+&lt;=&lt;&lt;&gt;**&gt;&lt;&gt;oo~,.b%#@e&lt;,`=&gt;+`,;,.:oeuv#eb*                             </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.825s">                                 ::;+&lt;=&lt;&gt;&gt;&gt;*&lt;=&lt;*b+:`+%#@uo`,&lt;='`;` -oueve                                 </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.870s">                                      &lt;=&lt;&lt;*&gt;&lt;=&lt;*b~::`##@uo';*,,:`.+b                                      </tspan>
-    <tspan x="70" dy="5.8" class="ascii-line" style="animation-delay:2.915s">                                               ob=:;:b#&amp;vb,                                               </tspan>
+    <tspan x="70" dy="0">                                               do&gt;&lt;&lt;&lt;==&lt;&lt;&lt;&gt;                                               </tspan>
+    <tspan x="70" dy="5.8">                                      -;;-~;;&lt;dd*&gt;==&lt;==++=&lt;&lt;&lt;=&lt;&lt;&gt;&lt;=&lt;                                      </tspan>
+    <tspan x="70" dy="5.8">                                 '`:~=~;:-~-;=db&gt;&lt;+~~~+++=&lt;+======&lt;&lt;&lt;&lt;&lt;&lt;&gt;                                 </tspan>
+    <tspan x="70" dy="5.8">                             ::``''`~&lt;=~;;;-~=o&gt;&lt;~--~~~++++++++=&lt;&lt;===&lt;&lt;&lt;=&lt;===                             </tspan>
+    <tspan x="70" dy="5.8">                          -;::,:~&lt;*beuvvv%vuv###vveb+--~~-~~~++===+&lt;==+=+====+=+                          </tspan>
+    <tspan x="70" dy="5.8">                       ,,;:::~=&lt;*bodvv#v%&amp;%#vuvu##%###a*--~~-=++~=~=========+&lt;=&lt;===                       </tspan>
+    <tspan x="70" dy="5.8">                    ''```:~=&lt;&lt;&gt;*oodvu##vuuv#%#vv%%&amp;&amp;%%&amp;%#*~;~~~~~++=+=+==+=+==+====&lt;&lt;&lt;                    </tspan>
+    <tspan x="70" dy="5.8">                  ;,'`'';b*oeedoad#uboaeu#vv##%%%##%%#%%%vu&lt;--~~~~======+++++++==+=&lt;==&lt;=                  </tspan>
+    <tspan x="70" dy="5.8">                =~:``-=*&gt;&gt;**dudvv%d=daaaauvvvv#%&amp;&amp;&amp;%&amp;%&amp;%%%##v*;~+++++=++=======+===+======                </tspan>
+    <tspan x="70" dy="5.8">              &gt;&lt;=;:&gt;db*oav%u%u#&amp;va*#eea#&amp;&amp;%%&amp;&amp;&amp;&amp;%&amp;%%%&amp;%%%%#%##o-~~~~=++=+++==++=~==+++=+===&lt;              </tspan>
+    <tspan x="70" dy="5.8">             &lt;&lt;&lt;+;oadavuv#&amp;&amp;&amp;u@v###&amp;%%%&amp;%%%%%%%&amp;%&amp;&amp;%%&amp;%&amp;&amp;&amp;%#%#u~~~====+=+===++++===+++===&lt;===             </tspan>
+    <tspan x="70" dy="5.8">           -===+~bbbu#%u%&amp;&amp;&amp;&amp;&amp;&amp;%%%%%%###vvuuuvuv%&amp;&amp;&amp;%&amp;&amp;&amp;&amp;&amp;%%%%%b;~+======+=+~+=++=++=~=+====+=+           </tspan>
+    <tspan x="70" dy="5.8">          ;-+==++ddu####%&amp;&amp;%&amp;%##veeaaaaaaadddbbbe#%%%%&amp;&amp;&amp;&amp;%%%&amp;%d-~+===+====+++=+=+==+=+=+++====&lt;          </tspan>
+    <tspan x="70" dy="5.8">         ,;-++++;obduuevueaeadb*o*&lt;==&lt;*****&lt;&gt;&lt;&lt;*de##%%&amp;&amp;&amp;&amp;&amp;%%%#+-~++======+==+=======+=+++======&lt;         </tspan>
+    <tspan x="70" dy="5.8">        `,:;~++~;~bauev#d==&lt;=+~~=~;;~=&lt;&gt;*&gt;&lt;&lt;===&gt;de####%&amp;%%%%%%#--~~++++=+=+===&lt;+====++~++==+&lt;+=&lt;==        </tspan>
+    <tspan x="70" dy="5.8">       ,,,:-+++~-;~oeavu-`:;;;;--:::-+=&gt;&gt;&lt;&lt;+=++=*aeuvv#v###%%&amp;#;-~~~~=~+++~~~~++===+++++======+&lt;+=&lt;       </tspan>
+    <tspan x="70" dy="5.8">      :,,:;-==++~;`'&gt;oad;,,;--;-:``,:-+=&lt;&lt;&lt;=++=&lt;&lt;&lt;&gt;odeuvvv##%&amp;#:;-~~+=~~~~+~~+~++~+~=~+++=+===&lt;=====      </tspan>
+    <tspan x="70" dy="5.8">     -;,:;;~+==++-:,'&gt;u&gt;;;:::::,'.',;-~~----~-+&lt;&gt;&lt;&gt;&gt;&gt;buvvvvu#&amp;#:;;--~+~++=++++++=~=+++=++++====&lt;==++=     </tspan>
+    <tspan x="70" dy="5.8">    +-:,,:;++&lt;&lt;&lt;=+;:`.:&lt;+:,,;-;:`:;-~=+~~=*o&gt;&lt;==&lt;&lt;&lt;&lt;&gt;*ev###u#ea&gt;::-;+-~~~+++==+++++++++++~+++==++==+==    </tspan>
+    <tspan x="70" dy="5.8">   =~-;,,:;~=&lt;&lt;&lt;&lt;=;:,'.;+;;+=&lt;=~~~+=&gt;oev%&amp;&amp;%%vued*&gt;&lt;&lt;&lt;ou##d*&gt;bavd;;--~~-~++++++~+=~++~+~+++++=++++==+&lt;+   </tspan>
+    <tspan x="70" dy="5.8">   =~;;:::-~&lt;&gt;&gt;&lt;=&lt;~;:`''~+&gt;****&gt;&gt;*bv%%#%%v#&amp;%&amp;%vao&gt;&lt;===&gt;ee&lt;&gt;&gt;e*e#=;~-~---~~++++++~~+~++~+~~~+++++=+=+==   </tspan>
+    <tspan x="70" dy="5.8">  &lt;=+-:,,;-+&lt;&gt;&lt;&gt;&lt;=~;:''`ev##%#ud*oaeev%&amp;d&gt;%#uvveo&gt;&lt;==++=&lt;*&gt;du#d&gt;u&gt;:;~~--~~~+~+++++~+~~~+~=~+++++++=====&lt;  </tspan>
+    <tspan x="70" dy="5.8">  &gt;+~-:::;-~&lt;&gt;&lt;===~-:``:v%###&amp;&amp;&amp;=:oevvuvvuuuao&lt;--+=&lt;&gt;&gt;&lt;&lt;&lt;&lt;=-eu#ad&lt;;-;---~+~=+++=+~~~+~+++=+++=+=+======&lt;  </tspan>
+    <tspan x="70" dy="5.8">  &gt;=+-:,:--~=&gt;&lt;&lt;=&lt;+;:`'''+#do#%#,,&gt;aeab&gt;~-;;:,:;~=&gt;**b*oo*&lt;=#ebbe-:--~----~~++~+=+~~~+~+~++++====+=====&lt;  </tspan>
+    <tspan x="70" dy="5.8"> +&gt;+~-;,:-;~&lt;*&lt;&lt;&lt;&lt;+-``''``&gt;deeb~`:*aedao~:,,:-+=&gt;*obbddbbbboa**a&lt;:;;-----~++=+~++~++=+++~~+++++++====&lt;=&lt;= </tspan>
+    <tspan x="70" dy="5.8"> =&gt;+~-::;;;~&gt;*&gt;&lt;&lt;&lt;+-,`'`,:-~+&lt;+~';&gt;duu#u&lt;:,:;~=*bddddaddddau**oe+,::;;--~~~~++~++~=++=~~++=~=+==+=+=+==== </tspan>
+    <tspan x="70" dy="5.8"> +&gt;=~-;:;;;~&lt;&gt;&gt;&lt;=&lt;+-:```,;;====-`~*dd&gt;b%v=:;+&lt;*deaaddabaedb&amp;&amp;%#%o~,,;;;;--~~+~+++~++~++++++++=++++++=+=== </tspan>
+    <tspan x="70" dy="5.8"> =*=+-:::;;~&lt;&lt;&lt;===+;:``,,;`=&lt;&lt;&lt;;;=*eeeeu&amp;a++=&gt;odaaddddodeddv#%%a&lt;**:`:::;;;-~-~~~-~~~~~~~++~++=++=++=&lt;=== </tspan>
+    <tspan x="70" dy="5.8"> +*=+-::;:;-=&lt;&lt;&lt;&lt;=+-,``,:;:,=&gt;&lt;&lt;+*a%%&amp;%%#a&lt;==&lt;&lt;*dbbbbo*oddde##u=&gt;*bb~-~++-::;;-;;~-----~~~~~+~~~~+~+++=&lt;= </tspan>
+    <tspan x="70" dy="5.8"> +*&lt;=-;:::;~=&gt;&lt;=+=+-,,`:;-;`,=&lt;&lt;:+ouv&amp;@&amp;&amp;&amp;&amp;%%e&lt;&lt;obbo****oabuvv=&lt;*oobbevvuoob&lt;;,;:;;;--~~-~~~~+++=++~====&lt; </tspan>
+    <tspan x="70" dy="5.8"> +o&lt;+-::::;-=&lt;&gt;&lt;==+-:,:,;-;:`,~&lt;ee&gt;*=duv%%%%#%e&gt;&gt;b*&gt;&lt;&gt;**a#euv==***&gt;&gt;*evvd=&gt;*bbd&lt;~:;;;;--+~~~~~+++=++==+=&lt; </tspan>
+    <tspan x="70" dy="5.8"> +*&gt;+-;,:;;-+&gt;&gt;==&lt;=-::,:-~;:``,&lt;&amp;eo*obbbdaa*+-&lt;a**&lt;=&lt;*bu&amp;vuu=~=&lt;&gt;&lt;+~&gt;ud&gt;+*oo*&lt;+=ob&lt;+;:;--~-~~~~~+++++==&lt;&lt; </tspan>
+    <tspan x="70" dy="5.8"> ~o&lt;+~:,;;-~=&gt;&gt;&lt;&lt;==-::,:~~;::`',a+:~=obddb&lt;~~~*dadbooa##vuu&lt;;-~==~--#o~+==~~~;:;odaado&lt;~;;---~~-~-~~~=+=&lt; </tspan>
+    <tspan x="70" dy="5.8"> +*&gt;+~::;--~=&gt;&lt;==&lt;+~;,`,-~-::,`':=-~&gt;*do&lt;=+~+&gt;u#%&amp;&amp;##%###v&gt;--~++~~-ba~====&lt;=~;=*bo&gt;&lt;==&lt;&lt;&lt;=~;::;;---~-~+~= </tspan>
+    <tspan x="70" dy="5.8">  *&gt;=~:::--~=&gt;&gt;=&lt;&lt;=-;,,:;--;,,``'-*---++++++bu%&amp;@&amp;%#%####&gt;~~~~=++~~+;+***&lt;+--+==+-;--~=&lt;***&gt;&lt;~;:;--;-~~~  </tspan>
+    <tspan x="70" dy="5.8">  *&lt;=-;,;;-~+&lt;&gt;=+&lt;=~:`,:;~-:,`::`'-o&lt;&lt;*o*oau%&amp;&amp;&amp;#uuv#v#v&lt;+++++==+++~=&gt;*&lt;~:;;;-;::--~~+=&lt;&gt;*bbbbo&lt;~:;;;;--  </tspan>
+    <tspan x="70" dy="5.8">  o&lt;=~;:;-;-=&gt;&lt;===&lt;+:,::--;;,,,::,';auu#vv#&amp;&amp;#edbeuuuuu&lt;=&lt;&lt;===&lt;++=&gt;oe&lt;:,::,,,;;;-~-++==&lt;&gt;*obbdddo&gt;+:;:;;  </tspan>
+    <tspan x="70" dy="5.8">   &lt;=+;,;;;;=&gt;*=+==+:,,;--;;,,::;:,``-&lt;&lt;==--:~&gt;&gt;bdaaee&lt;&gt;&gt;&gt;&lt;&gt;&gt;&lt;==&gt;&lt;be*-~:``,`:~-~+-~++=&lt;&gt;&gt;*bbdbddabo&gt;~,,   </tspan>
+    <tspan x="70" dy="5.8">   &lt;=~;:;;:;+&lt;&gt;==&lt;=+;,,;-~-::,::;;:,`:------`.+&gt;oobda&lt;&lt;&gt;***&gt;&lt;&lt;&lt;&gt;&lt;ba=-~;:`'``-`:,+~;+~&lt;=&gt;&lt;obbbddaeaedb*~   </tspan>
+    <tspan x="70" dy="5.8">    =~;::;:;+&lt;&lt;&lt;==&lt;~;:,;-~-;:,,:;;;`':~~~~~-`-*==*bb=&gt;&gt;***&gt;&gt;&lt;&lt;&gt;**e=--:`,,'`,:`-*b=~&lt;=&gt;+&lt;=o*bobdaeeeeed    </tspan>
+    <tspan x="70" dy="5.8">     ~;:;;:-+&lt;&lt;&lt;&lt;=&lt;~:,,:----::,;;;,`,-++~~~~:**=*&gt;+-+&lt;&gt;**&gt;&gt;&lt;=&lt;e=a=;:,,,,,;++;bva*daub+&lt;a*b&gt;=o&gt;aaaeeee     </tspan>
+    <tspan x="70" dy="5.8">      -;;;;-+=&lt;&lt;==&lt;+,,::---;:,::;;:,,-&lt;&lt;+~+:=o&gt;*o~':~=&lt;&lt;&lt;==+-v+o=;-,,,',+*=ovvuudo&lt;;,=vo=uvo*=**aeea      </tspan>
+    <tspan x="70" dy="5.8">       ;:;;-==&gt;=&lt;&lt;&lt;+,,:;---;,:,:;;:`:=&lt;&lt;===:=**o=&lt;`,~++~~--:eb&lt;&lt;-+-,::=*&lt;oveo&lt;&gt;=;::=oee;~v#*&lt;be=obe       </tspan>
+    <tspan x="70" dy="5.8">        ;:;~=&lt;&gt;=&lt;==~:,:;;-;:,,,;;::,;=&lt;&lt;&lt;&lt;=&gt;&gt;&lt;+&lt;v#e:;----;,oe-*-~&lt;`;&lt;o+*e*~:;~:`,+beba&gt;'~%va+avbo&lt;        </tspan>
+    <tspan x="70" dy="5.8">         ;;-=&gt;&gt;&lt;=&lt;&lt;~,,:;---:,:::;::,:+&gt;&lt;&lt;=&lt;o*&gt;,&gt;%%%&amp;&gt;`:::`-#-+--=:+b~;o*::;:;``~dbb*od-'&lt;%%o+uebv         </tspan>
+    <tspan x="70" dy="5.8">          -~=&lt;&gt;&lt;&lt;&lt;=-:,,;~-;;::,;;;::;+&gt;&lt;&lt;&lt;&gt;*&gt;&lt;:.b#%@&amp;v-'`'ad:&lt;~--**`;*=,,;,,,+=ao*ooao,`b%#&gt;&lt;vdo          </tspan>
+    <tspan x="70" dy="5.8">           ~=&gt;&lt;&lt;&lt;==-,,:;-~;:::::;;::-&lt;&gt;&gt;&gt;&lt;&gt;&gt;&gt;=:',#&amp;@&amp;@&amp;*:~e;~-&lt;:&lt;=.:&gt;-:::`;&lt;b&lt;&lt;b&lt;&gt;dda&gt;';u&amp;u&lt;*uo           </tspan>
+    <tspan x="70" dy="5.8">             &gt;&gt;&lt;&lt;&lt;&lt;-,,:;-~-:::;::::,;&lt;&lt;&gt;&gt;&gt;&gt;*&gt;&lt;:``o%&amp;@&amp;%b*~o`-;&gt;:&lt;'`+:::`:&gt;db=:d&gt;&lt;dead;'&lt;#%d&lt;o             </tspan>
+    <tspan x="70" dy="5.8">              &gt;&lt;&lt;&lt;=;,,:--~-::::::::`~&gt;&gt;&lt;&gt;&gt;**&gt;&gt;-``~o%%&amp;%bo+:;:~&gt;;;':,,,;&gt;aa&gt;~'+d&gt;daea*`,a%vo&gt;              </tspan>
+    <tspan x="70" dy="5.8">                &lt;&lt;&lt;;,:;;-~;;:,,::,`:~&lt;&lt;&gt;&gt;&gt;*&gt;&gt;&gt;=:`&lt;'*#%&amp;bb;`-,+&gt;;,,'';oeab=~':uobvuaa~'&lt;v%e                </tspan>
+    <tspan x="70" dy="5.8">                  &lt;;,,::-~;;:,:;:,`:~&lt;=&lt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;-,+';##%eb.,-`=&gt;~:'`&lt;ed*&gt;=-`;euavvab=';e#                  </tspan>
+    <tspan x="70" dy="5.8">                    ,,;;--;::,:,:,,:+&lt;&lt;=&lt;&gt;&gt;&gt;&lt;&lt;&lt;=-~``####d',::=&gt;-,;*ado&lt;+:,&gt;v#vu#ao+`'o                    </tspan>
+    <tspan x="70" dy="5.8">                       ;;--;;::,:,,:+&lt;&lt;&lt;&lt;&gt;**&gt;&lt;&lt;*=:`'v##%d`:`+&gt;&gt;~-obo=-,`&lt;ev#uued&lt;~`                       </tspan>
+    <tspan x="70" dy="5.8">                          ~;;::,:,,;+&lt;&lt;&lt;&lt;&gt;**&gt;&lt;&lt;oo:`'u%v&amp;a;:`=&lt;=:+~;,',=duu#uad*~                          </tspan>
+    <tspan x="70" dy="5.8">                             ;;:::,;+&lt;=&lt;&lt;&gt;**&gt;&lt;&gt;oo~,.b%#@e&lt;,`=&gt;+`,;,.:oeuv#eb*                             </tspan>
+    <tspan x="70" dy="5.8">                                 ::;+&lt;=&lt;&gt;&gt;&gt;*&lt;=&lt;*b+:`+%#@uo`,&lt;='`;` -oueve                                 </tspan>
+    <tspan x="70" dy="5.8">                                      &lt;=&lt;&lt;*&gt;&lt;=&lt;*b~::`##@uo';*,,:`.+b                                      </tspan>
+    <tspan x="70" dy="5.8">                                               ob=:;:b#&amp;vb,                                               </tspan>
       </text>
     </g>
 
