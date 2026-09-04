@@ -77,8 +77,12 @@
 
   <rect width="1200" height="610" fill="#030712" />
   <rect x="1" y="1" width="1198" height="608" rx="24" fill="url(#dots)" />
-  <circle class="orb1" cx="1050" cy="90" r="150" fill="url(#glowTeal)" clip-path="url(#rightPanelClip)" />
-  <circle class="orb2" cx="140" cy="520" r="165" fill="url(#glowEmerald)" clip-path="url(#leftPanelClip)" />
+  <g clip-path="url(#rightPanelClip)">
+    <circle class="orb1" cx="1050" cy="90" r="135" fill="url(#glowTeal)" />
+  </g>
+  <g clip-path="url(#leftPanelClip)">
+    <circle class="orb2" cx="140" cy="520" r="145" fill="url(#glowEmerald)" />
+  </g>
 
   <!-- LEFT: ASCII AVATAR TERMINAL -->
   <g>
