@@ -96,9 +96,11 @@
     <text x="70" y="95" fill="#475569" font-size="12" class="font-mono" xml:space="preserve">denis-samatov@avatar:~$ <tspan fill="#0F172A">whoami --ascii</tspan></text>
     <rect x="228" y="83" width="6" height="13" fill="#059669" class="cursor-blink" />
 
-    <rect x="41" y="110" width="358" height="454" fill="url(#scanline)" pointer-events="none" rx="8">
-      <animate attributeName="y" values="110;460;110" dur="7s" repeatCount="indefinite" />
-    </rect>
+    <g clip-path="url(#leftPanelClip)">
+      <rect x="41" y="110" width="358" height="454" fill="url(#scanline)" pointer-events="none" rx="8">
+        <animate attributeName="y" values="110;460;110" dur="7s" repeatCount="indefinite" />
+      </rect>
+    </g>
 
     <g class="ascii-bob" clip-path="url(#avatarRevealClip)">
       <text x="70" y="135" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="4.9" font-weight="900" fill="url(#asciiGradient)" xml:space="preserve">
