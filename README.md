@@ -100,6 +100,24 @@ These links show submitted work; each pull request page is the source of truth f
 - [ORCID](https://orcid.org/0009-0000-1821-323X) — complete research identity and publication record.
 - [Google Scholar](https://scholar.google.com/citations?user=GvQy91AAAAAJ) — publication and citation profile.
 
+## 📈 GitHub Stats & Metrics
+
+<!-- Theme-sensitive stats + top languages -->
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=denis-samatov&show_icons=true&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=denis-samatov&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0D9488&text_color=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="Denis's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=denis-samatov&show_icons=true&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0D9488&text_color=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=denis-samatov&layout=compact&hide_border=true&bg_color=030712&title_color=10B981&text_color=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+  </picture>
+</p>
+
+---
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-denis--samatov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-samatov)
