@@ -172,8 +172,9 @@
     </g>
 
     <line x1="40" y1="530" x2="400" y2="530" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-    <text x="70" y="552" fill="#64748B" font-size="11" class="font-mono">github.com/denis-samatov</text>
-    <text x="70" y="568" fill="#64748B" font-size="11" class="font-mono">Senior ML Engineer &#183; LLM/RAG &#183; Tech Lead</text>
+    <text x="70" y="542" fill="#64748B" font-size="8" class="font-mono">github.com/denis-samatov</text>
+    <text x="70" y="555" fill="#64748B" font-size="7.5" class="font-mono">Machine Learning Engineer &#183; Production LLM/RAG &amp; Agentic AI</text>
+    <text x="70" y="568" fill="#64748B" font-size="7.5" class="font-mono">Technical Lead &#183; Scientific ML &amp; Medical Imaging</text>
   </g>
 
   <!-- RIGHT: PROFESSIONAL TERMINAL -->
@@ -198,19 +199,19 @@
     <g>
       <text x="490" y="196" fill="#94A3B8" font-size="18" class="font-mono">$&gt; </text>
       <g class="font-mono" font-size="18" font-weight="bold">
-        <text x="522" y="196" fill="#10B981">Senior ML Engineer
+        <text x="522" y="196" fill="#10B981">Machine Learning Engineer
           <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.1867;0.2;1" dur="15s" repeatCount="indefinite" />
         </text>
-        <text x="522" y="196" fill="#0D9488" opacity="0">LLM/RAG &amp; Agentic AI
+        <text x="522" y="196" fill="#0D9488" opacity="0">Production LLM/RAG &amp; Agentic AI
           <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.2001;0.3867;0.4;1" dur="15s" repeatCount="indefinite" />
         </text>
         <text x="522" y="196" fill="#34D399" opacity="0">Technical Lead
           <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.4001;0.5867;0.6;1" dur="15s" repeatCount="indefinite" />
         </text>
-        <text x="522" y="196" fill="#10B981" opacity="0">Computer Vision Researcher
+        <text x="522" y="196" fill="#10B981" opacity="0">Scientific ML
           <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.6001;0.7867;0.8;1" dur="15s" repeatCount="indefinite" />
         </text>
-        <text x="522" y="196" fill="#0D9488" opacity="0">Scientific ML Engineer
+        <text x="522" y="196" fill="#0D9488" opacity="0">Medical Imaging
           <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.8001;0.9867;0.99;1" dur="15s" repeatCount="indefinite" />
         </text>
       </g>
