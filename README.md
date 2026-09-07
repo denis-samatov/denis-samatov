@@ -76,7 +76,9 @@ Additional domain evidence: **EPIFAT**, officially registered cardiac CT segment
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-10B981?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-34D399?style=flat-square&logo=git&logoColor=white)
 
----\n\n## Experience snapshot
+---
+
+## Experience snapshot
 
 - **Machine Learning Engineer / Technical Lead**, *Analytics and Machine Learning Department, MSUU* (`Apr 2024 – Present`) — architecture and delivery across CourseLLM, Modular RAG Platform, and LLM Adviser; coordinating a five-engineer team.
 - **Data Scientist / Research ML Engineer**, *Heriot-Watt TPU Center* (`Sep 2024 – Present`) — Bayesian parameter-space appraisal, tensor-based reduced-order modeling, and QR sparse-sensor placement.
