@@ -27,7 +27,56 @@ Additional domain evidence: **EPIFAT**, officially registered cardiac CT segment
 - **Scientific ML:** tensor decomposition, reduced-order modeling, sparse sensing, Bayesian inference, MCMC, and reproducible experiments.
 - **Medical AI:** PyTorch, semantic segmentation, U-Net/Attention U-Net, cardiac CT/MRI, radiomics, and human-in-the-loop review.
 
-## Experience snapshot
+## 🛠️ Technical Skills
+
+### 🤖 LLM / RAG & Agents
+![RAG](https://img.shields.io/badge/RAG-0D9488?style=flat-square)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-10B981?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-34D399?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D9488?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-10B981?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-34D399?style=flat-square)
+![Multi-Provider Routing](https://img.shields.io/badge/Multi--Provider_Routing-0D9488?style=flat-square)
+![Structured Tool Calling](https://img.shields.io/badge/Structured_Tool_Calling-10B981?style=flat-square)
+
+### 🔎 Retrieval & Evaluation
+![Hybrid Retrieval](https://img.shields.io/badge/Hybrid_Retrieval-34D399?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-0D9488?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-10B981?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector_Search-34D399?style=flat-square)
+![Reranking](https://img.shields.io/badge/Reranking-0D9488?style=flat-square)
+![Ragas](https://img.shields.io/badge/Ragas-10B981?style=flat-square)
+![Groundedness](https://img.shields.io/badge/Groundedness-34D399?style=flat-square)
+![Retrieval Evaluation](https://img.shields.io/badge/Retrieval_Evaluation-0D9488?style=flat-square)
+
+### 🧠 ML / Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-10B981?style=flat-square&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0D9488?style=flat-square&logo=scikitlearn&logoColor=white)
+![U-Net](https://img.shields.io/badge/U--Net-34D399?style=flat-square)
+![Semantic Segmentation](https://img.shields.io/badge/Semantic_Segmentation-0D9488?style=flat-square)
+![Radiomics](https://img.shields.io/badge/Radiomics-10B981?style=flat-square)
+
+### 📐 Scientific ML
+![Tensor Decomposition](https://img.shields.io/badge/Tensor_Decomposition-0D9488?style=flat-square)
+![Bayesian Inference](https://img.shields.io/badge/Bayesian_Inference-10B981?style=flat-square)
+![MCMC](https://img.shields.io/badge/MCMC-34D399?style=flat-square)
+![Compressive Sensing](https://img.shields.io/badge/Compressive_Sensing-0D9488?style=flat-square)
+
+### ⚙️ Backend & Infrastructure
+![Python](https://img.shields.io/badge/Python-0D9488?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-10B981?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-34D399?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0D9488?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10B981?style=flat-square&logo=postgresql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-34D399?style=flat-square)
+![RQ](https://img.shields.io/badge/RQ-0D9488?style=flat-square)
+![MinIO](https://img.shields.io/badge/MinIO-10B981?style=flat-square)
+![S3](https://img.shields.io/badge/S3-34D399?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-0D9488?style=flat-square&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-10B981?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-34D399?style=flat-square&logo=git&logoColor=white)
+
+---\n\n## Experience snapshot
 
 - **Machine Learning Engineer / Technical Lead**, *Analytics and Machine Learning Department, MSUU* (`Apr 2024 – Present`) — architecture and delivery across CourseLLM, Modular RAG Platform, and LLM Adviser; coordinating a five-engineer team.
 - **Data Scientist / Research ML Engineer**, *Heriot-Watt TPU Center* (`Sep 2024 – Present`) — Bayesian parameter-space appraisal, tensor-based reduced-order modeling, and QR sparse-sensor placement.
