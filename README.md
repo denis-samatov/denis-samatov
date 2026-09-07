@@ -1,11 +1,11 @@
 <h1 align="left">Denis Samatov</h1>
 
-**Machine Learning Engineer · Production LLM/RAG & Agentic AI · Technical Lead · Scientific ML & Medical Imaging**
+**Machine Learning Engineer & Technical Lead | LLM/RAG & Document Intelligence | Scientific ML & Medical Imaging**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readmefile/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="readmefile/light.svg">
-  <img alt="Denis Samatov — Machine Learning Engineer · Production LLM/RAG & Agentic AI · Technical Lead · Scientific ML & Medical Imaging" src="readmefile/dark.svg" width="100%">
+  <img alt="Denis Samatov — Machine Learning Engineer & Technical Lead | LLM/RAG & Document Intelligence | Scientific ML & Medical Imaging" src="readmefile/dark.svg" width="100%">
 </picture>
 
 I build production ML/AI systems that turn complex documents, domain data, and research methods into testable, traceable software. My current focus is LLM/RAG architecture, agentic workflows, MCP integrations, evaluation, and reliability, with research-to-production depth in scientific ML and medical imaging.
@@ -14,11 +14,22 @@ I build production ML/AI systems that turn complex documents, domain data, and r
 
 | Project | Role in the portfolio | Verifiable evidence |
 |---|---|---|
-| [**Yandex Workspace MCP**](https://github.com/denis-samatov/yandex-workspace-mcp) | Flagship production/open-source engineering | Typed MCP tools, read-only defaults, permission gates, audit logging, CI, Docker, security and deployment documentation |
-| [**Tensor-Based Modal Decomposition**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) | Scientific ML and research software | Tucker/HOSVD, sparse sensor placement, tests, benchmarks, reproducibility guide, citation metadata, [arXiv preprint](https://arxiv.org/abs/2607.09687) |
+| [**Yandex Workspace MCP**](https://github.com/denis-samatov/yandex-workspace-mcp) | Open-source integration engineering | [Offline permission demo](https://github.com/denis-samatov/yandex-workspace-mcp/blob/main/examples/permission_demo.py), typed tools, permission gates, audit logging, CI, Docker and deployment docs |
+| [**Tensor-Based Modal Decomposition**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) | Scientific ML and research software | Tucker/HOSVD, sparse sensing, tests, [captured synthetic run](https://github.com/denis-samatov/tensor-based-modal-decomposition-method/blob/main/docs/examples/synthetic-run.md), explicit manuscript-reproduction limits, [arXiv preprint](https://arxiv.org/abs/2607.09687) |
 | [**LLM Adviser case study**](https://github.com/denis-samatov/llm-adviser-case-study) | Architecture and technical leadership | Sanitized production case study covering traceability, evaluation, async execution, reliability boundaries, and documented limitations |
 
+For code review, start with MCP; for scientific methods, start with TBMD; for team and architecture scope, read the LLM Adviser case study. Full experience and contact: [LinkedIn](https://www.linkedin.com/in/denis-samatov/).
+
 Additional domain evidence: **EPIFAT**, officially registered cardiac CT segmentation software (No. 2025610317), with an automated segmentation and manual ROI-correction workflow; related medical-imaging code remains private.
+
+## 🤝 Selected External Contributions
+
+**Merged upstream** (verified 7 September 2026):
+
+- [dragonflydb/dragonfly #8199](https://github.com/dragonflydb/dragonfly/pull/8199) — fixed `FT.INFO` missing-index wording for RedisVL compatibility, with a regression test; merged 1 September 2026.
+- [wandb/rai-toolkit #24](https://github.com/wandb/rai-toolkit/pull/24) — added an HR industry preset, dataset selection, documentation, and focused tests; merged 2 September 2026.
+
+**Submitted for review:** [Docling prerequisite probing](https://github.com/IBM/docling-pipelines/pull/31), [PageIndex plain-text indexing](https://github.com/VectifyAI/PageIndex/pull/483), and [Weaviate generative integration](https://github.com/weaviate/weaviate-python-client/pull/2153). Each PR page records its current status and scope.
 
 ## 🛠️ Technical Skills
 
@@ -78,15 +89,6 @@ Additional domain evidence: **EPIFAT**, officially registered cardiac CT segment
 - **Machine Learning Engineer**, *Cardiology Research Institute* (`Mar 2021 – May 2026`) — EPIFAT cardiac CT segmentation software and medical-imaging research workflows.
 
 Full role scope and employment details: [LinkedIn](https://www.linkedin.com/in/denis-samatov).
-
-## 🤝 Selected External Contributions
-
-- [IBM/docling-pipelines #31](https://github.com/IBM/docling-pipelines/pull/31) — submitted a fix for dry-run prerequisite probing in example tests.
-- [VectifyAI/PageIndex #483](https://github.com/VectifyAI/PageIndex/pull/483) — submitted plain-text parsing and indexing support.
-- [weaviate/weaviate-python-client #2153](https://github.com/weaviate/weaviate-python-client/pull/2153) — submitted generative DigitalOcean support.
-- [dragonflydb/dragonfly #8199](https://github.com/dragonflydb/dragonfly/pull/8199) — submitted an `FT.INFO` missing-index compatibility fix.
-
-These links show submitted work; each pull request page is the source of truth for its current review or merge status.
 
 ## 🔬 Research Identity
 
