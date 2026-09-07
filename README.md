@@ -5,7 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readmefile/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="readmefile/light.svg">
-  <img alt="Denis Samatov — Machine Learning Engineer and Technical Lead" src="readmefile/dark.svg" width="100%">
+  <img alt="Denis Samatov — Machine Learning Engineer · Production LLM/RAG & Agentic AI · Technical Lead · Scientific ML & Medical Imaging" src="readmefile/dark.svg" width="100%">
 </picture>
 
 I build production ML/AI systems that turn complex documents, domain data, and research methods into testable, traceable software. My current focus is LLM/RAG architecture, agentic workflows, MCP integrations, evaluation, and reliability, with research-to-production depth in scientific ML and medical imaging.
@@ -59,4 +59,4 @@ These links show submitted work; each pull request page is the source of truth f
 [![Email](https://img.shields.io/badge/Email-denissamatov470%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:denissamatov470@gmail.com)
 [![CV](https://img.shields.io/badge/CV-PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](CV_SamatovDS.pdf)
 
-Open to Senior Machine Learning Engineer, Senior Applied AI Engineer, and Technical Lead opportunities, as well as research and open-source collaboration.
+Open to Machine Learning Engineer, Applied AI Engineer, and Technical Lead opportunities, as well as research and open-source collaboration.
