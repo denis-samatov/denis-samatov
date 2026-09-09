@@ -121,6 +121,6 @@ Full role scope and employment details: [LinkedIn](https://www.linkedin.com/in/d
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1821--323X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1821-323X)
 [![Telegram](https://img.shields.io/badge/Telegram-%40SamatovDS-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SamatovDS)
 [![Email](https://img.shields.io/badge/Email-denissamatov470%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:denissamatov470@gmail.com)
-[![CV](https://img.shields.io/badge/CV-PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](CV_SamatovDS.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](Denis_Samatov_Resume_ML_Engineer.pdf)
 
 Open to Machine Learning Engineer, Applied AI Engineer, and Technical Lead opportunities, as well as research and open-source collaboration.
