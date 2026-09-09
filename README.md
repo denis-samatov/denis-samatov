@@ -24,12 +24,13 @@ Additional domain evidence: **EPIFAT**, officially registered cardiac CT segment
 
 ## 🤝 Selected External Contributions
 
-**Merged upstream** (verified 7 September 2026):
+**Merged upstream** (verified 9 September 2026):
 
 - [dragonflydb/dragonfly #8199](https://github.com/dragonflydb/dragonfly/pull/8199) — fixed `FT.INFO` missing-index wording for RedisVL compatibility, with a regression test; merged 1 September 2026.
 - [wandb/rai-toolkit #24](https://github.com/wandb/rai-toolkit/pull/24) — added an HR industry preset, dataset selection, documentation, and focused tests; merged 2 September 2026.
+- [IBM/docling-pipelines #31](https://github.com/IBM/docling-pipelines/pull/31) — made example-test dry runs offline and side-effect free by returning before prerequisite probes; added regression and control tests; merged 9 September 2026.
 
-**Submitted for review:** [Docling prerequisite probing](https://github.com/IBM/docling-pipelines/pull/31), [PageIndex plain-text indexing](https://github.com/VectifyAI/PageIndex/pull/483), and [Weaviate generative integration](https://github.com/weaviate/weaviate-python-client/pull/2153). Each PR page records its current status and scope.
+**Submitted for review:** [PageIndex plain-text indexing](https://github.com/VectifyAI/PageIndex/pull/483) and [Weaviate generative integration](https://github.com/weaviate/weaviate-python-client/pull/2153). Each PR page records its current status and scope.
 
 ## 🛠️ Technical Skills
 
