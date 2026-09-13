@@ -10,14 +10,16 @@
 
 I build production ML/AI systems that turn complex documents, domain data, and research methods into testable, traceable software. My current focus is LLM/RAG architecture, agentic workflows, MCP integrations, evaluation, and reliability, with research-to-production depth in scientific ML and medical imaging.
 
+**Follow for practical work on MCP tool permissions, traceable RAG, and scientific ML.** Start with the runnable examples below; connect on [LinkedIn](https://www.linkedin.com/in/denis-samatov/) for engineering notes and discussion.
+
 ## 🚀 Selected Evidence
 
 | Project | Role in the portfolio | Verifiable evidence |
 |---|---|---|
 | [**Yandex Workspace MCP**](https://github.com/denis-samatov/yandex-workspace-mcp) | Open-source integration engineering | [Offline permission demo](https://github.com/denis-samatov/yandex-workspace-mcp/blob/main/examples/permission_demo.py), typed tools, permission gates, audit logging, CI, Docker and deployment docs |
+| [**mcp-capguard**](https://github.com/denis-samatov/mcp-capguard) | MCP tooling and security testing | pytest plugin + CLI for permission/capability boundary testing on MCP servers, CI green across Python 3.10–3.13, [runnable FastMCP example](https://github.com/denis-samatov/mcp-capguard/tree/main/examples/fastmcp_example) demonstrating the exact regression it catches |
 | [**Tensor-Based Modal Decomposition**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) | Scientific ML and research software | Tucker/HOSVD, sparse sensing, tests, [captured synthetic run](https://github.com/denis-samatov/tensor-based-modal-decomposition-method/blob/main/docs/examples/synthetic-run.md), explicit manuscript-reproduction limits, [arXiv preprint](https://arxiv.org/abs/2607.09687) |
 | [**LLM Adviser case study**](https://github.com/denis-samatov/llm-adviser-case-study) | Architecture and technical leadership | Sanitized production case study covering traceability, evaluation, async execution, reliability boundaries, and documented limitations |
-| [**mcp-capguard**](https://github.com/denis-samatov/mcp-capguard) | MCP tooling and security testing | pytest plugin + CLI for permission/capability boundary testing on MCP servers, CI green across Python 3.10–3.13, [runnable FastMCP example](https://github.com/denis-samatov/mcp-capguard/tree/main/examples/fastmcp_example) demonstrating the exact regression it catches |
 
 For code review, start with MCP; for scientific methods, start with TBMD; for MCP-ecosystem tooling, start with mcp-capguard; for team and architecture scope, read the LLM Adviser case study. Full experience and contact: [LinkedIn](https://www.linkedin.com/in/denis-samatov/).
 
