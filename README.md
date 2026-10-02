@@ -8,21 +8,29 @@
   <img alt="Denis Samatov — Machine Learning Engineer & Technical Lead" src="readmefile/dark.svg" width="100%">
 </picture>
 
-I build ML systems that can be checked: LLM/RAG assistants with release-blocking evaluation, medical image segmentation with patient-level validation, and scientific ML research software with documented reproducibility. Each project below states what its evidence does and does not show.
+I build ML systems that can be checked: LLM/RAG assistants with release-blocking evaluation, medical image segmentation with patient-level validation, and scientific ML research software with documented reproducibility.
 
 [CV (PDF)](Denis_Samatov_CV_ML_Engineer.pdf) · [LinkedIn](https://www.linkedin.com/in/denis-samatov/) · [ORCID](https://orcid.org/0009-0000-1821-323X) · [Google Scholar](https://scholar.google.com/citations?user=GvQy91AAAAAJ)
 
-## Flagship projects
+## Public projects
 
-| Project | Area | Evidence in the repository |
+| Project | Area | What the repository shows |
 |---|---|---|
-| [**EPIFAT**](https://github.com/denis-samatov/epicardial-fat-segmentation-software) | Medical imaging | State-registered cardiac CT software (No. 2025610317). Attention U-Net pericardium segmentation, Dice 0.91 on a patient-level split of a 62-patient dataset ([training pipeline](https://github.com/denis-samatov/epicardial-fat-segmentation)). GUI + CLI, manual correction, radiomics, 470 tests |
-| [**CourseLLM**](https://github.com/denis-samatov/course-llm) | LLM / RAG | Source-grounded RAG assistant in use; team project I lead. Golden-QA release gate, streaming/queued API, concurrency control, [production-readiness report](https://github.com/denis-samatov/course-llm/blob/main/docs/production_readiness_audit_report.md) |
 | [**TBMD**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) | Scientific ML | Tensor-based modal decomposition and sparse sensor placement library; nested leave-one-scenario-out Brugge benchmark; [reproducibility guide](https://github.com/denis-samatov/tensor-based-modal-decomposition-method/blob/main/REPRODUCIBILITY.md) including an audit of the superseded arXiv v1 results |
-| [**NAB**](https://github.com/denis-samatov/neighbourhood-algorithm-bayes) | Bayesian inference | `pip install nab-bayes` — MCMC/Gibbs parameter-space appraisal; CI, Docker image, 470+ tests |
 | [**Yandex Workspace MCP**](https://github.com/denis-samatov/yandex-workspace-mcp) | Agent tooling | MCP server for Yandex Disk & Wiki: 50+ typed tools, read-only by default, permission gates, audit logging, contract tests |
+| [**LLM Adviser — case study**](https://github.com/denis-samatov/llm-adviser-case-study) | LLM / RAG architecture | Sanitized architecture of an engineering-knowledge platform in development (team of 5): deterministic ingestion, provenance, traceable retrieval |
+| [**mcp-capguard**](https://github.com/denis-samatov/mcp-capguard) | Agent tooling | pytest plugin that asserts which tools each MCP configuration profile exposes |
+| [**Agentic architectures**](https://github.com/denis-samatov/agentic-architectures) | LLM agents | 23 educational LangChain/LangGraph agent patterns, grouped by the failure each one addresses |
+| [**OCR + LLM document pipeline**](https://github.com/denis-samatov/ocr-llm-document-pipeline) | Document AI | Docling / RapidOCR / Ollama pipeline on a synthetic fixture |
 
-More: [housing knowledge-base RAG assistant](https://github.com/denis-samatov/mkd-rag-assistant) (hybrid retrieval, 37-query retrieval regression: Hit@5 1.00, MRR@10 0.89) · [LLM Adviser case study](https://github.com/denis-samatov/llm-adviser-case-study) (platform in development) · [mcp-capguard](https://github.com/denis-samatov/mcp-capguard).
+## Selected private work
+
+Source code is private (institutional or client work); code walkthroughs are available to hiring teams on request.
+
+- **EPIFAT** — state-registered cardiac CT software (No. 2025610317): Attention U-Net pericardium segmentation, Dice 0.91 on a patient-level split of a 62-patient dataset; GUI + CLI, manual correction, radiomics, 470 tests.
+- **CourseLLM** — source-grounded RAG assistant in use; golden-QA release gate, streaming/queued API, concurrency control. Team project I lead.
+- **Housing knowledge-base RAG assistant** — in use; hybrid BM25 + dense retrieval with reranking, 37-query retrieval regression (Hit@5 1.00, MRR@10 0.89), RAGAS release gate.
+- **NAB** — Bayesian parameter-space appraisal toolkit (MCMC/Gibbs over Voronoi cells), 470+ tests.
 
 ## Merged upstream contributions
 
