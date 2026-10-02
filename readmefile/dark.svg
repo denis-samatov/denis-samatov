@@ -173,7 +173,7 @@
 
     <line x1="40" y1="530" x2="400" y2="530" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
     <text x="70" y="542" fill="#64748B" font-size="8" class="font-mono">github.com/denis-samatov</text>
-    <text x="70" y="555" fill="#64748B" font-size="7.5" class="font-mono">Machine Learning Engineer &#183; Production LLM/RAG &amp; Agentic AI</text>
+    <text x="70" y="555" fill="#64748B" font-size="7.5" class="font-mono">Machine Learning Engineer &#183; LLM/RAG, Agents &amp; Evaluation</text>
     <text x="70" y="568" fill="#64748B" font-size="7.5" class="font-mono">Technical Lead &#183; Scientific ML &amp; Medical Imaging</text>
   </g>
 
@@ -202,7 +202,7 @@
         <text x="522" y="196" fill="#10B981">Machine Learning Engineer
           <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.1867;0.2;1" dur="15s" repeatCount="indefinite" />
         </text>
-        <text x="522" y="196" fill="#0D9488" opacity="0">Production LLM/RAG &amp; Agentic AI
+        <text x="522" y="196" fill="#0D9488" opacity="0">LLM/RAG, Agents &amp; Evaluation
           <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.2001;0.3867;0.4;1" dur="15s" repeatCount="indefinite" />
         </text>
         <text x="522" y="196" fill="#34D399" opacity="0">Technical Lead
@@ -231,7 +231,7 @@
       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.34s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.4s" begin="2.34s" fill="freeze" />
       <svg viewBox="0 0 24 24" x="490" y="266" width="15" height="15"><path stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2M9 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-      <text x="516" y="278" fill="#94A3B8" font-size="13.5" class="font-sans">Leading: <tspan fill="#F8FAFC" font-weight="500">3 AI platforms &#183; five-engineer team</tspan></text>
+      <text x="516" y="278" fill="#94A3B8" font-size="13.5" class="font-sans">Leading: <tspan fill="#F8FAFC" font-weight="500">LLM/RAG systems &#183; teams of 3–5</tspan></text>
     </g>
 
     <g opacity="0">
