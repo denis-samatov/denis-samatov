@@ -30,7 +30,7 @@ Source code is private (institutional or client work); code walkthroughs are ava
 - **EPIFAT** — state-registered cardiac CT software (No. 2025610317): Attention U-Net pericardium segmentation, Dice 0.91 on a patient-level split of a 62-patient dataset; GUI + CLI, manual correction, radiomics, 470 tests.
 - **CourseLLM** — source-grounded RAG assistant in use; golden-QA release gate, streaming/queued API, concurrency control. Team project I lead.
 - **Housing knowledge-base RAG assistant** — in use; hybrid BM25 + dense retrieval with reranking, 37-query retrieval regression (Hit@5 1.00, MRR@10 0.89), RAGAS release gate.
-- **NAB** — Bayesian parameter-space appraisal toolkit (MCMC/Gibbs over Voronoi cells), 470+ tests.
+- **NAB** — Bayesian parameter-space appraisal toolkit (MCMC/Gibbs over Voronoi cells), 540 tests.
 
 ## Merged upstream contributions
 
