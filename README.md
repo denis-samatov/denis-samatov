@@ -34,6 +34,7 @@ Source code is private (institutional or client work); code walkthroughs are ava
 
 ## Merged upstream contributions
 
+- [weaviate/weaviate-python-client #2153](https://github.com/weaviate/weaviate-python-client/pull/2153) — generative DigitalOcean integration (merged 2026-09-07).
 - [dragonflydb/dragonfly #8199](https://github.com/dragonflydb/dragonfly/pull/8199) — `FT.INFO` missing-index wording for RedisVL compatibility, with a regression test (merged 2026-09-01).
 - [wandb/rai-toolkit #24](https://github.com/wandb/rai-toolkit/pull/24) — HR industry preset, dataset selection, docs and tests (merged 2026-09-02).
 - [IBM/docling-pipelines #31](https://github.com/IBM/docling-pipelines/pull/31) — side-effect-free dry runs, with regression and control tests (merged 2026-09-09).
