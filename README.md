@@ -48,6 +48,7 @@ Source code is private (institutional or client work); code walkthroughs are ava
 ## Research
 
 - [arXiv:2607.09687](https://arxiv.org/abs/2607.09687) — *Tensor-Based Modal Decomposition and Sparse Sensor Placement for the Brugge Field Simulation Model* (v1; revised manuscript with nested validation in preparation).
+- Talks (2026): oral presentation at AI4X Accelerate, Singapore; presentation at Data Intelligence in the Oil and Gas Industry, Nizhny Novgorod.
 - Peer-reviewed cardiac MRI radiomics studies: [Digital Diagnostics, 2024](https://jdigitaldiagnostics.com/DD/article/view/630602); Russian Journal of Cardiology, 2026; Siberian Journal of Clinical and Experimental Medicine, 2026.
 
 ## Stack
