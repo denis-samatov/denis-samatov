@@ -41,8 +41,8 @@ Source code is private (institutional or client work); code walkthroughs are ava
 
 ## Experience
 
-- **Machine Learning Engineer / Technical Lead** (teams of 3–5), Analytics and Machine Learning Department, MSUU — Apr 2024 – Present
-- **Data Scientist / Research ML Engineer** (part-time), Heriot-Watt TPU Center — Sep 2024 – Present
+- **Machine Learning Engineer / Technical Lead** (team of 3–4), Analytics and Machine Learning Department, MSUU — Apr 2024 – Present
+- **Data Scientist / Research ML Engineer** (part-time; leads a 5-engineer LLM team), Heriot-Watt TPU Center — Sep 2024 – Present
 - **Machine Learning Engineer**, Cardiology Research Institute — Mar 2021 – May 2026
 
 ## Research
