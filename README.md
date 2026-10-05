@@ -16,7 +16,9 @@ I build ML systems that can be checked: LLM/RAG assistants with release-blocking
 
 | Project | Area | What the repository shows |
 |---|---|---|
+| [**RuMed ICD benchmark**](https://github.com/denis-samatov/rumed-icd-llm) | Medical NLP / LLM evaluation | Public Russian ICD-10 benchmark: TF-IDF vs zero/few-shot prompting vs retrieval, 822 test cases, bootstrap intervals and recorded token usage. LoRA training and vLLM serving results are pending. |
 | [**TBMD**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) | Scientific ML | Tensor-based modal decomposition and sparse sensor placement library; nested leave-one-scenario-out Brugge benchmark; [reproducibility guide](https://github.com/denis-samatov/tensor-based-modal-decomposition-method/blob/main/REPRODUCIBILITY.md) including an audit of the superseded arXiv v1 results |
+| [**NAB / nab-bayes**](https://pypi.org/project/nab-bayes/) | Bayesian inference | Installable Python wheel and source archive for MCMC/Gibbs appraisal over Voronoi cells; development repository is private. |
 | [**Yandex Workspace MCP**](https://github.com/denis-samatov/yandex-workspace-mcp) | Agent tooling | MCP server for Yandex Disk & Wiki: 50+ typed tools, read-only by default, permission gates, audit logging, contract tests |
 | [**LLM Adviser — case study**](https://github.com/denis-samatov/llm-adviser-case-study) | LLM / RAG architecture | Sanitized architecture of an engineering-knowledge platform in development (team of 5): deterministic ingestion, provenance, traceable retrieval |
 | [**mcp-capguard**](https://github.com/denis-samatov/mcp-capguard) | Agent tooling | pytest plugin that asserts which tools each MCP configuration profile exposes |
@@ -25,12 +27,11 @@ I build ML systems that can be checked: LLM/RAG assistants with release-blocking
 
 ## Selected private work
 
-Source code is private (institutional or client work); code walkthroughs are available to hiring teams on request.
+Source code is private (institutional or client work); code walkthroughs are available to hiring teams on request. The summaries below are author-reported; public repositories do not independently establish clinical validation or operational deployment.
 
-- **EPIFAT** — state-registered cardiac CT software (No. 2025610317): Attention U-Net pericardium segmentation, Dice 0.91 on a patient-level split of a 62-patient dataset; GUI + CLI, manual correction, radiomics, 470 tests.
+- **EPIFAT** — state-registered cardiac CT software (No. 2025610317): Attention U-Net pericardium segmentation, reported Dice 0.91 in a single run with patient-level splitting; GUI + CLI, manual correction and radiomics. Training data and held-out predictions are private; this is a research result, not a clinical qualification claim.
 - **CourseLLM** — source-grounded RAG assistant in use; golden-QA release gate, streaming/queued API, concurrency control. Team project I lead.
-- **Housing knowledge-base RAG assistant** — in use; hybrid BM25 + dense retrieval with reranking, 37-query retrieval regression (Hit@5 1.00, MRR@10 0.89), RAGAS release gate.
-- **NAB** — Bayesian parameter-space appraisal toolkit (MCMC/Gibbs over Voronoi cells), 540 tests. Published on PyPI: [`nab-bayes`](https://pypi.org/project/nab-bayes/).
+- **Housing knowledge-base RAG assistant** — in use; hybrid BM25 + dense retrieval with reranking, 37-query retrieval regression (Hit@5 1.00, MRR@10 0.89), RAGAS release gate. These scores describe the fixed regression set; broader retrieval quality and operating scale require separate evidence.
 
 ## Merged upstream contributions
 
