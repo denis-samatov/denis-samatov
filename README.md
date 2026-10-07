@@ -10,6 +10,13 @@
 
 > I build ML systems that can be checked: LLM/RAG assistants with release-blocking evaluation, medical image segmentation with patient-level validation, and scientific ML research software with documented reproducibility.
 
+<p align="center">
+  <a href="Denis_Samatov_CV_ML_Engineer.pdf"><img height="36" alt="CV (PDF)" src="https://img.shields.io/badge/CV%20(PDF)-0D9488?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/denis-samatov/"><img height="36" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge"></a>
+  <a href="https://orcid.org/0009-0000-1821-323X"><img height="36" alt="ORCID" src="https://img.shields.io/badge/ORCID-0D9488?style=for-the-badge&amp;logo=orcid&amp;logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=GvQy91AAAAAJ"><img height="36" alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-10B981?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white"></a>
+</p>
+
 
 ---
 
@@ -96,10 +103,8 @@ Python · PyTorch · scikit-learn · LangChain / LangGraph · MCP · RAGAS · Qd
 ## 📫 <code>Contact</code>
 
 <p align="center">
-  <a href="Denis_Samatov_CV_ML_Engineer.pdf"><img alt="CV (PDF)" src="https://img.shields.io/badge/CV%20(PDF)-0D9488?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/denis-samatov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-10B981?style=flat-square"></a>
-  <a href="https://orcid.org/0009-0000-1821-323X"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0D9488?style=flat-square&amp;logo=orcid&amp;logoColor=white"></a>
-  <a href="https://scholar.google.com/citations?user=GvQy91AAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-10B981?style=flat-square&amp;logo=googlescholar&amp;logoColor=white"></a>
+  <a href="https://t.me/SamatovDS"><img height="36" alt="Telegram @SamatovDS" src="https://img.shields.io/badge/Telegram%20%40SamatovDS-10B981?style=for-the-badge&amp;logo=telegram&amp;logoColor=white"></a>
+  <a href="mailto:denissamatov470@gmail.com"><img height="36" alt="denissamatov470@gmail.com" src="https://img.shields.io/badge/denissamatov470%40gmail.com-0D9488?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
 </p>
 
-> [denissamatov470@gmail.com](mailto:denissamatov470@gmail.com) · Telegram [@SamatovDS](https://t.me/SamatovDS) · Tomsk, Russia — open to remote work and relocation.
+> Tomsk, Russia — open to remote work and relocation.
