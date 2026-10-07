@@ -102,9 +102,4 @@ Python · PyTorch · scikit-learn · LangChain / LangGraph · MCP · RAGAS · Qd
 
 ## 📫 <code>Contact</code>
 
-<p align="center">
-  <a href="https://t.me/SamatovDS"><img height="36" alt="Telegram @SamatovDS" src="https://img.shields.io/badge/Telegram%20%40SamatovDS-10B981?style=for-the-badge&amp;logo=telegram&amp;logoColor=white"></a>
-  <a href="mailto:denissamatov470@gmail.com"><img height="36" alt="denissamatov470@gmail.com" src="https://img.shields.io/badge/denissamatov470%40gmail.com-0D9488?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
-</p>
-
-> Tomsk, Russia — open to remote work and relocation.
+> [denissamatov470@gmail.com](mailto:denissamatov470@gmail.com) · Telegram [@SamatovDS](https://t.me/SamatovDS) · Tomsk, Russia — open to remote work and relocation.
