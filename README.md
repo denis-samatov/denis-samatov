@@ -15,34 +15,6 @@
   <a href="https://scholar.google.com/citations?user=GvQy91AAAAAJ"><img height="36" alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-10B981?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white"></a>
 </p>
 
-## ⚙️ <code>Stack</code>
-
-<p align="center">
-  <img src="readmefile/stack/python.svg" alt="Python" title="Python" width="28" height="28">
-  <img src="readmefile/stack/pytorch.svg" alt="PyTorch" title="PyTorch" width="28" height="28">
-  <img src="readmefile/stack/sklearn.svg" alt="scikit-learn" title="scikit-learn" width="28" height="28">
-  <img src="readmefile/stack/langchain.svg" alt="LangChain" title="LangChain" width="28" height="28">
-  <img src="readmefile/stack/langgraph.svg" alt="LangGraph" title="LangGraph" width="28" height="28">
-  <img src="readmefile/stack/llamaindex.svg" alt="LlamaIndex" title="LlamaIndex" width="28" height="28">
-  <img src="readmefile/stack/mcp.svg" alt="MCP" title="MCP" width="28" height="28">
-  <img src="readmefile/stack/ollama.svg" alt="Ollama" title="Ollama" width="28" height="28">
-  <img src="readmefile/stack/graphrag.svg" alt="GraphRAG" title="GraphRAG" width="28" height="28">
-  <img src="readmefile/stack/bm25.svg" alt="BM25" title="BM25" width="28" height="28">
-  <img src="readmefile/stack/ragas.svg" alt="RAGAS" title="RAGAS" width="28" height="28">
-  <img src="readmefile/stack/qdrant.svg" alt="Qdrant" title="Qdrant" width="28" height="28">
-  <img src="readmefile/stack/pgvector.svg" alt="pgvector" title="pgvector" width="28" height="28">
-  <img src="readmefile/stack/postgres.svg" alt="PostgreSQL" title="PostgreSQL" width="28" height="28">
-  <img src="readmefile/stack/redis.svg" alt="Redis" title="Redis" width="28" height="28">
-  <img src="readmefile/stack/fastapi.svg" alt="FastAPI" title="FastAPI" width="28" height="28">
-  <img src="readmefile/stack/docker.svg" alt="Docker" title="Docker" width="28" height="28">
-  <img src="readmefile/stack/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="28" height="28">
-  <img src="readmefile/stack/prometheus.svg" alt="Prometheus" title="Prometheus" width="28" height="28">
-  <img src="readmefile/stack/pyradiomics.svg" alt="PyRadiomics" title="PyRadiomics" width="28" height="28">
-  <img src="readmefile/stack/ocr.svg" alt="OCR" title="OCR" width="28" height="28">
-  <img src="readmefile/stack/tensor.svg" alt="tensor methods" title="tensor methods" width="28" height="28">
-  <img src="readmefile/stack/mcmc.svg" alt="MCMC" title="MCMC" width="28" height="28">
-</p>
-
 
 ---
 
@@ -113,6 +85,36 @@ Source code is private (institutional or client work); code walkthroughs are ava
 - Peer-reviewed cardiac MRI radiomics studies: [Digital Diagnostics, 2024](https://jdigitaldiagnostics.com/DD/article/view/630602); Russian Journal of Cardiology, 2026; Siberian Journal of Clinical and Experimental Medicine, 2026.
 
 
+
+---
+
+## ⚙️ <code>Stack</code>
+
+<p align="center">
+  <img src="readmefile/stack/python.svg" alt="Python" title="Python" width="28" height="28">
+  <img src="readmefile/stack/pytorch.svg" alt="PyTorch" title="PyTorch" width="28" height="28">
+  <img src="readmefile/stack/sklearn.svg" alt="scikit-learn" title="scikit-learn" width="28" height="28">
+  <img src="readmefile/stack/langchain.svg" alt="LangChain" title="LangChain" width="28" height="28">
+  <img src="readmefile/stack/langgraph.svg" alt="LangGraph" title="LangGraph" width="28" height="28">
+  <img src="readmefile/stack/llamaindex.svg" alt="LlamaIndex" title="LlamaIndex" width="28" height="28">
+  <img src="readmefile/stack/mcp.svg" alt="MCP" title="MCP" width="28" height="28">
+  <img src="readmefile/stack/ollama.svg" alt="Ollama" title="Ollama" width="28" height="28">
+  <img src="readmefile/stack/graphrag.svg" alt="GraphRAG" title="GraphRAG" width="28" height="28">
+  <img src="readmefile/stack/bm25.svg" alt="BM25" title="BM25" width="28" height="28">
+  <img src="readmefile/stack/ragas.svg" alt="RAGAS" title="RAGAS" width="28" height="28">
+  <img src="readmefile/stack/qdrant.svg" alt="Qdrant" title="Qdrant" width="28" height="28">
+  <img src="readmefile/stack/pgvector.svg" alt="pgvector" title="pgvector" width="28" height="28">
+  <img src="readmefile/stack/postgres.svg" alt="PostgreSQL" title="PostgreSQL" width="28" height="28">
+  <img src="readmefile/stack/redis.svg" alt="Redis" title="Redis" width="28" height="28">
+  <img src="readmefile/stack/fastapi.svg" alt="FastAPI" title="FastAPI" width="28" height="28">
+  <img src="readmefile/stack/docker.svg" alt="Docker" title="Docker" width="28" height="28">
+  <img src="readmefile/stack/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="28" height="28">
+  <img src="readmefile/stack/prometheus.svg" alt="Prometheus" title="Prometheus" width="28" height="28">
+  <img src="readmefile/stack/pyradiomics.svg" alt="PyRadiomics" title="PyRadiomics" width="28" height="28">
+  <img src="readmefile/stack/ocr.svg" alt="OCR" title="OCR" width="28" height="28">
+  <img src="readmefile/stack/tensor.svg" alt="tensor methods" title="tensor methods" width="28" height="28">
+  <img src="readmefile/stack/mcmc.svg" alt="MCMC" title="MCMC" width="28" height="28">
+</p>
 
 ---
 
