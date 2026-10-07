@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="206" viewBox="0 0 960 206" role="img">
+<title>TBMD Scientific ML Tensor-based modal decomposition and sparse sensor placement library; nested leave-one-scenario-out Brugge benchmark;</title>
+<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#047857"/><stop offset="1" stop-color="#0F766E"/></linearGradient></defs>
+<rect x="1" y="1" width="958" height="204" rx="18" fill="#F7FAFC" stroke="#D4E2E8"/>
+<path d="M19 1H941Q959 1 959 19V42H1V19Q1 1 19 1Z" fill="#EDF4F7"/>
+<path d="M1 42H959" stroke="#D4E2E8"/>
+<circle cx="24" cy="22" r="5" fill="#EF4444"/>
+<circle cx="42" cy="22" r="5" fill="#F59E0B"/>
+<circle cx="60" cy="22" r="5" fill="#10B981"/>
+<text x="894" y="27" fill="#047857" font-family="DejaVu Sans Mono, monospace" font-size="16" font-weight="400">&lt;/&gt;</text>
+<path d="M18 53V188" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+<text x="900" y="81" fill="#047857" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">↗</text>
+<text x="34" y="82" fill="#122238" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700">TBMD</text>
+<text x="34" y="114" fill="#0F766E" font-family="DejaVu Sans Mono, monospace" font-size="17" font-weight="400">Scientific ML</text>
+<text x="34" y="149" fill="#455A73" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400">Tensor-based modal decomposition and sparse sensor placement library; nested</text>
+<text x="34" y="178" fill="#455A73" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400">leave-one-scenario-out Brugge benchmark;</text>
+</svg>

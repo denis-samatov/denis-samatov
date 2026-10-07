@@ -172,7 +172,6 @@
     </g>
 
     <line x1="40" y1="530" x2="400" y2="530" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-    <text x="70" y="542" fill="#64748B" font-size="8" class="font-mono">github.com/denis-samatov</text>
     <text x="70" y="555" fill="#64748B" font-size="7.5" class="font-mono">Machine Learning Engineer &#183; LLM/RAG, Agents &amp; Evaluation</text>
     <text x="70" y="568" fill="#64748B" font-size="7.5" class="font-mono">Technical Lead &#183; Scientific ML &amp; Medical Imaging</text>
   </g>
@@ -220,12 +219,7 @@
 
     <line x1="460" y1="220" x2="1140" y2="220" stroke="rgba(255,255,255,0.07)" stroke-width="1" />
 
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.2s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.4s" begin="2.2s" fill="freeze" />
-      <svg viewBox="0 0 24 24" x="490" y="240" width="15" height="15"><path stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M12 2a8 8 0 0 0-8 8c0 5.25 8 12 8 12s8-6.75 8-12a8 8 0 0 0-8-8zm0 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/></svg>
-      <text x="516" y="252" fill="#94A3B8" font-size="13.5" class="font-sans">Location: <tspan fill="#F8FAFC" font-weight="500">Tomsk, Russia &#183; remote-friendly</tspan></text>
-    </g>
+    
 
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.34s" fill="freeze" />
@@ -248,12 +242,7 @@
       <text x="516" y="330" fill="#94A3B8" font-size="13.5" class="font-sans">Track record: <tspan fill="#F8FAFC" font-weight="500">5+ research outputs &#183; registered software &#183; awards</tspan></text>
     </g>
 
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.76s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.4s" begin="2.76s" fill="freeze" />
-      <svg viewBox="0 0 24 24" x="490" y="344" width="15" height="15"><path stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2zm0 4l8 5 8-5"/></svg>
-      <text x="516" y="356" fill="#94A3B8" font-size="13.5" class="font-sans">Email: <tspan fill="#34D399" font-weight="500">denissamatov470@gmail.com</tspan></text>
-    </g>
+    
 
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.9s" fill="freeze" />
@@ -333,26 +322,9 @@
       <text x="1025.0" y="466" fill="#34D399" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">Qdrant</text>
     </g>
 
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="3.95s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.4s" begin="3.95s" fill="freeze" />
-      <circle cx="508" cy="502" r="18" fill="none" stroke="#94A3B8" stroke-opacity="0.35" />
-      <svg viewBox="0 0 24 24" x="498" y="492" width="20" height="20"><path stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
-      <text x="508" y="536" text-anchor="middle" fill="#64748B" font-size="10" class="font-mono">github</text>
-    </g>
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="4.05s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.4s" begin="4.05s" fill="freeze" />
-      <circle cx="564" cy="502" r="18" fill="none" stroke="#94A3B8" stroke-opacity="0.35" />
-      <svg viewBox="0 0 24 24" x="554" y="492" width="20" height="20"><path stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"/></svg>
-      <text x="564" y="536" text-anchor="middle" fill="#64748B" font-size="10" class="font-mono">telegram</text>
-    </g>
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="4.15s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.4s" begin="4.15s" fill="freeze" />
-      <circle cx="620" cy="502" r="18" fill="none" stroke="#94A3B8" stroke-opacity="0.35" />
-      <svg viewBox="0 0 24 24" x="610" y="492" width="20" height="20"><path stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2zm0 4l8 5 8-5"/></svg>
-      <text x="620" y="536" text-anchor="middle" fill="#64748B" font-size="10" class="font-mono">email</text>
-    </g>
+    
+    
+    
   </g>
 </svg>
+

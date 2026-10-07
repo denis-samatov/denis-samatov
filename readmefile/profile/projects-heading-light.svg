@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="124" viewBox="0 0 960 124" role="img">
+<title>Public projects</title>
+<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#047857"/><stop offset="1" stop-color="#0F766E"/></linearGradient></defs>
+<rect x="1" y="1" width="958" height="122" rx="18" fill="#F7FAFC" stroke="#D4E2E8"/>
+<path d="M19 1H941Q959 1 959 19V42H1V19Q1 1 19 1Z" fill="#EDF4F7"/>
+<path d="M1 42H959" stroke="#D4E2E8"/>
+<circle cx="24" cy="22" r="5" fill="#EF4444"/>
+<circle cx="42" cy="22" r="5" fill="#F59E0B"/>
+<circle cx="60" cy="22" r="5" fill="#10B981"/>
+<text x="894" y="27" fill="#047857" font-family="DejaVu Sans Mono, monospace" font-size="16" font-weight="400">&lt;/&gt;</text>
+<text x="96" y="27" fill="#455A73" font-family="DejaVu Sans Mono, monospace" font-size="14" font-weight="400">Public projects</text>
+<text x="32" y="87" fill="#047857" font-family="DejaVu Sans Mono, monospace" font-size="23" font-weight="400">01</text>
+<text x="85" y="87" fill="#122238" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="700">Public projects</text>
+<path d="M32 106H928" stroke="#D4E2E8"/>
+<path d="M32 106H178" stroke="url(#accent)" stroke-width="3"/>
+</svg>
