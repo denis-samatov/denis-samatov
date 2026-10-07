@@ -92,29 +92,23 @@ Source code is private (institutional or client work); code walkthroughs are ava
 ## ⚙️ <code>Stack</code>
 
 <p align="center">
-  <img src="readmefile/stack/python.svg" alt="Python" title="Python" width="64" height="64">
-  <img src="readmefile/stack/pytorch.svg" alt="PyTorch" title="PyTorch" width="64" height="64">
-  <img src="readmefile/stack/sklearn.svg" alt="scikit-learn" title="scikit-learn" width="64" height="64">
-  <img src="readmefile/stack/langchain.svg" alt="LangChain" title="LangChain" width="64" height="64">
-  <img src="readmefile/stack/langgraph.svg" alt="LangGraph" title="LangGraph" width="64" height="64">
-  <img src="readmefile/stack/mcp.svg" alt="MCP" title="MCP" width="64" height="64">
-</p>
-
-<p align="center">
-  <img src="readmefile/stack/ragas.svg" alt="RAGAS" title="RAGAS" width="64" height="64">
-  <img src="readmefile/stack/qdrant.svg" alt="Qdrant" title="Qdrant" width="64" height="64">
-  <img src="readmefile/stack/pgvector.svg" alt="pgvector" title="pgvector" width="64" height="64">
-  <img src="readmefile/stack/postgres.svg" alt="PostgreSQL" title="PostgreSQL" width="64" height="64">
-  <img src="readmefile/stack/redis.svg" alt="Redis" title="Redis" width="64" height="64">
-  <img src="readmefile/stack/fastapi.svg" alt="FastAPI" title="FastAPI" width="64" height="64">
-</p>
-
-<p align="center">
-  <img src="readmefile/stack/docker.svg" alt="Docker" title="Docker" width="64" height="64">
-  <img src="readmefile/stack/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="64" height="64">
-  <img src="readmefile/stack/pyradiomics.svg" alt="PyRadiomics" title="PyRadiomics" width="64" height="64">
-  <img src="readmefile/stack/tensor.svg" alt="tensor methods" title="tensor methods" width="64" height="64">
-  <img src="readmefile/stack/mcmc.svg" alt="MCMC" title="MCMC" width="64" height="64">
+  <img src="readmefile/stack/python.svg" alt="Python" title="Python" width="32" height="32">
+  <img src="readmefile/stack/pytorch.svg" alt="PyTorch" title="PyTorch" width="32" height="32">
+  <img src="readmefile/stack/sklearn.svg" alt="scikit-learn" title="scikit-learn" width="32" height="32">
+  <img src="readmefile/stack/langchain.svg" alt="LangChain" title="LangChain" width="32" height="32">
+  <img src="readmefile/stack/langgraph.svg" alt="LangGraph" title="LangGraph" width="32" height="32">
+  <img src="readmefile/stack/mcp.svg" alt="MCP" title="MCP" width="32" height="32">
+  <img src="readmefile/stack/ragas.svg" alt="RAGAS" title="RAGAS" width="32" height="32">
+  <img src="readmefile/stack/qdrant.svg" alt="Qdrant" title="Qdrant" width="32" height="32">
+  <img src="readmefile/stack/pgvector.svg" alt="pgvector" title="pgvector" width="32" height="32">
+  <img src="readmefile/stack/postgres.svg" alt="PostgreSQL" title="PostgreSQL" width="32" height="32">
+  <img src="readmefile/stack/redis.svg" alt="Redis" title="Redis" width="32" height="32">
+  <img src="readmefile/stack/fastapi.svg" alt="FastAPI" title="FastAPI" width="32" height="32">
+  <img src="readmefile/stack/docker.svg" alt="Docker" title="Docker" width="32" height="32">
+  <img src="readmefile/stack/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="32" height="32">
+  <img src="readmefile/stack/pyradiomics.svg" alt="PyRadiomics" title="PyRadiomics" width="32" height="32">
+  <img src="readmefile/stack/tensor.svg" alt="tensor methods" title="tensor methods" width="32" height="32">
+  <img src="readmefile/stack/mcmc.svg" alt="MCMC" title="MCMC" width="32" height="32">
 </p>
 
 
