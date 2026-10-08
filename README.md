@@ -61,6 +61,7 @@ Source code is private (institutional or client work); code walkthroughs are ava
 
 ## 🔀 <code>Merged upstream contributions</code>
 
+- [weaviate/weaviate-python-client #2186](https://github.com/weaviate/weaviate-python-client/pull/2186) — read-only backup permissions: construction and role parsing (merged 2026-10-08).
 - [weaviate/weaviate-python-client #2153](https://github.com/weaviate/weaviate-python-client/pull/2153) — generative DigitalOcean integration (merged 2026-09-07).
 - [dragonflydb/dragonfly #8199](https://github.com/dragonflydb/dragonfly/pull/8199) — `FT.INFO` missing-index wording for RedisVL compatibility, with a regression test (merged 2026-09-01).
 - [wandb/rai-toolkit #24](https://github.com/wandb/rai-toolkit/pull/24) — HR industry preset, dataset selection, docs and tests (merged 2026-09-02).
