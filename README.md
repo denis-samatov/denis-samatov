@@ -22,12 +22,23 @@
 
 | Project | Area | What the repository shows |
 |---|---|---|
-| [**RuMed ICD benchmark**](https://github.com/denis-samatov/rumed-icd-llm) | Medical NLP / LLM evaluation | Public Russian ICD-10 benchmark: TF-IDF vs zero/few-shot prompting vs retrieval, 822 test cases, bootstrap intervals and recorded token usage. LoRA training and vLLM serving results are pending. |
+| [**LocalDesk**](https://github.com/denis-samatov/localdesk) | Applied ML / software engineering | CPU text classification with abstention, calibration, immutable model registry and documented quality gates. Optional GPU training is experimental. |
 | [**TBMD**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) | Scientific ML | Tensor-based modal decomposition and sparse sensor placement library; nested leave-one-scenario-out Brugge benchmark; [reproducibility guide](https://github.com/denis-samatov/tensor-based-modal-decomposition-method/blob/main/REPRODUCIBILITY.md) including an audit of the superseded arXiv v1 results |
-| [**NAB / nab-bayes**](https://pypi.org/project/nab-bayes/) | Bayesian inference | Installable Python wheel and source archive for MCMC/Gibbs appraisal over Voronoi cells; development repository is private. |
+| [**RuMed ICD benchmark**](https://github.com/denis-samatov/rumed-icd-llm) | Medical NLP / LLM evaluation | Public Russian ICD-10 benchmark: TF-IDF vs zero/few-shot prompting vs retrieval, 822 test cases, bootstrap intervals and recorded token usage. LoRA training and vLLM serving results are pending. |
+| [**LLM Systems Lab**](https://github.com/denis-samatov/llm-systems-lab) | ML systems / benchmarking | Reproducible CPU inference and quantization experiments; results apply to recorded hardware and workloads. |
 | [**Yandex Workspace MCP**](https://github.com/denis-samatov/yandex-workspace-mcp) | Agent tooling | MCP server for Yandex Disk & Wiki: 50+ typed tools, read-only by default, permission gates, audit logging, contract tests |
-| [**LLM Adviser — case study**](https://github.com/denis-samatov/llm-adviser-case-study) | LLM / RAG architecture | Sanitized architecture of an engineering-knowledge platform in development (team of 5): deterministic ingestion, provenance, traceable retrieval |
 | [**mcp-capguard**](https://github.com/denis-samatov/mcp-capguard) | Agent tooling | pytest plugin that asserts which tools each MCP configuration profile exposes |
+
+Code, workflows and frozen-result records have different evidential scopes.
+A workflow file or a local regression pass alone is not proof of deployment.
+
+### Supporting case studies and references
+
+| Project | Area | What the repository shows |
+|---|---|---|
+| [**EviGraph**](https://github.com/denis-samatov/evigraph) | Retrieval / research engineering | Local evidence graph and retrieval experiments; research results and the local demonstration do not establish a publicly operated service. |
+| [**NAB / nab-bayes**](https://pypi.org/project/nab-bayes/) | Bayesian inference | Installable Python wheel and source archive for MCMC/Gibbs appraisal over Voronoi cells; development repository is private. |
+| [**LLM Adviser — case study**](https://github.com/denis-samatov/llm-adviser-case-study) | LLM / RAG architecture | Sanitized architecture of an engineering-knowledge platform in development (team of 5): deterministic ingestion, provenance, traceable retrieval |
 | [**Agentic architectures**](https://github.com/denis-samatov/agentic-architectures) | LLM agents | 23 educational LangChain/LangGraph agent patterns, grouped by the failure each one addresses |
 | [**OCR + LLM document pipeline**](https://github.com/denis-samatov/ocr-llm-document-pipeline) | Document AI | Docling / RapidOCR / Ollama pipeline on a synthetic fixture |
 
