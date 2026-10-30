@@ -133,3 +133,7 @@ Source code is private (institutional or client work); code walkthroughs are ava
 ## 📫 <code>Contact</code>
 
 > [denissamatov470@gmail.com](mailto:denissamatov470@gmail.com) · Telegram [@SamatovDS](https://t.me/SamatovDS) · Tomsk, Russia — open to remote work and relocation.
+
+## Public content checks
+
+Run `python .ci/check_content.py` to check local document links and heading anchors, balanced fenced examples, and linked SVG XML. The dependency-free CI runs the same command on pushes and pull requests. It does not contact external URLs or verify private-system, employment, model-effectiveness or deployment claims.
