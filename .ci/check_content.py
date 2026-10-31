@@ -10,7 +10,7 @@ from urllib.parse import unquote, urlsplit
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
-DOCUMENTS = ["README.md"]
+DOCUMENTS = ["README.md", "docs/selected-projects.md"]
 
 
 def prose(text: str, path: Path) -> str:
