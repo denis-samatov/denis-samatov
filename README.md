@@ -24,10 +24,13 @@
 |---|---|---|
 | [**LocalDesk**](https://github.com/denis-samatov/localdesk) | Applied ML / software engineering | CPU text classification with abstention, calibration, immutable model registry and documented quality gates. Optional GPU training is experimental. |
 | [**TBMD**](https://github.com/denis-samatov/tensor-based-modal-decomposition-method) | Scientific ML | Tensor-based modal decomposition and sparse sensor placement library; nested leave-one-scenario-out Brugge benchmark; [reproducibility guide](https://github.com/denis-samatov/tensor-based-modal-decomposition-method/blob/main/REPRODUCIBILITY.md) including an audit of the superseded arXiv v1 results |
-| [**RuMed ICD benchmark**](https://github.com/denis-samatov/rumed-icd-llm) | Medical NLP / LLM evaluation | Public Russian ICD-10 benchmark: TF-IDF vs zero/few-shot prompting vs retrieval, 822 test cases, bootstrap intervals and recorded token usage. LoRA training and vLLM serving results are pending. |
-| [**LLM Systems Lab**](https://github.com/denis-samatov/llm-systems-lab) | ML systems / benchmarking | Reproducible CPU inference and quantization experiments; results apply to recorded hardware and workloads. |
+| [**RuMed ICD benchmark**](https://github.com/denis-samatov/rumed-icd-llm) | Medical NLP / LLM evaluation | Public Russian ICD-10 benchmark: TF-IDF, prompted/retrieval methods and recorded Qwen3 LoRA/Kev experiments on 822 test cases, with bootstrap intervals. GPU throughput and clinical validation remain unqualified. |
+| [**LLM Systems Lab**](https://github.com/denis-samatov/llm-systems-lab) | ML systems / benchmarking | Single/DDP/FSDP2 training, checkpoint recovery and reference LLM inference mechanisms with CPU equivalence tests; GPU scaling remains unqualified. |
 | [**Yandex Workspace MCP**](https://github.com/denis-samatov/yandex-workspace-mcp) | Agent tooling | MCP server for Yandex Disk & Wiki: 50+ typed tools, read-only by default, permission gates, audit logging, contract tests |
 | [**mcp-capguard**](https://github.com/denis-samatov/mcp-capguard) | Agent tooling | pytest plugin that asserts which tools each MCP configuration profile exposes |
+
+Read the [six engineering and research case studies](docs/selected-projects.md)
+for my contribution, source-linked evidence, limitations and concise resume wording.
 
 Code, workflows and frozen-result records have different evidential scopes.
 A workflow file or a local regression pass alone is not proof of deployment.
