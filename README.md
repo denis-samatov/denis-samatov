@@ -14,7 +14,10 @@
 
 **Follow here on GitHub** for new releases, runnable demos, and evaluation results.
 
-**New release:** [GitHub PR Radar v0.2.0](https://github.com/denis-samatov/github-pr-radar/releases/tag/v0.2.0) turns stale pull requests, failed checks, and review signals into a Markdown triage report.
+**Latest releases**
+
+- [SourceBoard v0.1.0](https://github.com/denis-samatov/sourceboard/releases/tag/v0.1.0) — try a local walkthrough from transcript search to a cited Markdown dossier.
+- [GitHub PR Radar v0.2.0](https://github.com/denis-samatov/github-pr-radar/releases/tag/v0.2.0) — turn stale pull requests, failed checks, and review signals into a Markdown triage report.
 
 ## Start with a demo or benchmark
 
