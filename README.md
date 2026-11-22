@@ -16,6 +16,7 @@
 
 **Latest releases**
 
+- [LLM Systems Lab v0.1.0](https://github.com/denis-samatov/llm-systems-lab/releases/tag/v0.1.0) — compare three decoding paths on CPU and count the prefill work saved by prefix reuse.
 - [Agent Reliability Platform v0.1.0](https://github.com/denis-samatov/agent-reliability-platform/releases/tag/v0.1.0) — run the local SQLite demo and inspect its event log.
 - [SourceBoard v0.1.0](https://github.com/denis-samatov/sourceboard/releases/tag/v0.1.0) — try a local walkthrough from transcript search to a cited Markdown dossier.
 - [GitHub PR Radar v0.2.0](https://github.com/denis-samatov/github-pr-radar/releases/tag/v0.2.0) — turn stale pull requests, failed checks, and review signals into a Markdown triage report.
