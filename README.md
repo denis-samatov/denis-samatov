@@ -4,13 +4,15 @@
   <img alt="Denis Samatov — Machine Learning Engineer & Technical Lead" src="readmefile/dark.svg" width="100%">
 </picture>
 
-# Denis Samatov
+<p align="center">
+  <a href="Denis_Samatov_CV_ML_Engineer.pdf"><img height="36" alt="CV (PDF)" src="https://img.shields.io/badge/CV%20(PDF)-0D9488?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/denis-samatov/"><img height="36" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge"></a>
+  <a href="https://orcid.org/0009-0000-1821-323X"><img height="36" alt="ORCID" src="https://img.shields.io/badge/ORCID-0D9488?style=for-the-badge&amp;logo=orcid&amp;logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=GvQy91AAAAAJ"><img height="36" alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-10B981?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white"></a>
+  <a href="mailto:denissamatov470@gmail.com"><img height="36" alt="Email" src="https://img.shields.io/badge/Email-0D9488?style=for-the-badge"></a>
+</p>
 
-**Machine Learning Engineer & Technical Lead**
-
-I build LLM agents and RAG systems, and work on reproducible ML for scientific computing and medical imaging. I share runnable demos, regression tests, and benchmark results that show where a method works and where it breaks.
-
-**Follow here on GitHub** for new releases, evaluation examples, and reproducible benchmarks.
+**Follow here on GitHub** for new releases, runnable demos, and evaluation results.
 
 ## Start with a demo or benchmark
 
@@ -62,18 +64,16 @@ I build LLM agents and RAG systems, and work on reproducible ML for scientific c
 
 ## Research and collaboration
 
-My research includes **EPIFAT**, state-registered software for cardiac CT segmentation and epicardial fat radiomics (No. 2025610317), [cardiac MRI radiomics](https://jdigitaldiagnostics.com/DD/article/view/630602), and [tensor methods for sparse sensing](https://arxiv.org/abs/2607.09687). The TBMD repository documents the revised benchmark and reproducibility status of the preprint.
+My research includes **EPIFAT**, state-registered software for cardiac CT segmentation and epicardial fat radiomics (No. 2025610317), [cardiac MRI radiomics](https://jdigitaldiagnostics.com/DD/article/view/630602), and [tensor methods for sparse sensing](https://arxiv.org/abs/2607.09687).
 
-I'm open to collaborating on agent evaluation, reproducible scientific ML, and medical imaging workflows. For project-specific feedback or reproducibility reports, open an issue in the relevant repository.
-
-[CV (PDF)](Denis_Samatov_CV_ML_Engineer.pdf) · [LinkedIn](https://www.linkedin.com/in/denis-samatov/) · [ORCID](https://orcid.org/0009-0000-1821-323X) · [Google Scholar](https://scholar.google.com/citations?user=GvQy91AAAAAJ) · [Email](mailto:denissamatov470@gmail.com)
+For feedback, reproducibility reports, or collaboration on a project, open an issue in its repository.
 
 <details>
 <summary>Professional experience and additional projects</summary>
 
-- **MSUU** — Machine Learning Engineer / Technical Lead. Team projects include CourseLLM and a housing knowledge-base assistant with retrieval and answer quality gates.
-- **Heriot-Watt TPU Center** — Research ML Engineer. Tensor methods for sparse sensing and engineering knowledge retrieval.
-- **Cardiology Research Institute** — Machine Learning Engineer. CT/MRI segmentation, radiomic feature extraction, and clinical decision support research.
+- **MSUU** — CourseLLM and a housing knowledge-base assistant with retrieval and answer quality gates.
+- **Heriot-Watt TPU Center** — Sparse sensing for reservoir simulations and knowledge retrieval for engineering documentation.
+- **Cardiology Research Institute** — Clinical decision support research using CT and MRI.
 
 [Evidence graphs and retrieval](https://github.com/denis-samatov/evigraph) · [Bayesian inference on PyPI](https://pypi.org/project/nab-bayes/) · [OCR and document AI](https://github.com/denis-samatov/ocr-llm-document-pipeline)
 
